@@ -4,9 +4,9 @@
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 [![Powered by data.gov.hk](https://img.shields.io/badge/Powered%20by-data.gov.hk-blue)](https://data.gov.hk/en/)
-[![MIT License](https://img.shields.io/github/license/EaseParkHK/EaseParkHK?color=yellow)](https://github.com/EaseParkHK/EaseParkHK/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/github/license/EaseParkHK/IT114115-FYP-EaseParkHK?color=yellow)](https://github.com/EaseParkHK/IT114115-FYP-EaseParkHK/blob/main/LICENSE)
 
-[![Code Size](https://img.shields.io/github/languages/code-size/EaseParkHK/EaseParkHK?style=flat-square&logo=github)](https://github.com/EaseParkHK/EaseParkHK)
+[![Code Size](https://img.shields.io/github/languages/code-size/EaseParkHK/IT114115-FYP-EaseParkHK?style=flat-square&logo=github)](https://github.com/EaseParkHK/IT114115-FYP-EaseParkHK)
 
 **EaseParkHK** is a Flask-based car park vacancy system providing real-time parking availability for car parks across Hong Kong districts. It offers an intuitive interface to help users find available parking, view traffic information, check road conditions, and interact with an AI assistant for parking queries.
 
