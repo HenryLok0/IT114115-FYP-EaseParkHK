@@ -1,4 +1,4 @@
-# EaseParkHK
+# EaseParkHK <img src="icon.png" alt="icon" width="40" /> 
 
 [![Flask 3.1.0](https://img.shields.io/badge/Flask-3.1.0-000?logo=flask)](https://flask.palletsprojects.com/)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
