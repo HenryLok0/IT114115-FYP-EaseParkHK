@@ -53,7 +53,7 @@ This project is developed as part of the Final Year Project for the [Higher Dipl
     flask --debug run --host=0.0.0.0
     ```
 
-## Private Key Customiz
+## Private Key Customize
 
 - __init__.py (line 36) [GOOGLE_GENAI_API_KEY](app/__init__.py) (Replace Your Google Gemini Key)
 - config.py (line 6) [postgresql://postgres:postgres@postgresdb:5432/postgres](app/config.py) (Replace Your database link)
