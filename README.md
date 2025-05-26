@@ -21,7 +21,7 @@ This project is developed as part of the Final Year Project for the [Higher Dipl
 - **Meter parking space availability**.
 - **Traffic camera feeds** for real-time road monitoring.
 - **Traffic notices** for road closures, accidents, and alerts.
-- **AI assistant** for car park vacancy queries.
+- **AI assistant** for car park vacancy queries. 
 - **Filter by vehicle type** (e.g., private cars, motorcycles).
 - **Detailed car park info** (address, contact, website).
 - **Interactive map** showing car park and meter locations.
@@ -54,7 +54,12 @@ This project is developed as part of the Final Year Project for the [Higher Dipl
     ```bash
     flask --debug run --host=0.0.0.0
     ```
-    
+
+## Private Key Customiz
+
+- __init__.py (line 36) [GOOGLE_GENAI_API_KEY](app/__init__.py) (Replace Your Google Gemini Key)
+- config.py (line 6) [postgresql://postgres:postgres@postgresdb:5432/postgres](app/config.py) (Replace Your database link)
+
 ## Ports and Services
 
 - Port 5000: EaseParkHK website (main application)
