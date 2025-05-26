@@ -8,10 +8,7 @@
 
 [![Code Size](https://img.shields.io/github/languages/code-size/HenryLok0/IT114115-FYP-EaseParkHK?style=flat-square&logo=github)](https://github.com/HenryLok0/IT114115-FYP-EaseParkHK)
 
-**EaseParkHK** is a Flask-based car park vacancy system providing real-time parking availability for car parks across Hong Kong districts. It offers an intuitive interface to help users find available parking, view traffic information, check road conditions, and interact with an AI assistant for parking queries.
-
-**Academic Context**  
-This project is developed as part of the Final Year Project for the [Higher Diploma in Cloud and Data Centre Administration](https://www.vtc.edu.hk/admission/en/programme/it114115-higher-diploma-in-cloud-and-data-centre-administration/) at the Hong Kong Institute of Vocational Education (IVE).
+**EaseParkHK** is a Flask-based car park vacancy system providing real-time parking availability for Hong Kong districts. This project was developed as part of the Final Year Project for the [Higher Diploma in Cloud and Data Centre Administration](https://www.vtc.edu.hk/admission/en/programme/it114115-higher-diploma-in-cloud-and-data-centre-administration/) at the Hong Kong Institute of Vocational Education (IVE).
 
 ## Features
 
@@ -53,10 +50,11 @@ This project is developed as part of the Final Year Project for the [Higher Dipl
     flask --debug run --host=0.0.0.0
     ```
 
-## Private Key Customize
+## Environment Variables
 
-- __init__.py (line 36) [GOOGLE_GENAI_API_KEY](app/__init__.py) (Replace Your Google Gemini Key)
-- config.py (line 6) [postgresql://postgres:postgres@postgresdb:5432/postgres](app/config.py) (Replace Your database link)
+Set the following environment variables before running the application:
+- `GOOGLE_GENAI_API_KEY`: Your Google Gemini API key, obtained from [Google Cloud Console](https://console.cloud.google.com/).
+- `DATABASE_URL`: Your PostgreSQL database URL, e.g., `postgresql://user:password@localhost:5432/dbname`.
 
 ## Ports and Services
 
