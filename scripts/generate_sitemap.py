@@ -140,34 +140,23 @@ def render_sitemap(entries: list[tuple[str, str, str]]) -> str:
     return '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_body + "\n"
 
 
-def render_robots() -> str:
-    return f"User-agent: *\nAllow: /\n\nSitemap: {BASE_URL}/sitemap.xml\n"
-
-
-def write_outputs(content: str, robots: str) -> None:
+def write_outputs(content: str) -> Path:
+    """Write sitemap.xml to docs/ for GitHub Pages (this repo publishes only that file)."""
     repo_root = Path(__file__).resolve().parent.parent
-    targets = [
-        repo_root / "sitemap.xml",
-        repo_root / "app" / "static" / "sitemap.xml",
-        repo_root / "app" / "static" / "robots.txt",
-        repo_root / "robots.txt",
-    ]
-    for path in targets:
-        path.parent.mkdir(parents=True, exist_ok=True)
-        if path.name == "robots.txt":
-            path.write_text(robots, encoding="utf-8")
-        else:
-            path.write_text(content, encoding="utf-8")
-        print(f"Wrote {path}")
+    out = repo_root / "docs" / "sitemap.xml"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(content, encoding="utf-8")
+    print(f"Wrote {out}")
+    return out
 
 
 def main() -> int:
     try:
         entries = build_url_entries()
         xml = render_sitemap(entries)
-        robots = render_robots()
-        write_outputs(xml, robots)
+        write_outputs(xml)
         print(f"Generated {len(entries)} URLs for {BASE_URL}")
+        print("GitHub Pages will serve: docs/sitemap.xml")
         return 0
     except Exception as exc:
         print(f"Error: {exc}", file=sys.stderr)
