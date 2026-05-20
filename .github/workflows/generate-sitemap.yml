@@ -33,4 +33,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update sitemap.xml for GitHub Pages"
-          file_pattern: docs/sitemap.xml
+          file_pattern: |
+            docs/sitemap.xml
+            docs/google*.html
