@@ -1,5 +1,5 @@
 from datetime import datetime
-from flask import render_template, jsonify, flash, redirect, url_for, request, g, session
+from flask import render_template, jsonify, flash, redirect, url_for, request, g, session, send_from_directory
 import requests
 from flask_login import login_user, logout_user, current_user, login_required
 from urllib.parse import urlparse
@@ -82,6 +82,17 @@ def mmetered_parking_spaces_hong_kong_island():
 @app.route('/privacy_policy')
 def privacy_policy():
     return render_template('privacy_policy.html.j2')
+
+
+@app.route('/sitemap.xml')
+def sitemap_xml():
+    return send_from_directory(app.static_folder, 'sitemap.xml', mimetype='application/xml')
+
+
+@app.route('/robots.txt')
+def robots_txt():
+    return send_from_directory(app.static_folder, 'robots.txt', mimetype='text/plain')
+
 
 def is_chinese(text):
     return any('\u4e00' <= char <= '\u9fff' for char in text)

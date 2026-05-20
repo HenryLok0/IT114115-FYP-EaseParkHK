@@ -1,0 +1,40 @@
+name: Generate sitemap
+
+on:
+  schedule:
+    # Daily at 02:00 UTC (10:00 HKT)
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate sitemap.xml
+        env:
+          SITE_BASE_URL: https://easeparkhk.henrylok.me
+        run: python scripts/generate_sitemap.py
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update sitemap.xml and robots.txt"
+          file_pattern: |
+            sitemap.xml
+            robots.txt
+            app/static/sitemap.xml
+            app/static/robots.txt
