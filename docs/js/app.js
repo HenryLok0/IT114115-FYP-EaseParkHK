@@ -134,6 +134,17 @@ function stripHtml(html) {
   return (node.textContent || "").replace(/\s+/g, " ").trim();
 }
 
+function noticeSnippet(title, html) {
+  let snippet = stripHtml(html);
+  if (title) snippet = snippet.split(title).join(" ");
+  snippet = snippet
+    .replace(/^運輸署公告\s*/g, "")
+    .replace(/^TRANSPORT DEPARTMENT NOTICE\s*/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  return snippet;
+}
+
 function meterHeader(key) {
   const map = {
     District: t("district"),
@@ -297,6 +308,26 @@ function setQuery(query) {
   location.hash = qs ? `${current.path}?${qs}` : current.path;
 }
 
+function filtersActive(query) {
+  return Boolean(
+    (query.get("q") || "").trim() ||
+      (query.get("region") && query.get("region") !== "all") ||
+      (query.get("district") && query.get("district") !== "all") ||
+      query.get("status") === "all" ||
+      query.get("status") === "CLOSED" ||
+      query.get("na") === "1" ||
+      (query.get("vehicle") && query.get("vehicle") !== "privateCar")
+  );
+}
+
+function clearFilters() {
+  const query = new URLSearchParams();
+  const current = route().query;
+  if (current.get("view") === "map" || route().path === "/map") query.set("view", "map");
+  if (state.here) query.set("sort", "near");
+  setQuery(query);
+}
+
 function filterParks(parks, query) {
   const vehicle = query.get("vehicle") || "privateCar";
   const region = query.get("region") || "all";
@@ -381,20 +412,20 @@ function filterBar(query, parksForDistricts) {
 
 function parkCard(park, vehicle) {
   const shown = park._shown;
-  const occ = occupancyText(park, vehicle);
   const yhat = park.forecast && vehicle === "privateCar" ? park.forecast.persistence : null;
   const dist = park.dist != null ? t("km", { n: park.dist.toFixed(1) }) : "";
   const saved = state.favorites.includes(park.id);
   const closed = park.status === "CLOSED";
+  const showForecast =
+    yhat != null && !closed && shown.n != null && Number(yhat) !== shown.n;
   return `<article class="park-card ${closed ? "is-closed" : ""}" data-park="${park.id}">
     <div class="vacancy-box ${shown.cls}"><strong>${shown.text}</strong><span>${t("vacancy")}</span></div>
     <div>
       <h2><a href="#/park/${encodeURIComponent(park.id)}">${park.name || park.id}</a></h2>
       <p class="sub">${[park.district, dist].filter(Boolean).join(" · ")}
-        <span class="pill ${closed ? "bad" : park.status === "OPEN" ? "good" : "na"}">${statusLabel(park.status)}</span>
+        ${park.status !== "OPEN" ? `<span class="pill ${closed ? "bad" : "na"}">${statusLabel(park.status)}</span>` : ""}
       </p>
-      ${occ ? `<p class="sub">${occ}</p>` : ""}
-      ${yhat != null && !closed ? `<p class="forecast">${t("forecast30")}: ${yhat}</p>` : ""}
+      ${showForecast ? `<p class="forecast">${t("forecast30")}: ${yhat}</p>` : ""}
     </div>
     <button class="icon-btn ${saved ? "on" : ""}" data-fav="${park.id}" title="${saved ? t("unfavorite") : t("favorite")}" aria-label="${saved ? t("unfavorite") : t("favorite")}">${saved ? "★" : "☆"}</button>
   </article>`;
@@ -418,10 +449,9 @@ function findView(query, forceMap) {
   const { favs, rest, all, sort } = sortParks(filtered, query);
   const start = (page - 1) * PAGE_SIZE;
   const slice = rest.slice(start, start + PAGE_SIZE);
-  return `<section class="hero">
-      <h1>${t("hero")}</h1>
-      <p>${t("hero_sub")}</p>
-    </section>
+  const active = filtersActive(query);
+  const clearBtn = active ? `<button type="button" class="ghost" id="clear-btn">${t("clear")}</button>` : "";
+  return `${view === "map" ? "" : `<p class="lede">${t("hero")}</p>`}
     ${filterBar(query)}
     <div class="toolbar">
       <div class="seg">
@@ -435,13 +465,14 @@ function findView(query, forceMap) {
           <option value="near" ${sort === "near" ? "selected" : ""}>${t("sort_near")}</option>
         </select>
       </label>
-      <button type="button" class="ghost" id="na-btn">${query.get("na") === "1" ? t("hide_na") : t("show_na")}</button>
+      <label class="check"><input type="checkbox" id="na-check" ${query.get("na") === "1" ? "checked" : ""}> ${t("show_na")}</label>
+      ${clearBtn}
     </div>
-    <p class="meta-row">${t("results", { n: all.length })} · ${t("forecast_hint")} · <a href="#/quality">${t("research_link")}</a></p>
+    <p class="meta-row">${t("results", { n: all.length })} · <a href="#/quality">${t("research_link")}</a></p>
     ${
       view === "map"
         ? `<p class="legend"><span class="pill good">${t("legend_free")}</span><span class="pill bad">${t("legend_full")}</span><span class="pill na">${t("legend_na")}</span></p><div id="map"></div>`
-        : `${favs.length ? `<h2>${t("unfavorite")}</h2><div class="cards">${favs.map((park) => parkCard(park, vehicle)).join("")}</div>` : ""}
+        : `${favs.length ? `<h2 class="section-title">${t("saved_heading")}</h2><div class="cards">${favs.map((park) => parkCard(park, vehicle)).join("")}</div>` : ""}
            ${slice.length ? `<div class="cards">${slice.map((park) => parkCard(park, vehicle)).join("")}</div>` : `<p class="empty">${t("no_rows")}</p>`}
            ${pager(rest.length, page)}`
     }`;
@@ -470,12 +501,13 @@ function parkView(id) {
         <p class="sub">${[statusLabel(park.status), park.district, park.dist != null ? t("km", { n: park.dist.toFixed(1) }) : ""]
           .filter(Boolean)
           .join(" · ")}</p>
+        ${occupancyText(park, vehicle) ? `<p class="sub">${occupancyText(park, vehicle)}</p>` : ""}
       </div>
       <div class="vacancy-box ${park._shown.cls}"><strong>${park._shown.text}</strong><span>${t(vehicle)}</span></div>
     </div>
     <div class="actions">
       <button class="ghost" data-fav="${park.id}">${saved ? "★ " + t("unfavorite") : "☆ " + t("favorite")}</button>
-      ${maps ? `<a class="primary" style="display:inline-block;padding:8px 12px;border-radius:10px;background:var(--accent);color:#fff" href="${maps}" target="_blank" rel="noopener">${t("directions")}</a>` : ""}
+      ${maps ? `<a class="primary" href="${maps}" target="_blank" rel="noopener">${t("directions")}</a>` : ""}
     </div>
     ${park.forecast ? `<p class="forecast">${t("forecast30")}: ${park.forecast.persistence} · ${t("forecast_hint")}</p>` : ""}
     <div class="table-wrap"><table><thead><tr><th>${t("vehicle")}</th><th>${t("vacancy")}</th><th>${t("spaces")}</th></tr></thead><tbody>${rows}</tbody></table></div>
@@ -547,7 +579,7 @@ function camerasView(query) {
   const more = Number(query.get("cmore") || 24);
   return `<h1>${t("cameras_title")}</h1>
     <div class="filters">
-      <label>${t("search")}<input id="cq" type="search" value="${query.get("cq") || ""}"></label>
+      <label>${t("search")}<input id="cq" type="search" value="${query.get("cq") || ""}" placeholder="${t("search_ph")}"></label>
       <label>${t("region")}<select id="cregion">
         <option value="all">${t("all")}</option>
         ${regions.map((name) => `<option value="${name}" ${region === name ? "selected" : ""}>${name}</option>`).join("")}
@@ -582,7 +614,7 @@ function newsView(query) {
   const more = Number(query.get("nmore") || 20);
   return `<h1>${t("news_title")}</h1>
     <div class="filters">
-      <label>${t("search")}<input id="nq" type="search" value="${query.get("nq") || ""}"></label>
+      <label>${t("search")}<input id="nq" type="search" value="${query.get("nq") || ""}" placeholder="${t("search_ph")}"></label>
       <label>${t("feed")}<select id="feed">
         <option value="all">${t("all")}</option>
         ${feeds.map((name) => `<option value="${name}" ${feed === name ? "selected" : ""}>${feedLabel(name)}</option>`).join("")}
@@ -593,8 +625,11 @@ function newsView(query) {
       .slice(0, more)
       .map((item) => {
         const title = state.lang === "zh" ? item.title_tc || item.title_en : item.title_en || item.title_tc;
-        const snippet = stripHtml(state.lang === "zh" ? item.content_tc || item.content_en : item.content_en || item.content_tc);
-        return `<details class="notice"><summary><strong>${title || ""}</strong><p class="sub">${feedLabel(item.feed)}${snippet ? " · " + snippet.slice(0, 90) : ""}</p></summary><p>${snippet}</p></details>`;
+        const snippet = noticeSnippet(
+          title,
+          state.lang === "zh" ? item.content_tc || item.content_en : item.content_en || item.content_tc
+        );
+        return `<details class="notice"><summary><strong>${title || ""}</strong><p class="sub">${feedLabel(item.feed)}${snippet ? " · " + snippet.slice(0, 110) : ""}</p></summary><p>${snippet}</p></details>`;
       })
       .join("")}</div>
     ${filtered.length > more ? `<p class="pager"><button class="ghost" id="more-news">${t("more")}</button></p>` : ""}`;
@@ -676,13 +711,14 @@ function bindFilters() {
   bindSearch("cq", "cq");
   bindSearch("nq", "nq");
   applySelects(["vehicle", "region", "district", "status", "sort", "cregion", "feed"]);
-  document.getElementById("na-btn")?.addEventListener("click", () => {
+  document.getElementById("na-check")?.addEventListener("change", () => {
     const query = route().query;
-    if (query.get("na") === "1") query.delete("na");
-    else query.set("na", "1");
+    if (document.getElementById("na-check").checked) query.set("na", "1");
+    else query.delete("na");
     query.delete("page");
     setQuery(query);
   });
+  document.getElementById("clear-btn")?.addEventListener("click", clearFilters);
   document.getElementById("prev-page")?.addEventListener("click", () => {
     const query = route().query;
     query.set("page", String(Math.max(1, Number(query.get("page") || 1) - 1)));
@@ -783,6 +819,9 @@ function drawMap(mode, parks) {
     const park = mergedParks().find((item) => item.id === route().id);
     if (park && park.lat) state.map.setView([park.lat, park.lng], 16);
   }
+  requestAnimationFrame(() => {
+    if (state.map) state.map.invalidateSize();
+  });
 }
 
 function updateStatus() {
@@ -790,7 +829,7 @@ function updateStatus() {
   const source = state.liveAt ? t("live_ok") : t("snapshot_only");
   document.getElementById("status-line").textContent = `${t("updated")} ${formatWhen(
     state.liveAt || collected
-  )} · ${source} · ${t("disclaimer_short")}`;
+  )} · ${source}`;
 }
 
 function setActiveNav(path) {
@@ -842,6 +881,11 @@ function render() {
     });
   });
   bindFilters();
+  app.querySelectorAll(".camera img").forEach((img) => {
+    img.addEventListener("error", () => {
+      img.replaceWith(Object.assign(document.createElement("p"), { className: "sub", textContent: t("na") }));
+    });
+  });
   if (restore) {
     const node = document.getElementById(restore.id);
     if (node) {

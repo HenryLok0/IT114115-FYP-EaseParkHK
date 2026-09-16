@@ -78,9 +78,19 @@ button.ghost, button.primary, .chip { cursor: pointer; }
 button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
 button.ghost:hover { border-color: var(--accent); }
 .status-line { color: var(--muted); font-size: 13px; padding: 14px 0 0; }
+.lede { font-size: 1.15rem; font-weight: 750; margin: 10px 0 0; }
 .hero { padding: 8px 0 18px; }
 .hero h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); margin: 0 0 6px; }
 .hero p { margin: 0; color: var(--muted); }
+.check { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); font-weight: 600; cursor: pointer; }
+.check input { accent-color: var(--accent); }
+.section-title { font-size: 1rem; margin: 0 0 10px; }
+.park-card:hover, .park-card:focus-within { border-color: var(--accent); }
+a.primary {
+  display: inline-block; padding: 8px 12px; border-radius: 10px;
+  background: var(--accent); color: #fff; border: 1px solid var(--accent);
+}
+a.primary:hover { color: #fff; text-decoration: none; opacity: 0.92; }
 .filters {
   display: grid; grid-template-columns: 1.4fr repeat(4, minmax(0, 1fr)) auto;
   gap: 8px; margin: 12px 0 16px; align-items: end;
@@ -113,7 +123,7 @@ button.ghost:hover { border-color: var(--accent); }
 .icon-btn { border: 0; background: transparent; font-size: 20px; cursor: pointer; color: var(--muted); padding: 4px; }
 .icon-btn.on { color: #c47b12; }
 .pager { display: flex; gap: 8px; align-items: center; justify-content: center; padding: 18px 0 8px; }
-#map { height: min(70vh, 640px); border-radius: var(--radius); border: 1px solid var(--line); }
+#map { height: min(75vh, 680px); border-radius: var(--radius); border: 1px solid var(--line); }
 .legend { display: flex; gap: 10px; flex-wrap: wrap; font-size: 13px; color: var(--muted); margin: 0 0 10px; }
 .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; font-weight: 700; }
 .pill.good { background: var(--good-bg); color: var(--good); }
@@ -150,6 +160,7 @@ th, td { border-bottom: 1px solid var(--line); padding: 8px 10px; text-align: le
   .nav { display: none; width: 100%; flex-direction: column; order: 5; padding-bottom: 8px; }
   .nav.open { display: flex; }
   .tools { margin-left: 0; }
+  .brand span { max-width: 42vw; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 }
 @media (max-width: 640px) {
   .filters { grid-template-columns: 1fr; }
