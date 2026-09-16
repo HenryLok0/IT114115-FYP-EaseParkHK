@@ -32,8 +32,8 @@ def get_locale():
 
 babel = Babel(app, locale_selector=get_locale)
 
-# Initialize Google GenAI Client
-client = genai.Client(api_key="GOOGLE_GENAI_API_KEY")
+# Initialize Google GenAI Client from environment variable
+client = genai.Client(api_key=app.config.get("GEMINI_API_KEY"))
 
 app.logger.info('SQLAlchemy initialized')
 

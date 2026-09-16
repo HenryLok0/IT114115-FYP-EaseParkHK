@@ -8,7 +8,7 @@ from flask_babel import _, get_locale
 from app import app, db, client
 from app.forms import zhLoginForm, LoginForm, RegistrationForm, zhRegistrationForm, EditProfileForm, zhEditProfileForm, PostForm, AddAreaForm, AddDistricForm,AddMTRForm, \
     ResetPasswordRequestForm, zhResetPasswordRequestForm, ResetPasswordForm, zhResetPasswordForm, ImageForm, AddProductForm,AddCategoryForm,AddBrandForm,AddMeetupForm,AddConditionForm
-from app.models import User
+from app.models import User, Post, Image, Product,Category,Brand,Area,Distric,MTR,Meetup,Condition
 from app.email import send_password_reset_email
 from werkzeug.utils import secure_filename
 import json
