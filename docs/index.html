@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EaseParkHK 泊易香港</title>
+  <meta name="description" content="Hong Kong car park open data dashboard: vacancy, quality, and 30-minute forecast.">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap bar">
+      <a class="brand" href="#/" data-i18n="brand">EaseParkHK</a>
+      <nav class="nav">
+        <a href="#/" data-i18n="nav_parks">Parks</a>
+        <a href="#/map" data-i18n="nav_map">Map</a>
+        <a href="#/quality" data-i18n="nav_quality">Quality / forecast</a>
+        <a href="#/meters" data-i18n="nav_meters">Meters</a>
+        <a href="#/cameras" data-i18n="nav_cameras">Cameras</a>
+        <a href="#/news" data-i18n="nav_news">Notices</a>
+        <a href="#/about" data-i18n="nav_about">About</a>
+      </nav>
+      <div class="tools">
+        <button type="button" id="lang-btn" class="ghost">繁</button>
+        <button type="button" id="theme-btn" class="ghost" data-i18n="theme">Night</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="banner">
+      <p id="status-line" class="muted"></p>
+      <p class="muted small" data-i18n="disclaimer">Snapshot from GitHub Actions, not a live backend. A forecast is not a parking guarantee.</p>
+    </section>
+    <div id="app"></div>
+  </main>
+
+  <footer class="wrap foot">
+    <a href="#/privacy" data-i18n="privacy">Privacy</a>
+    <span class="muted"> · </span>
+    <span data-i18n="footer_data">Transport Department open data</span>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

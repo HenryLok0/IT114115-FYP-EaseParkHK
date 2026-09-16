@@ -9,3 +9,5 @@ instance/
 logs/
 *.log
 .DS_Store
+.idea/
+.pytest_cache/

@@ -1,0 +1,124 @@
+{
+  "collected_at": "2026-09-16T20:54:21+08:00",
+  "park_count": 578,
+  "vehicles": {
+    "privateCar": {
+      "reported": 569,
+      "available": 482,
+      "unavailable": 87,
+      "types": {
+        "A": 557,
+        "B": 10,
+        "C": 2,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 67,
+        "over_2h": 17,
+        "over_1d": 4
+      },
+      "max_lag_minutes": 347278.5,
+      "median_lag_minutes": 2.8,
+      "available_pct": 83.39
+    },
+    "motorCycle": {
+      "reported": 84,
+      "available": 70,
+      "unavailable": 14,
+      "types": {
+        "A": 83,
+        "B": 1,
+        "C": 0,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 21,
+        "over_2h": 9,
+        "over_1d": 0
+      },
+      "max_lag_minutes": 704.9,
+      "median_lag_minutes": 10.0,
+      "available_pct": 12.11
+    },
+    "LGV": {
+      "reported": 53,
+      "available": 45,
+      "unavailable": 8,
+      "types": {
+        "A": 51,
+        "B": 2,
+        "C": 0,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 12,
+        "over_2h": 9,
+        "over_1d": 1
+      },
+      "max_lag_minutes": 2109.2,
+      "median_lag_minutes": 22.6,
+      "available_pct": 7.79
+    },
+    "HGV": {
+      "reported": 26,
+      "available": 23,
+      "unavailable": 3,
+      "types": {
+        "A": 26,
+        "B": 0,
+        "C": 0,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 9,
+        "over_2h": 4,
+        "over_1d": 2
+      },
+      "max_lag_minutes": 6289.5,
+      "median_lag_minutes": 51.0,
+      "available_pct": 3.98
+    },
+    "coach": {
+      "reported": 10,
+      "available": 5,
+      "unavailable": 5,
+      "types": {
+        "A": 10,
+        "B": 0,
+        "C": 0,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 1,
+        "over_2h": 1,
+        "over_1d": 0
+      },
+      "max_lag_minutes": 164.8,
+      "median_lag_minutes": 2.5,
+      "available_pct": 0.87
+    },
+    "CV": {
+      "reported": 3,
+      "available": 0,
+      "unavailable": 3,
+      "types": {
+        "A": 3,
+        "B": 0,
+        "C": 0,
+        "other": 0
+      },
+      "stale": {
+        "over_30min": 0,
+        "over_2h": 0,
+        "over_1d": 0
+      },
+      "max_lag_minutes": 2.3,
+      "median_lag_minutes": 2.3,
+      "available_pct": 0.0
+    }
+  },
+  "coverage": {
+    "privateCar_available_pct": 83.39,
+    "privateCar_unavailable_pct": 15.05
+  }
+}

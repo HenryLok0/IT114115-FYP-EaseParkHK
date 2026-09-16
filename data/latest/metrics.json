@@ -1,0 +1,19 @@
+{
+  "horizon_minutes": 30,
+  "snapshot_count": 3,
+  "persistence": {
+    "mae": null,
+    "rmse": null,
+    "n": 0
+  },
+  "trend": {
+    "mae": null,
+    "rmse": null,
+    "n": 0
+  },
+  "trend_mae_improvement_pct_vs_persistence": null,
+  "by_hour_persistence_mae": {},
+  "by_district_persistence_mae": {},
+  "note": "Need snapshots about 30 minutes apart before MAE/RMSE are defined.",
+  "generated_at": "2026-09-16T20:54:23+08:00"
+}

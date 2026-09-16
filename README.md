@@ -1,67 +1,79 @@
-# EaseParkHK
+# EaseParkHK（泊易香港）
 
-EaseParkHK(泊易香港) is a Flask-based car park vacancy system that provides real-time vacancy information for car parks in various districts of Hong Kong.
+香港停車場開放數據嘅收集、質素分析同短期空置預測。結果用 **GitHub Pages** 公開展示。冇後端、冇登入、冇 Gemini。
 
-## Features
+## 研究問題
 
-- Real-time vacancy information for car parks in Hong Kong
-- Filter car parks by vehicle type
-- Display detailed information about car parks, including address, contact information, and website
-- Map view to show car park locations
+用運輸署開放數據，可唔可以預測未來 30 分鐘私家車空位？誤差比起「假設同而家一樣」（persistence baseline）低幾多？
 
-## Project Structure
+網站只係方法嘅展示層。貢獻喺資料集、缺值規則、baseline 同 MAE／RMSE，唔係帳戶系統。
 
+## 改咗形態嘅功能
 
-## Installation and Setup
+| 舊 Flask web app | 而家 Pages |
+| --- | --- |
+| 即場 `requests` / `pandas.read_excel` | GitHub Actions 每 15 分鐘寫 JSON，網頁讀檔 |
+| 登入、電郵重設、Flask-Login、session | 已放棄 |
+| 收藏用 server session | `localStorage`（只限同一部瀏覽器） |
+| Gemini chatbox | 已放棄（API key 唔可以放前端） |
+| follow / Post / Product / Brand 教學碼 | 已刪 |
+| 「真即時後端」 | 「最近一次快照」+ 若 CORS 允許，瀏覽器再打一次政府 API |
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/easeparkhk.git
-    cd easeparkhk
-    ```
+## 本地預覽靜態站
 
-2. Create and activate a virtual environment:
-    ```sh
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
+```sh
+git clone https://github.com/yourusername/IT114115-FYP-EaseParkHK.git
+cd IT114115-FYP-EaseParkHK
+python scripts/run_pipeline.py
+python -m http.server 8080 --directory docs
+```
 
-3. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
+瀏覽器打開 `http://localhost:8080`。采集器唔需要 `.env`，亦冇 API key。
 
-4. Copy `.env.example` to `.env` and fill in your own values. Do not commit `.env`.
-    ```sh
-    cp .env.example .env
-    ```
+測試：
 
-    - `SECRET_KEY`: a random secret used to sign sessions
-    - `SQLALCHEMY_DATABASE_URI`: local SQLite by default, or your own database URL
-    - `GEMINI_API_KEY`: Google Gemini API key for the AI chatbox
+```sh
+python tests/test_collect_vacancy.py
+python tests/test_forecast_and_feeds.py
+```
 
-5. Run the application:
-    ```sh
-    flask --debug run --host=0.0.0.0
-    ```
+`--skip-feeds` 可以跳過咪錶 Excel／新聞／鏡頭（較快）：
 
-___
+```sh
+python scripts/run_pipeline.py --skip-feeds
+```
 
-6. Add data to database(make it run):
-    ```sh
-    python test_data.py
-    ```
+## GitHub Pages
 
-## Usage
+1. Push 去 default branch。
+2. **Settings → Pages**：Source = Deploy from a branch，branch = `main`，folder = `/docs`。
+3. **Settings → Actions → General**：允許 Actions，Workflow permissions = **Read and write**。
+4. **Actions → Collect open data → Run workflow** 手動跑一次。
+5. 之後約每 15 分鐘 UTC 更新 `data/` 同 `docs/data/`。GitHub cron 會遲；當最近一次成功采集。
 
-- Open your browser and navigate to `http://localhost:5000` to access the EaseParkHK system.
-- Use the navigation bar to select different districts and view real-time car park vacancy information.
-- Use the filter options to filter car parks by vehicle type.
+無 repository secrets。超過約 60 日冇活動，排程會停，打開 repo 或手動跑一次即可。
 
-## Contributing
+## 數據同模型
 
-Contributions are welcome! Please read the CONTRIBUTING.md for details on how to contribute.
+| 檔 | 用途 |
+| --- | --- |
+| `data/latest/vacancy.json` | 最新空位 |
+| `data/latest/carparks.json` | 名稱、坐標、公布車位數 |
+| `data/latest/quality.json` | 覆蓋率、`-1`、延遲 |
+| `data/latest/forecast.json` | 30 分鐘 persistence／trend |
+| `data/latest/metrics.json` | MAE／RMSE（要有相隔約 30 分鐘嘅快照） |
+| `data/history/YYYY-MM-DD.jsonl` | 訓練／評估用歷史 |
+| `docs/data/*.json` | Pages 讀嘅副本 |
 
-## License
+規則：只評分 `vacancy_type = A` 且 `vacancy >= 0`。`-1`、缺值、B／C 狀態碼唔混進 MAE。詳見 [`data/README.md`](data/README.md)。
 
-This project is licensed under the MIT License. See the [`LICENSE`](LICENSE ) file for details.
+- Baseline：ŷ(t+30) = y(t)
+- 對照模型：用最近 15 分鐘差值外推 30 分鐘，下限 0
+
+## 限制
+
+數據唔完整、部分場 `lastupdate` 過時、預測唔等於保證有位。收藏唔跨裝置。鏡頭圖片仍由政府主機提供。
+
+## Licence
+
+MIT. See [`LICENSE`](LICENSE). Open data remains under the [Hong Kong Government Open Data Licence](https://data.gov.hk/en/terms-and-conditions).
