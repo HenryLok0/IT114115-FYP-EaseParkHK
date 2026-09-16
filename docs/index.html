@@ -4,46 +4,51 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>EaseParkHK 泊易香港</title>
-  <meta name="description" content="Hong Kong car park open data dashboard: vacancy, quality, and 30-minute forecast.">
+  <meta name="description" content="香港停車場空位、地圖同 30 分鐘預測。GitHub Pages 公開儀表板。">
   <link rel="icon" href="favicon.ico">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
   <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
+  <a class="skip" href="#app" data-i18n="skip">跳到內容</a>
   <header class="top">
     <div class="wrap bar">
-      <a class="brand" href="#/" data-i18n="brand">EaseParkHK</a>
-      <nav class="nav">
-        <a href="#/" data-i18n="nav_parks">Parks</a>
-        <a href="#/map" data-i18n="nav_map">Map</a>
-        <a href="#/quality" data-i18n="nav_quality">Quality / forecast</a>
-        <a href="#/meters" data-i18n="nav_meters">Meters</a>
-        <a href="#/cameras" data-i18n="nav_cameras">Cameras</a>
-        <a href="#/news" data-i18n="nav_news">Notices</a>
-        <a href="#/about" data-i18n="nav_about">About</a>
+      <a class="brand" href="#/" data-i18n="brand">泊易香港</a>
+      <button type="button" id="menu-btn" class="ghost menu-btn" aria-expanded="false" aria-controls="site-nav" data-i18n="menu">選單</button>
+      <nav id="site-nav" class="nav">
+        <a href="#/" data-nav="/">停車場</a>
+        <a href="#/map" data-nav="/map">地圖</a>
+        <a href="#/meters" data-nav="/meters">咪錶</a>
+        <a href="#/cameras" data-nav="/cameras">鏡頭</a>
+        <a href="#/news" data-nav="/news">通告</a>
+        <a href="#/quality" data-nav="/quality">研究</a>
       </nav>
       <div class="tools">
-        <button type="button" id="lang-btn" class="ghost">繁</button>
-        <button type="button" id="theme-btn" class="ghost" data-i18n="theme">Night</button>
+        <button type="button" id="lang-btn" class="ghost" aria-label="Language">EN</button>
+        <button type="button" id="theme-btn" class="ghost" data-i18n="theme">夜間</button>
       </div>
     </div>
   </header>
 
   <main class="wrap">
-    <section class="banner">
-      <p id="status-line" class="muted"></p>
-      <p class="muted small" data-i18n="disclaimer">Snapshot from GitHub Actions, not a live backend. A forecast is not a parking guarantee.</p>
-    </section>
-    <div id="app"></div>
+    <p id="status-line" class="status-line" aria-live="polite"></p>
+    <div id="app">
+      <p class="empty" data-i18n="loading">載入緊…</p>
+    </div>
   </main>
 
   <footer class="wrap foot">
-    <a href="#/privacy" data-i18n="privacy">Privacy</a>
-    <span class="muted"> · </span>
-    <span data-i18n="footer_data">Transport Department open data</span>
+    <a href="#/about" data-i18n="nav_about">關於</a>
+    <span class="dot">·</span>
+    <a href="#/privacy" data-i18n="privacy">私隱</a>
+    <span class="dot">·</span>
+    <span data-i18n="footer_data">運輸署開放數據</span>
   </footer>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script src="js/i18n.js"></script>
   <script src="js/app.js"></script>
 </body>
