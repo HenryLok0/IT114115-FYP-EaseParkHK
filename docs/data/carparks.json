@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T20:54:21+08:00",
-  "park_count": 581,
+  "updated_at": "2026-09-17T14:21:18+08:00",
+  "park_count": 582,
   "parks": {
     "27": {
       "park_id": "27",
@@ -535,6 +535,26 @@
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": 85,
+        "motorCycle": 0,
+        "LGV": 0,
+        "HGV": 0,
+        "coach": 0,
+        "CV": null
+      }
+    },
+    "129": {
+      "park_id": "129",
+      "name_en": "THE CENDAS",
+      "name_tc": "THE CENDAS",
+      "district_en": "Kwun Tong District",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "Management office, G/F, THE CENDAS, 15 Sheung Yuet Road, Kowloon Bay, KLN",
+      "displayAddress_tc": "九龍九龍灣常悅道15號THE CENDASG/F管理處",
+      "latitude": 22.32205083,
+      "longitude": 114.20987606,
+      "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": 95,
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
