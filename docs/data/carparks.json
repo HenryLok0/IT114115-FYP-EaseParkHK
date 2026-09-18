@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-17T14:21:18+08:00",
-  "park_count": 582,
+  "updated_at": "2026-09-18T22:01:17+08:00",
+  "park_count": 583,
   "parks": {
+    "12": {
+      "park_id": "12",
+      "name_en": "Amoy Plaza",
+      "name_tc": "淘大商場",
+      "district_en": "Kwun Tong District",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "77 Ngau Tau Kok Raod, Kowloon Bay, KLN",
+      "displayAddress_tc": "九龍九龍灣牛頭角道77號",
+      "latitude": 22.32470074,
+      "longitude": 114.21675324,
+      "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": 389,
+        "motorCycle": 30,
+        "LGV": 5,
+        "HGV": 3,
+        "coach": 0,
+        "CV": null
+      }
+    },
     "27": {
       "park_id": "27",
       "name_en": "Yau Lai Shopping Centre Carpark",
