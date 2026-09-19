@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T22:01:17+08:00",
-  "park_count": 583,
+  "updated_at": "2026-09-19T12:52:52+08:00",
+  "park_count": 582,
   "parks": {
     "12": {
       "park_id": "12",
@@ -198,26 +198,6 @@
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
-        "coach": 0,
-        "CV": null
-      }
-    },
-    "78": {
-      "park_id": "78",
-      "name_en": "Stelux House",
-      "name_tc": "寶光商業中心",
-      "district_en": "Wong Tai Sin District",
-      "district_tc": "黃大仙區",
-      "displayAddress_en": "Stelux House, 698 Prince Edward Road East, San Po Kong, KLN",
-      "displayAddress_tc": "九龍新蒲崗太子道東698號寶光商業中心",
-      "latitude": 22.33448116,
-      "longitude": 114.1981709,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 24,
-        "motorCycle": 0,
-        "LGV": 0,
-        "HGV": 1,
         "coach": 0,
         "CV": null
       }
