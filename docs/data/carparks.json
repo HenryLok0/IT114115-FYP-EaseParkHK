@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T12:52:52+08:00",
+  "updated_at": "2026-09-22T00:43:56+08:00",
   "park_count": 582,
   "parks": {
     "12": {
@@ -4542,17 +4542,17 @@
         "CV": null
       }
     },
-    "tdc45p1": {
-      "park_id": "tdc45p1",
-      "name_en": "Tuen Mun Government Offices",
-      "name_tc": "屯門政府合署",
-      "district_en": "Tuen Mun",
-      "district_tc": "屯門區",
-      "displayAddress_en": "No.1 Tuen Hi Road, Tuen Mun, New Territories",
-      "displayAddress_tc": "新界屯門屯喜路1號",
-      "latitude": 22.390339862263,
-      "longitude": 113.97626659279,
-      "opening_status": "OPEN",
+    "tdc409p1": {
+      "park_id": "tdc409p1",
+      "name_en": "Yuen Long District Office Building",
+      "name_tc": "元朗民政事務處大廈",
+      "district_en": "Yuen Long",
+      "district_tc": "元朗區",
+      "displayAddress_en": "No. 269 CASTLE PEAK ROAD,  YUEN LONG, NEW TERRITORIES, HONG KONG",
+      "displayAddress_tc": "新界元朗青山公路(元朗段)269號",
+      "latitude": 22.445426896226,
+      "longitude": 114.02283648561,
+      "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
         "motorCycle": null,
@@ -6302,17 +6302,17 @@
         "CV": null
       }
     },
-    "tdc59p1": {
-      "park_id": "tdc59p1",
-      "name_en": "Yuen Long District Office Building",
-      "name_tc": "元朗民政事務處大廈",
-      "district_en": "Yuen Long",
-      "district_tc": "元朗區",
-      "displayAddress_en": "269 Castle Peak Road, Yuen Long, New Territories",
-      "displayAddress_tc": "新界元朗青山公路269號",
-      "latitude": 22.44510841,
-      "longitude": 114.02271271,
-      "opening_status": "OPEN",
+    "tdc408p1": {
+      "park_id": "tdc408p1",
+      "name_en": "Tuen Mun Government Offices",
+      "name_tc": "屯門政府合署",
+      "district_en": "Tuen Mun",
+      "district_tc": "屯門區",
+      "displayAddress_en": "NO. 1 TUEN HI ROAD, TUEN MUN, NEW TERRITORIES, HONG KONG",
+      "displayAddress_tc": "香港新界屯門屯喜路1號",
+      "latitude": 22.390316616446,
+      "longitude": 113.9762763677,
+      "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
         "motorCycle": null,
