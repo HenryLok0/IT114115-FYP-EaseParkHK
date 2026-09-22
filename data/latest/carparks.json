@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:43:56+08:00",
+  "updated_at": "2026-09-23T01:17:21+08:00",
   "park_count": 582,
   "parks": {
     "12": {
@@ -1884,12 +1884,12 @@
     },
     "tdc264p1": {
       "park_id": "tdc264p1",
-      "name_en": "Siu Tsui Court",
-      "name_tc": "兆翠苑",
+      "name_en": "Siu Tsui Court Carpark",
+      "name_tc": "兆翠苑停車場",
       "district_en": "Tuen Mun",
       "district_tc": "屯門區",
-      "displayAddress_en": "26 Hang Fu Street, Tuen Mun",
-      "displayAddress_tc": "屯門恆富街26號",
+      "displayAddress_en": "Siu Tsui Court, 26 Hang Fu Street, Tuen Mun",
+      "displayAddress_tc": "屯門恆富街26號兆翠苑",
       "latitude": 22.383052922484,
       "longitude": 113.97083297776,
       "opening_status": "CLOSED",
@@ -8448,8 +8448,8 @@
       "name_tc": "屯門醫院主座訪客停車場",
       "district_en": "Tuen Mun",
       "district_tc": "屯門區",
-      "displayAddress_en": "Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun, N.T.",
-      "displayAddress_tc": "新界屯門青松觀路廿三號屯門醫院",
+      "displayAddress_en": "23 Tsing Chung Koon Road, Tuen Mun, N.T.",
+      "displayAddress_tc": "新界屯門青松觀路廿三號",
       "latitude": 22.408623818158,
       "longitude": 113.97635697956,
       "opening_status": "CLOSED",
