@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T01:17:21+08:00",
-  "park_count": 582,
+  "updated_at": "2026-09-23T09:29:28+08:00",
+  "park_count": 581,
   "parks": {
     "12": {
       "park_id": "12",
@@ -218,26 +218,6 @@
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 7,
-        "coach": 0,
-        "CV": null
-      }
-    },
-    "81": {
-      "park_id": "81",
-      "name_en": "Manulife Place",
-      "name_tc": "宏利廣場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "348 Kwun Tong Road, Kwun Tong, KLN",
-      "displayAddress_tc": "九龍觀塘觀塘道348號",
-      "latitude": 22.3149246,
-      "longitude": 114.21706438,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 80,
-        "motorCycle": 20,
-        "LGV": 10,
-        "HGV": 5,
         "coach": 0,
         "CV": null
       }
