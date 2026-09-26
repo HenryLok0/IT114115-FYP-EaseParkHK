@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T23:33:54+08:00",
-  "park_count": 581,
+  "updated_at": "2026-09-26T23:03:14+08:00",
+  "park_count": 580,
   "parks": {
     "27": {
       "park_id": "27",
@@ -275,26 +275,6 @@
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": 96,
-        "motorCycle": 0,
-        "LGV": 0,
-        "HGV": 0,
-        "coach": 0,
-        "CV": null
-      }
-    },
-    "101": {
-      "park_id": "101",
-      "name_en": "Prosperity Center Car Park",
-      "name_tc": "創富中心停車場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "Prosperity Centre Car Park, 25 Chong Yip Street, Kwun Tong, KLN",
-      "displayAddress_tc": "九龍觀塘創業街25號創富中心停車場",
-      "latitude": 22.31414153,
-      "longitude": 114.2195567,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 91,
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
