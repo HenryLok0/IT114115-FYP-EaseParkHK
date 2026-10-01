@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-02T03:02:43+08:00",
+  "collected_at": "2026-10-02T07:10:45+08:00",
   "notices": [
     {
       "feed": "Temporary Road Closure",
@@ -1456,6 +1456,13 @@
       "title_tc": "黃大仙沙田㘭道公共小巴禁區",
       "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</strong></span></div>\n<div style=\"text-align: center;\">\n<p><span style=\"text-decoration: underline;\"><strong>Prohibited Zone for Public Light Buses on Shatin Pass Road, Wong Tai Sin</strong></span></p>\n</div>\n<p>In exercise of the powers vested in me under regulation 14(1)(a) of the Road Traffic (Traffic Control) Regulations, Chapter 374G, I hereby direct t",
       "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通(交通管制)規例(第 374G 章)</strong></span></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">黃大仙沙田㘭道公共小巴禁區</span><br /><br /></strong></div>\n<p>本人現行使《道路交通(交通管制)規例》(第 374G 章)第 14(1)(a)條所賦予的權力，下令 由 2023 年11月 26 日上午5時起，沙田㘭道介乎黃大仙公共小型巴士(<span>專綫</span>)<span>服務總站入口與龍翔道之間的</span>路段將全日 24 小時劃為公共小巴禁區。</p>\n<p>除經由運輸署署長發給許可證者外，公共小巴司機一律全日24小時禁止將公共小巴駛入上述禁區。</p>\n<p>有關地點將設置適當交通標誌，表明禁區範圍。</p>\n<p"
+    },
+    {
+      "feed": "Prohibited Zone",
+      "title_en": "Temporary Prohibited Zone For Vehicles Exceeding 7 Metres In Length on Ko Ling Road, Kwun Tong",
+      "title_tc": "觀塘高嶺道長度超逾7米車輛臨時禁區",
+      "content_en": "<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\"> </span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Temporary Prohibited Zone For Vehicles Exceeding 7 Metres In Length </span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"te",
+      "content_tc": "<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">道路交通(交通管制)規例(第374G章)</span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\"> </span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">觀塘高嶺道長度超逾7米車輛臨時禁區</span></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp;本人現行使《道路交通<span>(</span>交通管制<span>)</span>規例》<span>(</span>第<span>374G</span>章<span>)</span>第<span>14(1)(</s"
     },
     {
       "feed": "Prohibited Zone",
@@ -5141,13 +5148,6 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Ma On Shan ByPass and Ma On Shan Road",
-      "title_tc": "馬鞍山繞道及馬鞍山路臨時車速限制",
-      "content_en": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></span><br /><span style=\"text-decoration: underline;\"><strong>TEMPORARY SPEED LIMIT ON MA ON SHAN BYPASS AND MA ON SHAN ROAD</strong></span></p>\n<p></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 11.00 pm to 6.00",
-      "content_tc": "<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">道路交通條例(第374章)</span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">馬鞍山繞道及馬鞍山路臨時車速限制</span></strong></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令由2026年9月23日至2026年9月25日、2026年9月29日至2026年9月30日及2026年10月2日，每日晚上11時至翌日上午6時，下列路段實施每小時50公里的臨時車速限制 :</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol style=\"list-style-type: lower-roman;\">"
-    },
-    {
-      "feed": "Temporary Speed Limits",
       "title_en": "Speed Limit On Tai Po Road – Sha Tin Heights  And Tai Po Road – Piper’s Hill, Sha Tin",
       "title_tc": "沙田大埔公路-沙田嶺段及大埔公路-琵琶山段車速限制",
       "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>SPEED LIMIT ON TAI PO ROAD &ndash; SHA TIN HEIGHTS </strong></div>\n<div style=\"text-align: center;\"><strong>AND TAI PO ROAD &ndash; PIPER'S HILL, SHA TIN</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 a.m. on 27",
@@ -5185,6 +5185,13 @@
       "feed": "Temporary Speed Limits",
       "title_en": "Temporary Speed Limit on Fanling Highway, North District",
       "title_tc": "北區粉嶺公路臨時車速限制",
+      "content_en": "<p style=\"text-align: center;\"><strong><u>ROAD TRAFFIC ORDINANCE (Chapter 374)<br /></u></strong><strong><u>TEMPORARY SPEED LIMIT ON FANLING HIGHWAY, NORTH DISTRICT</u></strong></p>\n<p><br />In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 1.00 a.m. to 5.30 a.m. daily from 7 to 9 October 2026 and 14 to 16 October 2026, the following road sections will be temporarily subject to the speed limits as speci",
+      "content_tc": "<p style=\"text-align: center;\"><strong><u>道路交通條例 </u></strong><strong><u>(</u></strong><strong><u>第</u></strong><strong><u>374</u></strong><strong><u>章</u></strong><strong><u>)</u></strong><em><strong><u><br /></u></strong></em><strong><u>北區粉嶺公路臨時</u></strong><strong><u>車速限</u></strong><strong><u>制</u></strong></p>\n<p>本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令於2026年10月7日至9日及2026年10月14日至16日，每日由凌晨1時起至上午5時30分止，下列路段將實施下述臨時車速限制：</p>\n<p>(a) 粉嶺公路西行由掃管埔交匯處以東約830米處起，至同一交匯處以東約350米處止的路段，將實施每小時80公里的臨時車速限制；</p>"
+    },
+    {
+      "feed": "Temporary Speed Limits",
+      "title_en": "Temporary Speed Limit on Fanling Highway, North District",
+      "title_tc": "北區粉嶺公路臨時車速限制",
       "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong> </strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Speed Limit on Fanling Highway, North District</strong></span><strong> </strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers v",
       "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通條例 (</strong><strong>第374</strong><strong>章)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>北區粉嶺公路臨時車速</strong><strong>限制</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令於2026年9月12日、19日、30日及10月3日每日凌晨1時至上午5時30分，下列路段將實施下述臨時車速限制：</p>\n<ol>\n<li>粉嶺公路(南行)由其與大頭嶺迴旋處(出口9)的交界以西約445米處起，至同一交界以東約41米處止的路段，將實施每小"
     },
@@ -5211,10 +5218,17 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Speed Limits On Fanling Bypass",
-      "title_tc": "粉嶺繞道車速限制",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong> </strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>SPEED LIMITS ON FANLING BYPASS</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Ro",
-      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通條例 (</strong><strong>第374</strong><strong>章)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>粉嶺</strong><strong>繞道</strong><strong>車速</strong><strong>限制</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令由2026年5月3日上午8時起，粉嶺繞道下列路段將實施下述車速限制：</p>\n<p><em>(a) </em><em>每小時</em><em>50</em><em>公里車速限制：</em></p"
+      "title_en": "Extension of Temporary Speed Limit on Fanling Highway, North District",
+      "title_tc": "延長北區粉嶺公路臨時車速限制的實施期限",
+      "content_en": "<div style=\"text-align: center;\"><strong><u>ROAD TRAFFIC ORDINANCE (Chapter 374)</u></strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u><span>Extension of Temporary Speed Limit on Fanling Highway, North District</span></u></strong><strong><u> </u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that ",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>道路交通條例<span> (</span></u></strong><strong><u>第<span>374</span></u></strong><strong><u>章<span>)</span></u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長北區粉嶺公路臨時車速</u></strong><strong><u>限制的實施期限</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令由2026年4月14日凌晨1時至2026年10月14日凌晨1時，粉嶺公路(北行)由其與粉嶺公路交匯處以北約220米處起，至其與通往百和路的支路交界處(7C出口)以北約200米處止的路段，將繼續實施每小時70公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &n"
+    },
+    {
+      "feed": "Temporary Speed Limits",
+      "title_en": "Temporary Speed Limit on Tsing Long Highway and Yuen Long Highway, Yuen Long",
+      "title_tc": "元朗青朗公路及元朗公路臨時車速限制",
+      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMIT ON TSING LONG HIGHWAY AND</strong></div>\n<div style=\"text-align: center;\"><strong>YUEN LONG HIGHWAY, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the follow",
+      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>元朗青朗公路及元朗公路臨時車速限制</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年10月22日、23日、26日、27日、28日、29日及30日，每日由晚上10時起至翌日上午6時止，下列路段實施以下臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 青朗公路北行由約里程標誌26.1N處起，至其與元朗公路西行交界處止的路段，實施每小時80公里的臨時車速限制；及<br />(b)&nbsp; &nbsp; 元朗公路西行由其與青朗公路北行交界處起，至約里程標誌39.0B處止的路段，實施每小時50公"
     },
     {
       "feed": "Temporary Speed Limits",
@@ -5222,6 +5236,20 @@
       "title_tc": "元朗青朗公路臨時車速限制",
       "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMIT ON TSING LONG HIGHWAY, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the following day daily between 20 October 2026 and 6 November 2026 (except Saturdays, S",
       "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>元朗青朗公路臨時車速限制</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令由2026年10月20日起，至2026年11月6日止（星期六、星期日及公眾假期除外），每日由晚上10時起至翌日上午6時止，青朗公路北行由約里程標誌22.3處起，至約里程標誌23.4處止的路段，實施每小時50公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 有關地點將設置適當交通標誌，指導駕駛人士。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 同時，現時在上述路段實施的車速限制，將暫予撤銷。</p>\n<p style=\"text-a"
+    },
+    {
+      "feed": "Temporary Speed Limits",
+      "title_en": "Extension of Temporary Speed Limits in Yuen Long",
+      "title_tc": "延長元朗臨時車速限制的實施期限",
+      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>EXTENSION OF TEMPORARY SPEED LIMITS IN </strong><strong>YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the following day daily between 8 October 2026 and 2 December 2026, the follo",
+      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>延長元朗</strong><strong>臨時車速限制的實施期限</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年10月8日起，至2026年12月2日止，每日晚上10時至翌日上午6時，下列路段繼續實施以下臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 元朗公路北行由約里程標誌40.2A處起，至約里程標誌38.2A處止的路段，實施每小時50公里的臨時車速限制；<br />(b)&nbsp; &nbsp; 青朗公路北行由約里程標誌26.8N處起，至約里程標誌27.1N處止的路段，實施每小時8"
+    },
+    {
+      "feed": "Temporary Speed Limits",
+      "title_en": "Extension of Temporary Speed Limits on Yuen Long Highway and Shap Pat Heung Interchange, Yuen Long",
+      "title_tc": "延長元朗公路及十八鄉交匯處臨時車速限制的實施期限",
+      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>EXTENSION OF TEMPORARY SPEED LIMITS ON YUEN LONG HIGHWAY AND </strong></div>\n<div style=\"text-align: center;\"><strong>SHAP PAT HEUNG INTERCHANGE, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 a.m. to 6",
+      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>延長</strong><strong>元朗公路及十八鄉交匯處臨時車速限制的實施期限</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年10月8日起，至2026年12月2日止，每日凌晨0時01分至上午6時，下列路段繼續實施每小時50公里的臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 元朗公路東行由約里程標誌44.9A處起，至約里程標誌39.1A處止的路段；<br />(b)&nbsp; &nbsp; 元朗公路西行由約里程標誌40.8B處起，至約里程標誌44.6B處止的路段；<br />(c"
     },
     {
       "feed": "Temporary Speed Limits",
@@ -5288,20 +5316,6 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Kong Sham Western Highway",
-      "title_tc": "港深西部公路臨時車速限制",
-      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMIT ON KONG SHAM WESTERN HIGHWAY</strong></div>\n<p></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the following day daily during the period from 11 Sept",
-      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>港深西部公路</strong><strong>臨時車速限制</strong></div>\n<p></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章<strong>）</strong>第40(2<strong>)</strong>(a<strong>)</strong>條所賦予的權力，下令於2026年9月11日至2026年10月1日（星期日除外<strong>）</strong>，每日由晚上10時起至翌日上午6時止，港深西部公路南行由里程標誌8.4S以南約55米處起，至里程標誌8.8S以南約55米處止實施每小時50公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp"
-    },
-    {
-      "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Kong Sham Western Highway",
-      "title_tc": "港深西部公路臨時車速限制",
-      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMIT ON KONG SHAM WESTERN HIGHWAY</strong></div>\n<p></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the following day daily during the period from 4 Septe",
-      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>港深西部公路</strong><strong>臨時車速限制</strong></div>\n<p></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章<strong>）</strong>第40(2<strong>)</strong>(a<strong>)</strong>條所賦予的權力，下令於2026年9月4日至2026年10月1日（星期日除外<strong>）</strong>，每日由晚上10時起至翌日上午6時止，港深西部公路南行由里程標誌7.0S以北約55米處起，至里程標誌8.4S以南約55米處止，將實施每小時50公里的臨時車速限制。</p>\n<p>&nbsp; &nbs"
-    },
-    {
-      "feed": "Temporary Speed Limits",
       "title_en": "Temporary Speed Limits in Yuen Long",
       "title_tc": "元朗臨時車速限制",
       "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMITS IN </strong><strong>YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 10.00 p.m. to 6.00 a.m. of the following day daily between 1 September 2026 and 28 October 2026, the following road s",
@@ -5320,13 +5334,6 @@
       "title_tc": "新田公路臨時車速限制",
       "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Speed Limit</strong><strong>s</strong><strong> on San Tin Highway</strong></span></div>\n<p><u> </u></p>\n<p>　　In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 a.m. to",
       "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通條例</strong><strong>(</strong><strong>第</strong><strong>374</strong><strong>章</strong><strong>)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>新田公路</strong><strong>臨時車速限制</strong></span></div>\n<p><br />　　本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令於2026年8月16日至2026年10月31日(公衆假期除外)，每日由凌晨0時01分起至上午6時止，新田公路北行介乎約里程標誌35.3A處及約里程標誌31.7A處之間的路段，將實施每小時50公里或每小時80公里的臨時車速限制。"
-    },
-    {
-      "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limits on Yuen Long Highway and Shap Pat Heung Interchange",
-      "title_tc": "元朗公路及十八鄉交匯處臨時車速限制",
-      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMITS ON YUEN LONG HIGHWAY AND </strong></div>\n<div style=\"text-align: center;\"><strong>SHAP PAT HEUNG INTERCHANGE, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 a.m. to 6.00 a.m. dail",
-      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>元朗公路及十八鄉交匯處臨時車速限制</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年8月15日至10月7日，每日凌晨0時01分起至上午6時止，下列路段實施每小時50公里的臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 元朗公路東行由約里程標誌44.9A處起，至約里程標誌39.1A處止的路段；<br />(b)&nbsp; &nbsp; 元朗公路西行由約里程標誌40.8B處起，至約里程標誌44.6B處止的路段；<br />(c)&nbsp; &nbsp; 元朗公路北行由其與博愛交匯處的交界"
     },
     {
       "feed": "Temporary Speed Limits",
@@ -5393,13 +5400,6 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "TEMPORARY SPEED LIMIT ON CASTLE PEAK ROAD – TSING LUNG TAU",
-      "title_tc": "荃灣青山公路 – 青龍頭段臨時車速限制的實施期限",
-      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)<br />TEMPORARY SPEED LIMIT</strong></div>\n<div style=\"text-align: center;\"><strong>ON CASTLE PEAK ROAD &ndash; TSING LUNG TAU</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 am on 26 June 2026 to 6.00 pm on 31 December 2026, the following road sections will be temporar",
-      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例(第374章)</strong></div>\n<div style=\"text-align: center;\"><strong>荃灣青山公路 &ndash; 青龍頭段臨時車速限制的實施期限</strong></div>\n<p><span> <br /></span>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》<span>(</span>第<span>374</span>章<span>)</span>第<span>40(2)(a)</span>條所賦予的權力，下令於<span>2026</span>年<span>6</span>月<span>26</span>日凌晨<span>0</span>時<span>01</span>分起至<span>2026</span>年<span>12</span>月<span>31</span>日下午<span>6</span>時止，下列路段將實施每小時<span>50</span>公里的臨時車速限制：</p>\n<ol>\n<l"
-    },
-    {
-      "feed": "Temporary Speed Limits",
       "title_en": "Temporary Speed Limit On  Castle Peak Road – Tsing Lung Tau, Tsuen Wan",
       "title_tc": "荃灣青山公路 – 青龍頭段臨時車速限制",
       "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)<br />TEMPORARY SPEED LIMIT ON </strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>CASTLE PEAK ROAD &ndash; TSING LUNG TAU, TSUEN WAN</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with ef",
@@ -5442,13 +5442,6 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Airport Road, Chek Lap Kok",
-      "title_tc": "赤鱲角機場路臨時車速限制",
-      "content_en": "<p style=\"text-align: center;\"><strong><u>ROAD TRAFFIC ORDINANCE (Chapter 374)<br /></u></strong><strong><u>Temporary Speed Limit on Airport Road, Chek Lap Kok</u></strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 11.00 p.m. on 30 September 2026 to 6.00 a.m. on 1 October 2026, the section of Airport Road southbound from a point about 150 metres south of its ju",
-      "content_tc": "<p style=\"text-align: center;\"><strong><u>道路交通條例</u></strong><strong><u> (</u></strong><strong><u>第</u></strong><strong><u>374</u></strong><strong><u>章</u></strong><strong><u>)<br /></u></strong><strong><u>赤鱲角機場路臨</u></strong><strong><u>時車速限制</u></strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令由2026年9月30日晚上11時起，至2026年10月1日上午6時止，機場路南行由其與機場南交匯處交界以南約150米處起，至同一交界以南約850 米處止的路段，實施每小時50公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 有關地點將設置適當交通標誌，指導駕駛人士。</p>\n<p>&nbsp; "
-    },
-    {
-      "feed": "Temporary Speed Limits",
       "title_en": "Temporary Speed Limit on Chek Lap Kok Road, Chek Lap Kok",
       "title_tc": "赤鱲角赤鱲角路臨時車速限制",
       "content_en": "<p style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)<br /></strong><strong>Temporary Speed Limit on Chek Lap Kok </strong><strong>Road, Chek Lap Kok</strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 6.00 p.m. on 30 September 2026 to 6.00 p.m. on 31 May 2027, the section of Chek Lap Kok Road northbound from a point about 1,500 metres nort",
@@ -5477,17 +5470,24 @@
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Chek Lap Kok Road",
-      "title_tc": "赤鱲角路臨時車速限制",
-      "content_en": "<p style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)<br />Temporary Speed Limit on Chek Lap Kok </strong><strong>Road</strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 6.00 p.m. on 17 April 2026 to 6.00 p.m. on 30 September 2026, the section of Chek Lap Kok Road northbound from a point about 1,520 metres north of its junction with East C",
-      "content_tc": "<p style=\"text-align: center;\"><strong>道路交通條例</strong><strong> (</strong><strong>第</strong><strong>374</strong><strong>章</strong><strong>)<br /></strong><strong>赤鱲角路臨時車速限制</strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令由2026年4月17日下午 6 時起，至2026 年9月30日下午 6 時止，赤鱲角路北行由其與東岸路交界以北約 1,520米處起，至同一交界以北約 1,900 米處止的路段，實施每小時 50 公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 同時，在上述路段，實施每小時70公里的車速限制，將暫予撤銷。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 有關地點將設置適當交通標誌，指導駕駛人士。</p>\n<p style=\""
+      "title_en": "Speed Limits On Fanling Bypass",
+      "title_tc": "粉嶺繞道車速限制",
+      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong> </strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>SPEED LIMITS ON FANLING BYPASS</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Ro",
+      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通條例 (</strong><strong>第374</strong><strong>章)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>粉嶺</strong><strong>繞道</strong><strong>車速</strong><strong>限制</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令由2026年5月3日上午8時起，粉嶺繞道下列路段將實施下述車速限制：</p>\n<p><em>(a) </em><em>每小時</em><em>50</em><em>公里車速限制：</em></p"
     },
     {
       "feed": "Temporary Speed Limits",
-      "title_en": "Extension of Temporary Speed Limit on Fanling Highway, North District",
-      "title_tc": "延長北區粉嶺公路臨時車速限制的實施期限",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>ROAD TRAFFIC ORDINANCE (Chapter 374)</u></strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u><span>Extension of Temporary Speed Limit on Fanling Highway, North District</span></u></strong><strong><u> </u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that ",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>道路交通條例<span> (</span></u></strong><strong><u>第<span>374</span></u></strong><strong><u>章<span>)</span></u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長北區粉嶺公路臨時車速</u></strong><strong><u>限制的實施期限</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令由2026年4月14日凌晨1時至2026年10月14日凌晨1時，粉嶺公路(北行)由其與粉嶺公路交匯處以北約220米處起，至其與通往百和路的支路交界處(7C出口)以北約200米處止的路段，將繼續實施每小時70公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &n"
+      "title_en": "Temporary Speed Limits on Yuen Long Highway and Shap Pat Heung Interchange",
+      "title_tc": "元朗公路及十八鄉交匯處臨時車速限制",
+      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMITS ON YUEN LONG HIGHWAY AND </strong></div>\n<div style=\"text-align: center;\"><strong>SHAP PAT HEUNG INTERCHANGE, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 a.m. to 6.00 a.m. dail",
+      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>元朗公路及十八鄉交匯處臨時車速限制</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年8月15日至10月7日，每日凌晨0時01分起至上午6時止，下列路段實施每小時50公里的臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 元朗公路東行由約里程標誌44.9A處起，至約里程標誌39.1A處止的路段；<br />(b)&nbsp; &nbsp; 元朗公路西行由約里程標誌40.8B處起，至約里程標誌44.6B處止的路段；<br />(c)&nbsp; &nbsp; 元朗公路北行由其與博愛交匯處的交界"
+    },
+    {
+      "feed": "Temporary Speed Limits",
+      "title_en": "TEMPORARY SPEED LIMIT ON CASTLE PEAK ROAD – TSING LUNG TAU",
+      "title_tc": "荃灣青山公路 – 青龍頭段臨時車速限制的實施期限",
+      "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)<br />TEMPORARY SPEED LIMIT</strong></div>\n<div style=\"text-align: center;\"><strong>ON CASTLE PEAK ROAD &ndash; TSING LUNG TAU</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 am on 26 June 2026 to 6.00 pm on 31 December 2026, the following road sections will be temporar",
+      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例(第374章)</strong></div>\n<div style=\"text-align: center;\"><strong>荃灣青山公路 &ndash; 青龍頭段臨時車速限制的實施期限</strong></div>\n<p><span> <br /></span>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》<span>(</span>第<span>374</span>章<span>)</span>第<span>40(2)(a)</span>條所賦予的權力，下令於<span>2026</span>年<span>6</span>月<span>26</span>日凌晨<span>0</span>時<span>01</span>分起至<span>2026</span>年<span>12</span>月<span>31</span>日下午<span>6</span>時止，下列路段將實施每小時<span>50</span>公里的臨時車速限制：</p>\n<ol>\n<l"
     },
     {
       "feed": "Clearways",
