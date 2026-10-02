@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T00:14:34+08:00",
+  "updated_at": "2026-10-03T03:56:21+08:00",
   "park_count": 581,
   "parks": {
     "12": {
@@ -10382,16 +10382,16 @@
         "CV": null
       }
     },
-    "tdc315p1": {
-      "park_id": "tdc315p1",
-      "name_en": "Lok Man Sun Chuen",
-      "name_tc": "樂民新村",
-      "district_en": "Kowloon City",
-      "district_tc": "九龍城區",
-      "displayAddress_en": "160 KAU PUI LUNG ROAD",
-      "displayAddress_tc": "靠背壟道 160號",
-      "latitude": 22.3176073561,
-      "longitude": 114.18604661494,
+    "tdc388p1": {
+      "park_id": "tdc388p1",
+      "name_en": "Crystal Tower Car Park",
+      "name_tc": "Crystal Tower 停車場",
+      "district_en": "Kwun Tong",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "77 How Ming Street, Kwun Tong, Kowloon",
+      "displayAddress_tc": "九龍觀塘巧明街77號",
+      "latitude": 22.313355199624,
+      "longitude": 114.22040175931,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
