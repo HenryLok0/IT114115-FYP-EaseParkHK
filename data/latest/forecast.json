@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:47:14+08:00",
+  "generated_at": "2026-10-04T22:33:15+08:00",
   "horizon_minutes": 30,
   "methods": {
     "persistence": "Assume vacancy stays at the latest type A count.",
@@ -12,24 +12,24 @@
       "trend": 29.0
     },
     "27": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 3,
+      "persistence": 3.0,
+      "trend": 7.0
     },
     "30": {
-      "privateCar_now": 16,
-      "persistence": 16.0,
-      "trend": 0.0
+      "privateCar_now": 60,
+      "persistence": 60.0,
+      "trend": 148.0
     },
     "31": {
-      "privateCar_now": 14,
-      "persistence": 14.0,
-      "trend": 0.0
+      "privateCar_now": 92,
+      "persistence": 92.0,
+      "trend": 248.0
     },
     "32": {
-      "privateCar_now": 40,
-      "persistence": 40.0,
-      "trend": 0.0
+      "privateCar_now": 74,
+      "persistence": 74.0,
+      "trend": 142.0
     },
     "37": {
       "privateCar_now": 45,
@@ -37,9 +37,9 @@
       "trend": 45.0
     },
     "38": {
-      "privateCar_now": 24,
-      "persistence": 24.0,
-      "trend": 0.0
+      "privateCar_now": 129,
+      "persistence": 129.0,
+      "trend": 339.0
     },
     "39": {
       "privateCar_now": 0,
@@ -47,19 +47,19 @@
       "trend": 0.0
     },
     "75": {
-      "privateCar_now": 48,
-      "persistence": 48.0,
-      "trend": 46.0
+      "privateCar_now": 51,
+      "persistence": 51.0,
+      "trend": 57.0
     },
     "77": {
-      "privateCar_now": 75,
-      "persistence": 75.0,
-      "trend": 49.0
+      "privateCar_now": 96,
+      "persistence": 96.0,
+      "trend": 138.0
     },
     "79": {
-      "privateCar_now": 43,
-      "persistence": 43.0,
-      "trend": 63.0
+      "privateCar_now": 59,
+      "persistence": 59.0,
+      "trend": 91.0
     },
     "81": {
       "privateCar_now": 74,
@@ -72,14 +72,14 @@
       "trend": 120.0
     },
     "93": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 15.0
     },
     "100": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 3.0
+      "privateCar_now": 31,
+      "persistence": 31.0,
+      "trend": 71.0
     },
     "102": {
       "privateCar_now": 150,
@@ -87,74 +87,74 @@
       "trend": 150.0
     },
     "103": {
-      "privateCar_now": 34,
-      "persistence": 34.0,
-      "trend": 30.0
+      "privateCar_now": 42,
+      "persistence": 42.0,
+      "trend": 58.0
     },
     "104": {
-      "privateCar_now": 126,
-      "persistence": 126.0,
-      "trend": 0.0
+      "privateCar_now": 633,
+      "persistence": 633.0,
+      "trend": 1647.0
     },
     "117": {
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 45.0
+    },
+    "118": {
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 6.0
+    },
+    "120": {
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 15.0
+    },
+    "121": {
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 43.0
+    },
+    "123": {
+      "privateCar_now": 52,
+      "persistence": 52.0,
+      "trend": 60.0
+    },
+    "124": {
+      "privateCar_now": 310,
+      "persistence": 310.0,
+      "trend": 560.0
+    },
+    "125": {
+      "privateCar_now": 157,
+      "persistence": 157.0,
+      "trend": 471.0
+    },
+    "128": {
+      "privateCar_now": 27,
+      "persistence": 27.0,
+      "trend": 47.0
+    },
+    "tdc166p1": {
+      "privateCar_now": 1,
+      "persistence": 1.0,
+      "trend": 3.0
+    },
+    "tdc6p11": {
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
+    },
+    "tdc245p1": {
       "privateCar_now": 9,
       "persistence": 9.0,
       "trend": 0.0
     },
-    "118": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "120": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "121": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 4.0
-    },
-    "123": {
-      "privateCar_now": 48,
-      "persistence": 48.0,
-      "trend": 48.0
-    },
-    "124": {
-      "privateCar_now": 185,
-      "persistence": 185.0,
-      "trend": 0.0
-    },
-    "125": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "128": {
-      "privateCar_now": 17,
-      "persistence": 17.0,
-      "trend": 3.0
-    },
-    "tdc166p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc6p11": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc245p1": {
-      "privateCar_now": 14,
-      "persistence": 14.0,
-      "trend": 10.0
-    },
     "tdc6p8": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 1.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 18.0
     },
     "tdc6p9": {
       "privateCar_now": 0,
@@ -162,64 +162,64 @@
       "trend": 0.0
     },
     "tdc8p3": {
-      "privateCar_now": 160,
-      "persistence": 160.0,
-      "trend": 144.0
+      "privateCar_now": 229,
+      "persistence": 229.0,
+      "trend": 367.0
     },
     "tdcp10": {
-      "privateCar_now": 25,
-      "persistence": 25.0,
-      "trend": 41.0
+      "privateCar_now": 29,
+      "persistence": 29.0,
+      "trend": 37.0
     },
     "tdcp11": {
-      "privateCar_now": 85,
-      "persistence": 85.0,
-      "trend": 0.0
+      "privateCar_now": 170,
+      "persistence": 170.0,
+      "trend": 340.0
     },
     "tdcp12": {
-      "privateCar_now": 18,
-      "persistence": 18.0,
-      "trend": 4.0
+      "privateCar_now": 67,
+      "persistence": 67.0,
+      "trend": 165.0
     },
     "tdcp2": {
-      "privateCar_now": 336,
-      "persistence": 336.0,
-      "trend": 210.0
+      "privateCar_now": 471,
+      "persistence": 471.0,
+      "trend": 741.0
     },
     "tdcp3": {
-      "privateCar_now": 41,
-      "persistence": 41.0,
-      "trend": 27.0
+      "privateCar_now": 122,
+      "persistence": 122.0,
+      "trend": 284.0
     },
     "tdcp5": {
-      "privateCar_now": 66,
-      "persistence": 66.0,
-      "trend": 22.0
+      "privateCar_now": 129,
+      "persistence": 129.0,
+      "trend": 255.0
     },
     "tdcp6": {
-      "privateCar_now": 116,
-      "persistence": 116.0,
-      "trend": 82.0
+      "privateCar_now": 151,
+      "persistence": 151.0,
+      "trend": 221.0
     },
     "tdcp7": {
-      "privateCar_now": 18,
-      "persistence": 18.0,
-      "trend": 54.0
+      "privateCar_now": 43,
+      "persistence": 43.0,
+      "trend": 93.0
     },
     "tdcp8": {
-      "privateCar_now": 200,
-      "persistence": 200.0,
-      "trend": 134.0
+      "privateCar_now": 293,
+      "persistence": 293.0,
+      "trend": 479.0
     },
     "tdcp9": {
-      "privateCar_now": 50,
-      "persistence": 50.0,
-      "trend": 88.0
+      "privateCar_now": 94,
+      "persistence": 94.0,
+      "trend": 182.0
     },
     "tdc17p1": {
-      "privateCar_now": 40,
-      "persistence": 40.0,
-      "trend": 36.0
+      "privateCar_now": 43,
+      "persistence": 43.0,
+      "trend": 49.0
     },
     "tdstt30": {
       "privateCar_now": 60,
@@ -227,14 +227,14 @@
       "trend": 60.0
     },
     "tdc17p3": {
-      "privateCar_now": 136,
-      "persistence": 136.0,
-      "trend": 62.0
+      "privateCar_now": 187,
+      "persistence": 187.0,
+      "trend": 289.0
     },
     "tdc17p2": {
-      "privateCar_now": 72,
-      "persistence": 72.0,
-      "trend": 0.0
+      "privateCar_now": 202,
+      "persistence": 202.0,
+      "trend": 462.0
     },
     "tdc14p1004": {
       "privateCar_now": 30,
@@ -282,8 +282,8 @@
       "trend": 30.0
     },
     "tdc268p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
+      "privateCar_now": 3,
+      "persistence": 3.0,
       "trend": 0.0
     },
     "tdc14p1030": {
@@ -302,9 +302,9 @@
       "trend": 0.0
     },
     "tdc14p1033": {
-      "privateCar_now": 18,
-      "persistence": 18.0,
-      "trend": 24.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 54.0
     },
     "tdc14p1034": {
       "privateCar_now": 30,
@@ -317,9 +317,9 @@
       "trend": 30.0
     },
     "tdc25p42": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 6.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 14.0
     },
     "tdc14p2101": {
       "privateCar_now": 30,
@@ -337,19 +337,19 @@
       "trend": 30.0
     },
     "tdc25p41": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 13.0
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 16.0
     },
     "tdc25p40": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 0.0
+      "privateCar_now": 11,
+      "persistence": 11.0,
+      "trend": 21.0
     },
     "tdc14p2116": {
       "privateCar_now": 30,
       "persistence": 30.0,
-      "trend": 44.0
+      "trend": 30.0
     },
     "tdc14p2117": {
       "privateCar_now": 30,
@@ -357,29 +357,29 @@
       "trend": 30.0
     },
     "tdc14p2118": {
-      "privateCar_now": 22,
-      "persistence": 22.0,
-      "trend": 6.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 46.0
     },
     "tdc14p2119": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 84.0
     },
     "tdc14p2120": {
-      "privateCar_now": 26,
-      "persistence": 26.0,
-      "trend": 22.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 38.0
     },
     "tdc14p2121": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 15.0
     },
     "tdc284p1": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 8.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 0.0
     },
     "tdc14p3201": {
       "privateCar_now": 30,
@@ -397,9 +397,9 @@
       "trend": 30.0
     },
     "tdc269p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 0.0
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 12.0
     },
     "tdc14p3216": {
       "privateCar_now": 30,
@@ -407,9 +407,9 @@
       "trend": 30.0
     },
     "tdc264p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 7.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 13.0
     },
     "tdc14p3303": {
       "privateCar_now": 30,
@@ -424,12 +424,12 @@
     "tdc14p3306": {
       "privateCar_now": 30,
       "persistence": 30.0,
-      "trend": 62.0
+      "trend": 30.0
     },
     "tdc247p1": {
-      "privateCar_now": 23,
-      "persistence": 23.0,
-      "trend": 23.0
+      "privateCar_now": 22,
+      "persistence": 22.0,
+      "trend": 20.0
     },
     "tdc14p3309": {
       "privateCar_now": 30,
@@ -472,9 +472,9 @@
       "trend": 30.0
     },
     "tdc14p3441": {
-      "privateCar_now": 14,
-      "persistence": 14.0,
-      "trend": 12.0
+      "privateCar_now": 25,
+      "persistence": 25.0,
+      "trend": 47.0
     },
     "tdc14p3443": {
       "privateCar_now": 30,
@@ -492,9 +492,9 @@
       "trend": 30.0
     },
     "tdc25p37": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 0.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 12.0
     },
     "tdc14p3512": {
       "privateCar_now": 30,
@@ -502,29 +502,24 @@
       "trend": 30.0
     },
     "tdc14p3519": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 88.0
     },
     "tdc14p3520": {
-      "privateCar_now": 19,
-      "persistence": 19.0,
-      "trend": 15.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 52.0
     },
     "tdc14p3521": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 7.0
+      "privateCar_now": 16,
+      "persistence": 16.0,
+      "trend": 30.0
     },
     "tdc14p3522": {
       "privateCar_now": 30,
       "persistence": 30.0,
       "trend": 30.0
-    },
-    "tdc25p36": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 0.0
     },
     "tdc14p3527": {
       "privateCar_now": 0,
@@ -537,9 +532,9 @@
       "trend": 30.0
     },
     "tdc166p2": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 4,
+      "persistence": 4.0,
+      "trend": 12.0
     },
     "tdc14p4219": {
       "privateCar_now": 30,
@@ -567,9 +562,9 @@
       "trend": 30.0
     },
     "tdc14p4227": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 1,
+      "persistence": 1.0,
+      "trend": 3.0
     },
     "tdc14p4235": {
       "privateCar_now": 30,
@@ -602,14 +597,14 @@
       "trend": 30.0
     },
     "tdc14p4320": {
-      "privateCar_now": 12,
-      "persistence": 12.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 66.0
     },
     "tdc14p4321": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 72.0
     },
     "tdc14p4322": {
       "privateCar_now": 30,
@@ -622,9 +617,9 @@
       "trend": 30.0
     },
     "tdc14p4328": {
-      "privateCar_now": 25,
-      "persistence": 25.0,
-      "trend": 55.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 40.0
     },
     "tdc14p4330": {
       "privateCar_now": 30,
@@ -637,14 +632,14 @@
       "trend": 30.0
     },
     "tdc14p4334": {
-      "privateCar_now": 22,
-      "persistence": 22.0,
-      "trend": 6.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 46.0
     },
     "tdc14p4335": {
       "privateCar_now": 30,
       "persistence": 30.0,
-      "trend": 74.0
+      "trend": 30.0
     },
     "tdc14p4337": {
       "privateCar_now": 30,
@@ -657,9 +652,9 @@
       "trend": 30.0
     },
     "tdc14p5128": {
-      "privateCar_now": 22,
-      "persistence": 22.0,
-      "trend": 6.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 46.0
     },
     "tdc14p5129": {
       "privateCar_now": 30,
@@ -667,9 +662,9 @@
       "trend": 30.0
     },
     "tdc397p1": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 1.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 0.0
     },
     "tdc14p5132": {
       "privateCar_now": 30,
@@ -717,9 +712,9 @@
       "trend": 30.0
     },
     "tdc14p5535": {
-      "privateCar_now": 17,
-      "persistence": 17.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 56.0
     },
     "tdc14p5727": {
       "privateCar_now": 30,
@@ -737,9 +732,9 @@
       "trend": 30.0
     },
     "tdc14p6601": {
-      "privateCar_now": 29,
-      "persistence": 29.0,
-      "trend": 27.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 32.0
     },
     "tdc14p6602": {
       "privateCar_now": 30,
@@ -792,9 +787,9 @@
       "trend": 30.0
     },
     "tdc14p6640": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 15.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 17.0
     },
     "tdc14p6641": {
       "privateCar_now": 30,
@@ -827,9 +822,9 @@
       "trend": 30.0
     },
     "tdc14p7622": {
-      "privateCar_now": 24,
-      "persistence": 24.0,
-      "trend": 12.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 42.0
     },
     "tdc14p7623": {
       "privateCar_now": 30,
@@ -847,9 +842,9 @@
       "trend": 30.0
     },
     "tdc14p7633": {
-      "privateCar_now": 30,
-      "persistence": 30.0,
-      "trend": 30.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 3.0
     },
     "tdc14p7636": {
       "privateCar_now": 30,
@@ -867,19 +862,19 @@
       "trend": 30.0
     },
     "tdc14p7737": {
-      "privateCar_now": 12,
-      "persistence": 12.0,
-      "trend": 10.0
+      "privateCar_now": 13,
+      "persistence": 13.0,
+      "trend": 15.0
     },
     "tdc14p7739": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
-    },
-    "tdc14p7740": {
       "privateCar_now": 14,
       "persistence": 14.0,
-      "trend": 6.0
+      "trend": 40.0
+    },
+    "tdc14p7740": {
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 35.0
     },
     "tdc14p7742": {
       "privateCar_now": 30,
@@ -897,9 +892,9 @@
       "trend": 30.0
     },
     "tdc14p8426": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 9.0
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 15.0
     },
     "tdc14p8428": {
       "privateCar_now": 30,
@@ -907,9 +902,9 @@
       "trend": 30.0
     },
     "tdc14p8502": {
-      "privateCar_now": 17,
-      "persistence": 17.0,
-      "trend": 0.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 56.0
     },
     "tdc14p8511": {
       "privateCar_now": 30,
@@ -917,59 +912,59 @@
       "trend": 30.0
     },
     "tdc21p1": {
-      "privateCar_now": 261,
-      "persistence": 261.0,
-      "trend": 215.0
+      "privateCar_now": 345,
+      "persistence": 345.0,
+      "trend": 513.0
     },
     "tdc2p1": {
-      "privateCar_now": 133,
-      "persistence": 133.0,
+      "privateCar_now": 80,
+      "persistence": 80.0,
       "trend": 0.0
     },
     "tdstt71": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc28p1": {
-      "privateCar_now": 158,
-      "persistence": 158.0,
-      "trend": 0.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
     },
     "tdstt4p1": {
-      "privateCar_now": 66,
-      "persistence": 66.0,
-      "trend": 68.0
+      "privateCar_now": 72,
+      "persistence": 72.0,
+      "trend": 84.0
     },
     "tdstt11": {
-      "privateCar_now": 166,
-      "persistence": 166.0,
-      "trend": 168.0
+      "privateCar_now": 138,
+      "persistence": 138.0,
+      "trend": 82.0
     },
     "tdc6p7": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 70,
+      "persistence": 70.0,
+      "trend": 210.0
     },
     "tdstt15": {
       "privateCar_now": 4,
       "persistence": 4.0,
-      "trend": 8.0
+      "trend": 4.0
     },
     "tdc10p2": {
-      "privateCar_now": 98,
-      "persistence": 98.0,
-      "trend": 74.0
+      "privateCar_now": 119,
+      "persistence": 119.0,
+      "trend": 161.0
     },
     "tdc10p3": {
-      "privateCar_now": 31,
-      "persistence": 31.0,
-      "trend": 0.0
+      "privateCar_now": 68,
+      "persistence": 68.0,
+      "trend": 142.0
+    },
+    "tdc26p1": {
+      "privateCar_now": 85,
+      "persistence": 85.0,
+      "trend": 85.0
     },
     "tdc375p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 15,
+      "persistence": 15.0,
+      "trend": 45.0
     },
     "tdc10p1": {
       "privateCar_now": 30,
@@ -977,9 +972,9 @@
       "trend": 30.0
     },
     "tdc6p6": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 9.0
+      "privateCar_now": 45,
+      "persistence": 45.0,
+      "trend": 129.0
     },
     "tdc409p1": {
       "privateCar_now": 41,
@@ -987,14 +982,14 @@
       "trend": 41.0
     },
     "tdc48p3": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 11,
+      "persistence": 11.0,
+      "trend": 33.0
     },
     "tdc48p2": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 2.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 3.0
     },
     "tdc136p1": {
       "privateCar_now": 11,
@@ -1002,14 +997,14 @@
       "trend": 11.0
     },
     "tdc48p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 42.0
     },
     "tdc14p4259": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 24,
+      "persistence": 24.0,
+      "trend": 70.0
     },
     "tdc14p4258": {
       "privateCar_now": 30,
@@ -1017,24 +1012,24 @@
       "trend": 30.0
     },
     "tdc6p13": {
-      "privateCar_now": 27,
-      "persistence": 27.0,
+      "privateCar_now": 10,
+      "persistence": 10.0,
       "trend": 0.0
     },
     "tdc6p14": {
-      "privateCar_now": 82,
-      "persistence": 82.0,
-      "trend": 86.0
+      "privateCar_now": 78,
+      "persistence": 78.0,
+      "trend": 70.0
     },
     "tdc286p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 4,
+      "persistence": 4.0,
+      "trend": 10.0
     },
     "tdc6p17": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 30.0
     },
     "tdc9p3": {
       "privateCar_now": 62,
@@ -1042,54 +1037,54 @@
       "trend": 62.0
     },
     "tdc246p1": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 18.0
+      "privateCar_now": 0,
+      "persistence": 0.0,
+      "trend": 0.0
     },
     "tdc6p18": {
-      "privateCar_now": 34,
-      "persistence": 34.0,
-      "trend": 20.0
+      "privateCar_now": 46,
+      "persistence": 46.0,
+      "trend": 70.0
     },
     "tdc392p1": {
       "privateCar_now": 22,
       "persistence": 22.0,
       "trend": 22.0
     },
+    "tdc6p19": {
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 7.0
+    },
     "tdc6p20": {
-      "privateCar_now": 47,
-      "persistence": 47.0,
-      "trend": 39.0
+      "privateCar_now": 43,
+      "persistence": 43.0,
+      "trend": 35.0
     },
     "tdc6p21": {
-      "privateCar_now": 23,
-      "persistence": 23.0,
-      "trend": 21.0
+      "privateCar_now": 27,
+      "persistence": 27.0,
+      "trend": 35.0
     },
     "tdc368p1": {
-      "privateCar_now": 44,
-      "persistence": 44.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 209.0
     },
     "tdc32p1": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 0.0
-    },
-    "tdc32p2": {
-      "privateCar_now": 28,
-      "persistence": 28.0,
-      "trend": 16.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 36.0
     },
     "tdc32p3": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 0.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 32.0
     },
     "tdc32p4": {
-      "privateCar_now": 75,
-      "persistence": 75.0,
-      "trend": 75.0
+      "privateCar_now": 81,
+      "persistence": 81.0,
+      "trend": 93.0
     },
     "tdc32p5": {
       "privateCar_now": 0,
@@ -1097,54 +1092,54 @@
       "trend": 0.0
     },
     "tdc32p6": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
+      "privateCar_now": 2,
+      "persistence": 2.0,
       "trend": 0.0
     },
     "tdc349p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 17.0
-    },
-    "tdc350p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc113p1": {
-      "privateCar_now": 371,
-      "persistence": 371.0,
-      "trend": 243.0
-    },
-    "tdc113p2": {
-      "privateCar_now": 175,
-      "persistence": 175.0,
-      "trend": 149.0
-    },
-    "tdc34p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc389p1": {
       "privateCar_now": 5,
       "persistence": 5.0,
       "trend": 0.0
     },
+    "tdc350p1": {
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
+    },
+    "tdc113p1": {
+      "privateCar_now": 478,
+      "persistence": 478.0,
+      "trend": 692.0
+    },
+    "tdc113p2": {
+      "privateCar_now": 192,
+      "persistence": 192.0,
+      "trend": 226.0
+    },
+    "tdc34p1": {
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 30.0
+    },
+    "tdc389p1": {
+      "privateCar_now": 22,
+      "persistence": 22.0,
+      "trend": 56.0
+    },
     "tdc356p1": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 27.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 41.0
     },
     "tdc8p13": {
-      "privateCar_now": 212,
-      "persistence": 212.0,
-      "trend": 184.0
+      "privateCar_now": 366,
+      "persistence": 366.0,
+      "trend": 674.0
     },
     "tdc362p1": {
       "privateCar_now": 11,
       "persistence": 11.0,
-      "trend": 25.0
+      "trend": 11.0
     },
     "tdc166p3": {
       "privateCar_now": 0,
@@ -1152,19 +1147,19 @@
       "trend": 0.0
     },
     "tdc35p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 4.0
-    },
-    "tdc244p1": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 7.0
-    },
-    "tdc14p5408": {
       "privateCar_now": 0,
       "persistence": 0.0,
       "trend": 0.0
+    },
+    "tdc244p1": {
+      "privateCar_now": 3,
+      "persistence": 3.0,
+      "trend": 0.0
+    },
+    "tdc14p5408": {
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 90.0
     },
     "tdc14p6603": {
       "privateCar_now": 30,
@@ -1182,9 +1177,9 @@
       "trend": 30.0
     },
     "tdc14p3514": {
-      "privateCar_now": 30,
-      "persistence": 30.0,
-      "trend": 30.0
+      "privateCar_now": 18,
+      "persistence": 18.0,
+      "trend": 0.0
     },
     "tdc14p7545": {
       "privateCar_now": 30,
@@ -1202,9 +1197,9 @@
       "trend": 30.0
     },
     "tdc14p5536": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 17,
+      "persistence": 17.0,
+      "trend": 51.0
     },
     "tdc14p7645": {
       "privateCar_now": 30,
@@ -1232,44 +1227,44 @@
       "trend": 30.0
     },
     "tdc14p4336": {
-      "privateCar_now": 21,
-      "persistence": 21.0,
-      "trend": 53.0
-    },
-    "tdc14p6713": {
       "privateCar_now": 28,
       "persistence": 28.0,
-      "trend": 24.0
+      "trend": 42.0
+    },
+    "tdc14p6713": {
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 34.0
     },
     "tdc108p1": {
-      "privateCar_now": 75,
-      "persistence": 75.0,
-      "trend": 49.0
+      "privateCar_now": 98,
+      "persistence": 98.0,
+      "trend": 144.0
     },
     "tdstt150": {
-      "privateCar_now": 71,
-      "persistence": 71.0,
-      "trend": 65.0
+      "privateCar_now": 81,
+      "persistence": 81.0,
+      "trend": 101.0
     },
     "tdc262p1": {
-      "privateCar_now": 44,
-      "persistence": 44.0,
-      "trend": 20.0
+      "privateCar_now": 60,
+      "persistence": 60.0,
+      "trend": 92.0
     },
     "tdstt46": {
-      "privateCar_now": 41,
-      "persistence": 41.0,
-      "trend": 19.0
+      "privateCar_now": 51,
+      "persistence": 51.0,
+      "trend": 71.0
     },
     "tdc25p43": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 17,
+      "persistence": 17.0,
+      "trend": 51.0
     },
     "tdc25p44": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 2.0
+      "privateCar_now": 15,
+      "persistence": 15.0,
+      "trend": 25.0
     },
     "tdc346p1": {
       "privateCar_now": 0,
@@ -1277,9 +1272,9 @@
       "trend": 0.0
     },
     "tdc53p3": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 15.0
     },
     "tdc393p1": {
       "privateCar_now": 42,
@@ -1287,84 +1282,84 @@
       "trend": 42.0
     },
     "tdc58p3": {
-      "privateCar_now": 8,
-      "persistence": 8.0,
-      "trend": 14.0
+      "privateCar_now": 12,
+      "persistence": 12.0,
+      "trend": 20.0
     },
     "tdc58p4": {
-      "privateCar_now": 8,
-      "persistence": 8.0,
-      "trend": 12.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 26.0
     },
     "tdc408p1": {
-      "privateCar_now": 38,
-      "persistence": 38.0,
-      "trend": 44.0
+      "privateCar_now": 41,
+      "persistence": 41.0,
+      "trend": 47.0
     },
     "tdc57p1": {
-      "privateCar_now": 34,
-      "persistence": 34.0,
-      "trend": 58.0
+      "privateCar_now": 44,
+      "persistence": 44.0,
+      "trend": 64.0
     },
     "tdc56p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 15.0
+      "privateCar_now": 72,
+      "persistence": 72.0,
+      "trend": 198.0
     },
     "tdc8p1": {
-      "privateCar_now": 25,
-      "persistence": 25.0,
-      "trend": 39.0
-    },
-    "tdc8p2": {
-      "privateCar_now": 171,
-      "persistence": 171.0,
-      "trend": 177.0
-    },
-    "tdc8p14": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 0.0
-    },
-    "tdc8p15": {
-      "privateCar_now": 279,
-      "persistence": 279.0,
-      "trend": 149.0
-    },
-    "tdc8p11": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
-    },
-    "tdc8p10": {
-      "privateCar_now": 137,
-      "persistence": 137.0,
-      "trend": 0.0
-    },
-    "tdc8p8": {
       "privateCar_now": 30,
       "persistence": 30.0,
-      "trend": 0.0
+      "trend": 40.0
+    },
+    "tdc8p2": {
+      "privateCar_now": 182,
+      "persistence": 182.0,
+      "trend": 204.0
+    },
+    "tdc8p14": {
+      "privateCar_now": 13,
+      "persistence": 13.0,
+      "trend": 31.0
+    },
+    "tdc8p15": {
+      "privateCar_now": 417,
+      "persistence": 417.0,
+      "trend": 693.0
+    },
+    "tdc8p11": {
+      "privateCar_now": 38,
+      "persistence": 38.0,
+      "trend": 112.0
+    },
+    "tdc8p10": {
+      "privateCar_now": 576,
+      "persistence": 576.0,
+      "trend": 1454.0
+    },
+    "tdc8p8": {
+      "privateCar_now": 97,
+      "persistence": 97.0,
+      "trend": 231.0
     },
     "tdc8p7": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 0.0
+      "privateCar_now": 168,
+      "persistence": 168.0,
+      "trend": 482.0
     },
     "tdc8p12": {
-      "privateCar_now": 39,
-      "persistence": 39.0,
-      "trend": 11.0
+      "privateCar_now": 40,
+      "persistence": 40.0,
+      "trend": 42.0
     },
     "tdc8p9": {
-      "privateCar_now": 43,
-      "persistence": 43.0,
-      "trend": 13.0
+      "privateCar_now": 73,
+      "persistence": 73.0,
+      "trend": 133.0
     },
     "tdc8p16": {
-      "privateCar_now": 95,
-      "persistence": 95.0,
-      "trend": 0.0
+      "privateCar_now": 315,
+      "persistence": 315.0,
+      "trend": 755.0
     },
     "tdc58p2": {
       "privateCar_now": 20,
@@ -1372,114 +1367,114 @@
       "trend": 20.0
     },
     "tdc376p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 40,
+      "persistence": 40.0,
+      "trend": 118.0
     },
     "tdc63p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
+      "privateCar_now": 42,
+      "persistence": 42.0,
+      "trend": 122.0
     },
     "tdc63p2": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
-    },
-    "tdc63p3": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 2.0
-    },
-    "tdc373p1": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 0.0
-    },
-    "tdc67p1": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 30.0
-    },
-    "tdc67p2": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 12.0
-    },
-    "tdc65p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc351p1": {
       "privateCar_now": 13,
       "persistence": 13.0,
-      "trend": 19.0
+      "trend": 35.0
     },
-    "tdc359p1": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 30.0
+    "tdc63p3": {
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 20.0
     },
-    "tdc360p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+    "tdc373p1": {
+      "privateCar_now": 29,
+      "persistence": 29.0,
+      "trend": 65.0
     },
-    "tdc361p1": {
+    "tdc67p1": {
       "privateCar_now": 15,
       "persistence": 15.0,
       "trend": 25.0
     },
-    "tdc69p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
+    "tdc67p2": {
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 13.0
+    },
+    "tdc65p1": {
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 30.0
+    },
+    "tdc351p1": {
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 4.0
+    },
+    "tdc359p1": {
+      "privateCar_now": 20,
+      "persistence": 20.0,
+      "trend": 40.0
+    },
+    "tdc360p1": {
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 15.0
+    },
+    "tdc361p1": {
+      "privateCar_now": 5,
+      "persistence": 5.0,
       "trend": 0.0
+    },
+    "tdc69p1": {
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 42.0
     },
     "tdc69p2": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 0.0
-    },
-    "tdc69p3": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 3.0
-    },
-    "tdc372p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
-    "tdc70p1": {
-      "privateCar_now": 29,
-      "persistence": 29.0,
-      "trend": 67.0
-    },
-    "tdc49p4": {
-      "privateCar_now": 71,
-      "persistence": 71.0,
-      "trend": 53.0
-    },
-    "tdc52p1": {
-      "privateCar_now": 69,
-      "persistence": 69.0,
-      "trend": 0.0
-    },
-    "tdc72p1": {
       "privateCar_now": 15,
       "persistence": 15.0,
-      "trend": 1.0
+      "trend": 37.0
+    },
+    "tdc69p3": {
+      "privateCar_now": 18,
+      "persistence": 18.0,
+      "trend": 52.0
+    },
+    "tdc372p1": {
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
+    },
+    "tdc70p1": {
+      "privateCar_now": 46,
+      "persistence": 46.0,
+      "trend": 80.0
+    },
+    "tdc49p4": {
+      "privateCar_now": 87,
+      "persistence": 87.0,
+      "trend": 119.0
+    },
+    "tdc52p1": {
+      "privateCar_now": 119,
+      "persistence": 119.0,
+      "trend": 219.0
+    },
+    "tdc72p1": {
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 33.0
     },
     "tdc74p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 30.0
     },
     "tdc74p2": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 29,
+      "persistence": 29.0,
+      "trend": 87.0
     },
     "tdc374p1": {
       "privateCar_now": 0,
@@ -1487,24 +1482,24 @@
       "trend": 0.0
     },
     "tdc74p4": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 21.0
     },
     "tdc74p5": {
-      "privateCar_now": 24,
-      "persistence": 24.0,
+      "privateCar_now": 28,
+      "persistence": 28.0,
       "trend": 36.0
     },
     "tdc49p1": {
-      "privateCar_now": 300,
-      "persistence": 300.0,
-      "trend": 6.0
+      "privateCar_now": 496,
+      "persistence": 496.0,
+      "trend": 888.0
     },
     "tdc49p2": {
-      "privateCar_now": 41,
-      "persistence": 41.0,
-      "trend": 0.0
+      "privateCar_now": 510,
+      "persistence": 510.0,
+      "trend": 1448.0
     },
     "tdc243p1": {
       "privateCar_now": 1,
@@ -1512,49 +1507,49 @@
       "trend": 1.0
     },
     "tdc76p2": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 12.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 7.0
     },
     "tdc76p3": {
-      "privateCar_now": 15,
-      "persistence": 15.0,
-      "trend": 21.0
+      "privateCar_now": 19,
+      "persistence": 19.0,
+      "trend": 27.0
     },
     "tdc71p1": {
-      "privateCar_now": 25,
-      "persistence": 25.0,
-      "trend": 19.0
+      "privateCar_now": 27,
+      "persistence": 27.0,
+      "trend": 31.0
     },
     "tdc25p46": {
-      "privateCar_now": 20,
-      "persistence": 20.0,
-      "trend": 0.0
+      "privateCar_now": 44,
+      "persistence": 44.0,
+      "trend": 92.0
     },
     "tdc15p1": {
-      "privateCar_now": 109,
-      "persistence": 109.0,
-      "trend": 91.0
+      "privateCar_now": 110,
+      "persistence": 110.0,
+      "trend": 112.0
     },
     "tdc15p2": {
-      "privateCar_now": 17,
-      "persistence": 17.0,
-      "trend": 0.0
+      "privateCar_now": 56,
+      "persistence": 56.0,
+      "trend": 134.0
     },
     "tdc15p3": {
-      "privateCar_now": 78,
-      "persistence": 78.0,
-      "trend": 76.0
+      "privateCar_now": 77,
+      "persistence": 77.0,
+      "trend": 75.0
     },
     "tdc51p2": {
-      "privateCar_now": 16,
-      "persistence": 16.0,
-      "trend": 26.0
+      "privateCar_now": 20,
+      "persistence": 20.0,
+      "trend": 28.0
     },
     "tdc51p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 3.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 13.0
     },
     "tdc81p2": {
       "privateCar_now": 0,
@@ -1562,54 +1557,54 @@
       "trend": 0.0
     },
     "tdc81p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 23.0
     },
     "tdc323p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
+      "privateCar_now": 1,
+      "persistence": 1.0,
       "trend": 0.0
     },
     "tdc81p7": {
-      "privateCar_now": 14,
-      "persistence": 14.0,
-      "trend": 16.0
+      "privateCar_now": 15,
+      "persistence": 15.0,
+      "trend": 17.0
     },
     "tdc81p6": {
       "privateCar_now": 4,
       "persistence": 4.0,
-      "trend": 6.0
+      "trend": 4.0
     },
     "tdc81p5": {
-      "privateCar_now": 24,
-      "persistence": 24.0,
-      "trend": 64.0
+      "privateCar_now": 25,
+      "persistence": 25.0,
+      "trend": 27.0
     },
     "tdc81p4": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 0.0
+      "privateCar_now": 20,
+      "persistence": 20.0,
+      "trend": 46.0
     },
     "tdc370p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 12,
+      "persistence": 12.0,
+      "trend": 36.0
     },
     "tdc380p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 27.0
     },
     "tdc383p1": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 0.0
+      "privateCar_now": 28,
+      "persistence": 28.0,
+      "trend": 74.0
     },
     "tdc371p1": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 10.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 15.0
     },
     "tdc74p13": {
       "privateCar_now": 29,
@@ -1622,29 +1617,29 @@
       "trend": 90.0
     },
     "tdc74p11": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
+      "privateCar_now": 4,
+      "persistence": 4.0,
+      "trend": 8.0
     },
     "tdc74p10": {
-      "privateCar_now": 8,
-      "persistence": 8.0,
-      "trend": 14.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 11.0
     },
     "tdc74p12": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 23,
+      "persistence": 23.0,
+      "trend": 69.0
     },
     "tdc344p1": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 15.0
+      "privateCar_now": 48,
+      "persistence": 48.0,
+      "trend": 134.0
     },
     "tdc353p1": {
-      "privateCar_now": 17,
-      "persistence": 17.0,
-      "trend": 37.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 0.0
     },
     "tdc242p1": {
       "privateCar_now": 4,
@@ -1652,44 +1647,44 @@
       "trend": 4.0
     },
     "tdstt59": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
     },
     "tdc240p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 6.0
     },
     "tdc74p14": {
-      "privateCar_now": 76,
-      "persistence": 76.0,
-      "trend": 46.0
+      "privateCar_now": 115,
+      "persistence": 115.0,
+      "trend": 193.0
     },
     "tdc96p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 15,
+      "persistence": 15.0,
+      "trend": 45.0
     },
     "tdstt72": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 4,
+      "persistence": 4.0,
+      "trend": 12.0
     },
     "tdc391p1": {
       "privateCar_now": 19,
       "persistence": 19.0,
-      "trend": 35.0
+      "trend": 19.0
     },
     "tdc119": {
-      "privateCar_now": 21,
-      "persistence": 21.0,
-      "trend": 21.0
+      "privateCar_now": 29,
+      "persistence": 29.0,
+      "trend": 45.0
     },
     "tdc118p1": {
-      "privateCar_now": 13,
-      "persistence": 13.0,
-      "trend": 9.0
+      "privateCar_now": 17,
+      "persistence": 17.0,
+      "trend": 25.0
     },
     "tdc239p1": {
       "privateCar_now": 1,
@@ -1697,38 +1692,43 @@
       "trend": 1.0
     },
     "tdc273p1": {
-      "privateCar_now": 8,
-      "persistence": 8.0,
-      "trend": 14.0
-    },
-    "tdstt65": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 30.0
-    },
-    "tdc117p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
-    },
-    "tdc285p1": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 8.0
-    },
-    "tdc236p1": {
-      "privateCar_now": 25,
-      "persistence": 25.0,
-      "trend": 13.0
-    },
-    "tdstt50": {
       "privateCar_now": 7,
       "persistence": 7.0,
-      "trend": 3.0
+      "trend": 5.0
+    },
+    "tdstt65": {
+      "privateCar_now": 0,
+      "persistence": 0.0,
+      "trend": 0.0
+    },
+    "tdc117p1": {
+      "privateCar_now": 29,
+      "persistence": 29.0,
+      "trend": 83.0
+    },
+    "tdc285p1": {
+      "privateCar_now": 12,
+      "persistence": 12.0,
+      "trend": 16.0
+    },
+    "tdc236p1": {
+      "privateCar_now": 31,
+      "persistence": 31.0,
+      "trend": 43.0
+    },
+    "tdstt50": {
+      "privateCar_now": 13,
+      "persistence": 13.0,
+      "trend": 25.0
     },
     "tdc126p1": {
-      "privateCar_now": 16,
-      "persistence": 16.0,
+      "privateCar_now": 18,
+      "persistence": 18.0,
+      "trend": 22.0
+    },
+    "tdc134p1": {
+      "privateCar_now": 26,
+      "persistence": 26.0,
       "trend": 26.0
     },
     "tdc132p1": {
@@ -1737,89 +1737,89 @@
       "trend": 1.0
     },
     "tdc103p1": {
-      "privateCar_now": 266,
-      "persistence": 266.0,
-      "trend": 310.0
+      "privateCar_now": 288,
+      "persistence": 288.0,
+      "trend": 332.0
     },
     "tdc103p2": {
-      "privateCar_now": 213,
-      "persistence": 213.0,
-      "trend": 331.0
+      "privateCar_now": 257,
+      "persistence": 257.0,
+      "trend": 345.0
     },
     "tdc103p3": {
-      "privateCar_now": 78,
-      "persistence": 78.0,
-      "trend": 58.0
+      "privateCar_now": 77,
+      "persistence": 77.0,
+      "trend": 75.0
     },
     "tdc73p1": {
-      "privateCar_now": 19,
-      "persistence": 19.0,
-      "trend": 0.0
+      "privateCar_now": 34,
+      "persistence": 34.0,
+      "trend": 64.0
     },
     "tdc50p8": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 0.0
+      "privateCar_now": 32,
+      "persistence": 32.0,
+      "trend": 76.0
     },
     "tdstt75": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 23,
+      "persistence": 23.0,
+      "trend": 69.0
     },
     "tdc121p1": {
-      "privateCar_now": 122,
-      "persistence": 122.0,
-      "trend": 0.0
+      "privateCar_now": 642,
+      "persistence": 642.0,
+      "trend": 1682.0
     },
     "tdstt90": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 4.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 0.0
     },
     "tdc140p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 3.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 4.0
     },
     "tdc115p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 17.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 10.0
     },
     "tdc124p1": {
-      "privateCar_now": 12,
-      "persistence": 12.0,
-      "trend": 0.0
+      "privateCar_now": 48,
+      "persistence": 48.0,
+      "trend": 120.0
     },
     "tdc92p1": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 20.0
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 1.0
     },
     "tdc153p1": {
-      "privateCar_now": 35,
-      "persistence": 35.0,
-      "trend": 45.0
+      "privateCar_now": 36,
+      "persistence": 36.0,
+      "trend": 38.0
     },
     "tdc139p1": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 7.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 8.0
     },
     "tdc144p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 18.0
     },
     "tdc129p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 3,
+      "persistence": 3.0,
+      "trend": 9.0
     },
     "tdc129p2": {
       "privateCar_now": 8,
       "persistence": 8.0,
-      "trend": 18.0
+      "trend": 8.0
     },
     "tdc129p3": {
       "privateCar_now": 0,
@@ -1827,24 +1827,24 @@
       "trend": 0.0
     },
     "tdc129p4": {
-      "privateCar_now": 10,
-      "persistence": 10.0,
-      "trend": 4.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 43.0
     },
     "tdc102p1": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 0.0
+      "privateCar_now": 17,
+      "persistence": 17.0,
+      "trend": 29.0
     },
     "tdc99p1": {
-      "privateCar_now": 5,
-      "persistence": 5.0,
-      "trend": 3.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 8.0
     },
     "tdc98p1": {
-      "privateCar_now": 28,
-      "persistence": 28.0,
-      "trend": 58.0
+      "privateCar_now": 18,
+      "persistence": 18.0,
+      "trend": 0.0
     },
     "tdc130p1": {
       "privateCar_now": 0,
@@ -1852,44 +1852,44 @@
       "trend": 0.0
     },
     "tdc130p3": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 1,
+      "persistence": 1.0,
+      "trend": 3.0
     },
     "tdc130p2": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 1,
+      "persistence": 1.0,
+      "trend": 3.0
     },
     "tdc142p1": {
-      "privateCar_now": 2,
-      "persistence": 2.0,
-      "trend": 0.0
-    },
-    "tdc151p1": {
       "privateCar_now": 7,
       "persistence": 7.0,
-      "trend": 0.0
+      "trend": 17.0
+    },
+    "tdc151p1": {
+      "privateCar_now": 37,
+      "persistence": 37.0,
+      "trend": 97.0
     },
     "tdc158p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 6.0
     },
     "tdc158p2": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 6.0
     },
     "tdc157p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 1,
+      "persistence": 1.0,
+      "trend": 3.0
     },
     "tdc93p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 0.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 45.0
     },
     "tdc127p1": {
       "privateCar_now": 0,
@@ -1902,9 +1902,9 @@
       "trend": 0.0
     },
     "tdc92p7": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 5.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 0.0
     },
     "tdc104p1": {
       "privateCar_now": 2,
@@ -1914,27 +1914,27 @@
     "tdc148p1": {
       "privateCar_now": 5,
       "persistence": 5.0,
-      "trend": 11.0
+      "trend": 5.0
     },
     "tdc92p4": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 3.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 9.0
     },
     "tdc141p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 2,
+      "persistence": 2.0,
+      "trend": 6.0
     },
     "tdc10p6": {
-      "privateCar_now": 26,
-      "persistence": 26.0,
-      "trend": 50.0
+      "privateCar_now": 20,
+      "persistence": 20.0,
+      "trend": 8.0
     },
     "tdc6p23": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 11,
+      "persistence": 11.0,
+      "trend": 31.0
     },
     "tdc6p24": {
       "privateCar_now": 0,
@@ -1947,19 +1947,24 @@
       "trend": 0.0
     },
     "tdc149p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 0.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 28.0
     },
     "tdc149p2": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 5.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 9.0
+    },
+    "tdc395p1": {
+      "privateCar_now": 87,
+      "persistence": 87.0,
+      "trend": 87.0
     },
     "tdc183p1": {
-      "privateCar_now": 48,
-      "persistence": 48.0,
-      "trend": 0.0
+      "privateCar_now": 120,
+      "persistence": 120.0,
+      "trend": 264.0
     },
     "tdc150p1": {
       "privateCar_now": 0,
@@ -1967,9 +1972,9 @@
       "trend": 0.0
     },
     "tdc168p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 0.0
+      "privateCar_now": 165,
+      "persistence": 165.0,
+      "trend": 481.0
     },
     "tdstt100": {
       "privateCar_now": 10,
@@ -1977,43 +1982,43 @@
       "trend": 10.0
     },
     "tdc177p1": {
-      "privateCar_now": 48,
-      "persistence": 48.0,
-      "trend": 48.0
+      "privateCar_now": 52,
+      "persistence": 52.0,
+      "trend": 60.0
     },
     "tdc248p1": {
-      "privateCar_now": 37,
-      "persistence": 37.0,
-      "trend": 31.0
+      "privateCar_now": 42,
+      "persistence": 42.0,
+      "trend": 52.0
     },
     "tdc147p1": {
-      "privateCar_now": 18,
-      "persistence": 18.0,
-      "trend": 30.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 27.0
     },
     "tdc270p1": {
-      "privateCar_now": 22,
-      "persistence": 22.0,
-      "trend": 0.0
+      "privateCar_now": 38,
+      "persistence": 38.0,
+      "trend": 70.0
     },
     "tdc288p1": {
-      "privateCar_now": 3,
-      "persistence": 3.0,
-      "trend": 5.0
-    },
-    "tdc257p1": {
-      "privateCar_now": 26,
-      "persistence": 26.0,
-      "trend": 32.0
-    },
-    "tdstt69": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
+      "privateCar_now": 2,
+      "persistence": 2.0,
       "trend": 0.0
     },
+    "tdc257p1": {
+      "privateCar_now": 23,
+      "persistence": 23.0,
+      "trend": 17.0
+    },
+    "tdstt69": {
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 24.0
+    },
     "tdstt66": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
+      "privateCar_now": 0,
+      "persistence": 0.0,
       "trend": 0.0
     },
     "tdstt119": {
@@ -2027,19 +2032,19 @@
       "trend": 150.0
     },
     "tdc386p1": {
-      "privateCar_now": 128,
-      "persistence": 128.0,
-      "trend": 54.0
+      "privateCar_now": 166,
+      "persistence": 166.0,
+      "trend": 242.0
     },
     "tdstt132": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 9.0
+      "privateCar_now": 6,
+      "persistence": 6.0,
+      "trend": 4.0
     },
     "tdstt133": {
-      "privateCar_now": 45,
-      "persistence": 45.0,
-      "trend": 45.0
+      "privateCar_now": 49,
+      "persistence": 49.0,
+      "trend": 57.0
     },
     "tdstt74": {
       "privateCar_now": 0,
@@ -2049,37 +2054,37 @@
     "tdstt143": {
       "privateCar_now": 153,
       "persistence": 153.0,
-      "trend": 157.0
+      "trend": 153.0
     },
     "tdstt116": {
-      "privateCar_now": 90,
-      "persistence": 90.0,
-      "trend": 100.0
-    },
-    "tdstt117": {
-      "privateCar_now": 49,
-      "persistence": 49.0,
-      "trend": 61.0
-    },
-    "tdstt118": {
-      "privateCar_now": 34,
-      "persistence": 34.0,
-      "trend": 40.0
-    },
-    "tdstt128": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
+      "privateCar_now": 15,
+      "persistence": 15.0,
       "trend": 0.0
     },
+    "tdstt117": {
+      "privateCar_now": 52,
+      "persistence": 52.0,
+      "trend": 58.0
+    },
+    "tdstt118": {
+      "privateCar_now": 42,
+      "persistence": 42.0,
+      "trend": 58.0
+    },
+    "tdstt128": {
+      "privateCar_now": 91,
+      "persistence": 91.0,
+      "trend": 273.0
+    },
     "tdstt154": {
-      "privateCar_now": 65,
-      "persistence": 65.0,
-      "trend": 53.0
+      "privateCar_now": 3,
+      "persistence": 3.0,
+      "trend": 0.0
     },
     "tdc287p1": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 6.0
+      "privateCar_now": 12,
+      "persistence": 12.0,
+      "trend": 24.0
     },
     "tdc304p1": {
       "privateCar_now": 99,
@@ -2092,33 +2097,33 @@
       "trend": 0.0
     },
     "tdc306p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 297.0
     },
     "tdc280p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 295.0
     },
     "tdc279p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 297.0
     },
     "tdc312p1": {
-      "privateCar_now": 38,
-      "persistence": 38.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 221.0
     },
     "tdc292p1": {
-      "privateCar_now": 39,
-      "persistence": 39.0,
-      "trend": 37.0
+      "privateCar_now": 48,
+      "persistence": 48.0,
+      "trend": 66.0
     },
     "tdstt140": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
+      "privateCar_now": 0,
+      "persistence": 0.0,
       "trend": 0.0
     },
     "tdc308p1": {
@@ -2136,35 +2141,30 @@
       "persistence": 0.0,
       "trend": 0.0
     },
-    "tdc311p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
-    },
     "tdc316p1": {
-      "privateCar_now": 67,
-      "persistence": 67.0,
-      "trend": 33.0
+      "privateCar_now": 84,
+      "persistence": 84.0,
+      "trend": 118.0
     },
     "tdc318p1": {
-      "privateCar_now": 47,
-      "persistence": 47.0,
-      "trend": 93.0
-    },
-    "tdc314p1": {
-      "privateCar_now": 77,
-      "persistence": 77.0,
-      "trend": 61.0
-    },
-    "tdc317p1": {
-      "privateCar_now": 21,
-      "persistence": 21.0,
+      "privateCar_now": 28,
+      "persistence": 28.0,
       "trend": 0.0
     },
+    "tdc314p1": {
+      "privateCar_now": 90,
+      "persistence": 90.0,
+      "trend": 116.0
+    },
+    "tdc317p1": {
+      "privateCar_now": 70,
+      "persistence": 70.0,
+      "trend": 168.0
+    },
     "tdc319p1": {
-      "privateCar_now": 92,
-      "persistence": 92.0,
-      "trend": 176.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 113.0
     },
     "tdc322p1": {
       "privateCar_now": 99,
@@ -2172,104 +2172,94 @@
       "trend": 99.0
     },
     "tdc114p2": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 9,
+      "persistence": 9.0,
+      "trend": 27.0
     },
     "tdc114p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 25,
+      "persistence": 25.0,
+      "trend": 75.0
     },
     "tdc325p1": {
-      "privateCar_now": 90,
-      "persistence": 90.0,
-      "trend": 72.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 117.0
     },
     "tdc324p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 11.0
+      "privateCar_now": 38,
+      "persistence": 38.0,
+      "trend": 100.0
     },
     "tdc320p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 297.0
     },
     "tdc321p1": {
-      "privateCar_now": 15,
-      "persistence": 15.0,
-      "trend": 0.0
+      "privateCar_now": 56,
+      "persistence": 56.0,
+      "trend": 138.0
     },
     "tdc327p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 295.0
     },
     "tdc330p1": {
-      "privateCar_now": 20,
-      "persistence": 20.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 257.0
     },
     "tdc331p1": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 0.0
+      "privateCar_now": 73,
+      "persistence": 73.0,
+      "trend": 207.0
     },
     "tdc332p1": {
-      "privateCar_now": 16,
-      "persistence": 16.0,
-      "trend": 0.0
+      "privateCar_now": 99,
+      "persistence": 99.0,
+      "trend": 265.0
     },
     "tdc328p1": {
-      "privateCar_now": 1,
-      "persistence": 1.0,
-      "trend": 0.0
+      "privateCar_now": 41,
+      "persistence": 41.0,
+      "trend": 121.0
     },
     "tdc290p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 9.0
+      "privateCar_now": 5,
+      "persistence": 5.0,
+      "trend": 1.0
     },
     "tdc289p1": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 4.0
+      "privateCar_now": 3,
+      "persistence": 3.0,
+      "trend": 1.0
     },
     "tdc335p1": {
-      "privateCar_now": 81,
-      "persistence": 81.0,
-      "trend": 95.0
+      "privateCar_now": 42,
+      "persistence": 42.0,
+      "trend": 0.0
     },
     "tdc334p1": {
-      "privateCar_now": 11,
-      "persistence": 11.0,
-      "trend": 17.0
+      "privateCar_now": 14,
+      "persistence": 14.0,
+      "trend": 20.0
     },
     "tdc326p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 10,
+      "persistence": 10.0,
+      "trend": 30.0
     },
     "tdc291p1": {
       "privateCar_now": 0,
       "persistence": 0.0,
       "trend": 0.0
     },
-    "tdc333p1": {
-      "privateCar_now": 19,
-      "persistence": 19.0,
-      "trend": 0.0
-    },
-    "tdc295p1": {
-      "privateCar_now": 6,
-      "persistence": 6.0,
-      "trend": 6.0
-    },
     "tdc293p1": {
       "privateCar_now": 1,
       "persistence": 1.0,
-      "trend": 0.0
+      "trend": 1.0
     },
     "tdc336p1": {
       "privateCar_now": 150,
@@ -2282,9 +2272,9 @@
       "trend": 0.0
     },
     "tdc305p1": {
-      "privateCar_now": 7,
-      "persistence": 7.0,
-      "trend": 17.0
+      "privateCar_now": 8,
+      "persistence": 8.0,
+      "trend": 10.0
     },
     "tdc329p1": {
       "privateCar_now": 0,
@@ -2297,44 +2287,44 @@
       "trend": 99.0
     },
     "tdc347p1": {
-      "privateCar_now": 72,
-      "persistence": 72.0,
-      "trend": 34.0
+      "privateCar_now": 103,
+      "persistence": 103.0,
+      "trend": 165.0
     },
     "tdc348p1": {
-      "privateCar_now": 26,
-      "persistence": 26.0,
-      "trend": 18.0
+      "privateCar_now": 30,
+      "persistence": 30.0,
+      "trend": 38.0
     },
     "tdstt147": {
-      "privateCar_now": 58,
-      "persistence": 58.0,
-      "trend": 58.0
+      "privateCar_now": 64,
+      "persistence": 64.0,
+      "trend": 76.0
     },
     "tdc352p1": {
-      "privateCar_now": 27,
-      "persistence": 27.0,
-      "trend": 27.0
+      "privateCar_now": 31,
+      "persistence": 31.0,
+      "trend": 39.0
     },
     "tdc355p1": {
-      "privateCar_now": 9,
-      "persistence": 9.0,
-      "trend": 0.0
+      "privateCar_now": 16,
+      "persistence": 16.0,
+      "trend": 30.0
     },
     "tdc367p1": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 0.0
+      "privateCar_now": 36,
+      "persistence": 36.0,
+      "trend": 100.0
     },
     "tdc14p8901": {
-      "privateCar_now": 29,
-      "persistence": 29.0,
-      "trend": 51.0
+      "privateCar_now": 21,
+      "persistence": 21.0,
+      "trend": 5.0
     },
     "tdstt153": {
-      "privateCar_now": 71,
-      "persistence": 71.0,
-      "trend": 81.0
+      "privateCar_now": 25,
+      "persistence": 25.0,
+      "trend": 0.0
     },
     "tdstt155": {
       "privateCar_now": 0,
@@ -2342,44 +2332,44 @@
       "trend": 0.0
     },
     "tdstt148": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 21.0
     },
     "tdstt149": {
-      "privateCar_now": 4,
-      "persistence": 4.0,
-      "trend": 4.0
+      "privateCar_now": 78,
+      "persistence": 78.0,
+      "trend": 226.0
     },
     "tdstt151": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 50,
+      "persistence": 50.0,
+      "trend": 150.0
     },
     "tdc16p575": {
-      "privateCar_now": 96,
-      "persistence": 96.0,
-      "trend": 36.0
+      "privateCar_now": 126,
+      "persistence": 126.0,
+      "trend": 186.0
     },
     "tdc394p1": {
-      "privateCar_now": 13,
-      "persistence": 13.0,
-      "trend": 13.0
+      "privateCar_now": 7,
+      "persistence": 7.0,
+      "trend": 0.0
     },
     "tdc402p1": {
-      "privateCar_now": 44,
-      "persistence": 44.0,
-      "trend": 20.0
+      "privateCar_now": 180,
+      "persistence": 180.0,
+      "trend": 452.0
     },
     "tdc403p1": {
-      "privateCar_now": 0,
-      "persistence": 0.0,
-      "trend": 0.0
+      "privateCar_now": 19,
+      "persistence": 19.0,
+      "trend": 57.0
     },
     "tdc404p1": {
-      "privateCar_now": 113,
-      "persistence": 113.0,
-      "trend": 0.0
+      "privateCar_now": 386,
+      "persistence": 386.0,
+      "trend": 932.0
     }
   }
 }
