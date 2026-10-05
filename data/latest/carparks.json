@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-03T03:56:21+08:00",
-  "park_count": 581,
+  "updated_at": "2026-10-06T04:46:15+08:00",
+  "park_count": 583,
   "parks": {
     "12": {
       "park_id": "12",
@@ -11612,6 +11612,46 @@
       "displayAddress_tc": "新界荃灣青山道398號",
       "latitude": 22.375805661264,
       "longitude": 114.112261392,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc410p1": {
+      "park_id": "tdc410p1",
+      "name_en": "Kai Tak Hospital Site B Visitor Carpark",
+      "name_tc": "啟德醫院B區停車場",
+      "district_en": "Kowloon City",
+      "district_tc": "九龍城區",
+      "displayAddress_en": "2 - 3 Shing Cheong Road, Kowloon Bay, Kowloon, Hong Kong",
+      "displayAddress_tc": "香港九龍九龍灣承昌道2-3號",
+      "latitude": 22.317389316516,
+      "longitude": 114.20679468515,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc154p1": {
+      "park_id": "tdc154p1",
+      "name_en": "Block S, United Christian Hospital",
+      "name_tc": "基督教聯合醫院(S座)",
+      "district_en": "Kwun Tong",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "130 Hip Wo Street, Kwun Tong",
+      "displayAddress_tc": "觀塘協和街130號",
+      "latitude": 22.322415725666,
+      "longitude": 114.22745365373,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
