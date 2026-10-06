@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T04:17:15+08:00",
-  "park_count": 581,
+  "updated_at": "2026-10-07T07:56:22+08:00",
+  "park_count": 583,
   "parks": {
     "12": {
       "park_id": "12",
@@ -456,6 +456,46 @@
       "spaces": {
         "privateCar": 142,
         "motorCycle": 0,
+        "LGV": 0,
+        "HGV": 0,
+        "coach": 0,
+        "CV": null
+      }
+    },
+    "124": {
+      "park_id": "124",
+      "name_en": "Stadium Carpark",
+      "name_tc": "主場館停車場",
+      "district_en": "Kowloon City District",
+      "district_tc": "九龍城區",
+      "displayAddress_en": "Kai Tak Sport Park, 38-39 Shing Kai Road, Kowloon, Hong Kong, Kowloon City, KLN",
+      "displayAddress_tc": "九龍九龍城承啟道38-39號啟德體育園",
+      "latitude": 22.32216993,
+      "longitude": 114.1980958,
+      "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": 334,
+        "motorCycle": 34,
+        "LGV": 0,
+        "HGV": 0,
+        "coach": 0,
+        "CV": null
+      }
+    },
+    "125": {
+      "park_id": "125",
+      "name_en": "Arena Carpark",
+      "name_tc": "體藝館停車場",
+      "district_en": "Kowloon City District",
+      "district_tc": "九龍城區",
+      "displayAddress_en": "Kai Tak Sport Park, 38-39 Shing Kai Road, Kowloon, Hong Kong, Kowloon City, KLN",
+      "displayAddress_tc": "九龍九龍城承啟道38-39號啟德體育園",
+      "latitude": 22.32545005,
+      "longitude": 114.19669569,
+      "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": 236,
+        "motorCycle": 25,
         "LGV": 0,
         "HGV": 0,
         "coach": 0,
