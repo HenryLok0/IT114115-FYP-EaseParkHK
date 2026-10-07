@@ -1,27 +1,7 @@
 {
-  "updated_at": "2026-10-07T19:03:24+08:00",
-  "park_count": 584,
+  "updated_at": "2026-10-08T01:48:36+08:00",
+  "park_count": 582,
   "parks": {
-    "12": {
-      "park_id": "12",
-      "name_en": "Amoy Plaza",
-      "name_tc": "淘大商場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "77 Ngau Tau Kok Raod, Kowloon Bay, KLN",
-      "displayAddress_tc": "九龍九龍灣牛頭角道77號",
-      "latitude": 22.32470074,
-      "longitude": 114.21675324,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 389,
-        "motorCycle": 30,
-        "LGV": 5,
-        "HGV": 3,
-        "coach": 0,
-        "CV": null
-      }
-    },
     "27": {
       "park_id": "27",
       "name_en": "Yau Lai Shopping Centre Carpark",
@@ -238,26 +218,6 @@
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 7,
-        "coach": 0,
-        "CV": null
-      }
-    },
-    "81": {
-      "park_id": "81",
-      "name_en": "Manulife Place",
-      "name_tc": "宏利廣場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "348 Kwun Tong Road, Kwun Tong, KLN",
-      "displayAddress_tc": "九龍觀塘觀塘道348號",
-      "latitude": 22.3149246,
-      "longitude": 114.21706438,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 80,
-        "motorCycle": 20,
-        "LGV": 10,
-        "HGV": 5,
         "coach": 0,
         "CV": null
       }
