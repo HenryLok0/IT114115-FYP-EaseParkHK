@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T17:15:38+08:00",
-  "park_count": 584,
+  "updated_at": "2026-10-13T02:28:10+08:00",
+  "park_count": 585,
   "parks": {
     "12": {
       "park_id": "12",
@@ -11672,6 +11672,26 @@
       "displayAddress_tc": "觀塘協和街130號",
       "latitude": 22.322415725666,
       "longitude": 114.22745365373,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdstt160": {
+      "park_id": "tdstt160",
+      "name_en": "Heng Fa Chuen Shing Hong Lane Car Park",
+      "name_tc": "杏花村盛康里停車場",
+      "district_en": "Eastern",
+      "district_tc": "東區",
+      "displayAddress_en": "Shing Hong Lane, Chai Wan, Hong Kong",
+      "displayAddress_tc": "香港柴灣盛康里",
+      "latitude": 22.279341596828,
+      "longitude": 114.23847185589,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
