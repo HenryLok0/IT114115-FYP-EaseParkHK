@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T17:37:30+08:00",
-  "park_count": 584,
+  "updated_at": "2026-10-16T02:27:48+08:00",
+  "park_count": 587,
   "parks": {
     "27": {
       "park_id": "27",
@@ -11672,6 +11672,66 @@
       "displayAddress_tc": "香港柴灣盛康里",
       "latitude": 22.279341596828,
       "longitude": 114.23847185589,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc417p1": {
+      "park_id": "tdc417p1",
+      "name_en": "Millennium City 6",
+      "name_tc": "創紀之城6期",
+      "district_en": "Kwun Tong",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "392 Kwun Tong Road, Kwun Tong",
+      "displayAddress_tc": "觀塘觀塘道392號",
+      "latitude": 22.313353859169,
+      "longitude": 114.22203819525,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc416p1": {
+      "park_id": "tdc416p1",
+      "name_en": "Millennium City 2 & 3",
+      "name_tc": "創紀之城 2 & 3期",
+      "district_en": "Kwun Tong",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "370 and 378 Kwun Tong Road, Kwun Tong, Kowloon",
+      "displayAddress_tc": "觀塘觀塘道370號及378號",
+      "latitude": 22.314611145763,
+      "longitude": 114.21977961427,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc415p1": {
+      "park_id": "tdc415p1",
+      "name_en": "Millennium City 1",
+      "name_tc": "創紀之城1期",
+      "district_en": "Kwun Tong",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "388 Kwun Tong Road, Kwun Tong",
+      "displayAddress_tc": "觀塘觀塘道388號",
+      "latitude": 22.313461784084,
+      "longitude": 114.22137098477,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
