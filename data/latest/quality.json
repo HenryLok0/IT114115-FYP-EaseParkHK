@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-10-19T00:54:42+08:00",
+  "collected_at": "2026-10-19T03:09:52+08:00",
   "park_count": 583,
   "vehicles": {
     "privateCar": {
@@ -13,12 +13,12 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 82,
-        "over_2h": 22,
+        "over_30min": 36,
+        "over_2h": 50,
         "over_1d": 6
       },
-      "max_lag_minutes": 6419.2,
-      "median_lag_minutes": 2.1,
+      "max_lag_minutes": 6554.4,
+      "median_lag_minutes": 2.2,
       "available_pct": 83.02
     },
     "motorCycle": {
@@ -32,12 +32,12 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 30,
-        "over_2h": 6,
+        "over_30min": 17,
+        "over_2h": 16,
         "over_1d": 2
       },
-      "max_lag_minutes": 6419.2,
-      "median_lag_minutes": 23.2,
+      "max_lag_minutes": 6554.4,
+      "median_lag_minutes": 9.8,
       "available_pct": 11.84
     },
     "LGV": {
@@ -51,12 +51,12 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 19,
-        "over_2h": 2,
+        "over_30min": 12,
+        "over_2h": 6,
         "over_1d": 3
       },
-      "max_lag_minutes": 6419.2,
-      "median_lag_minutes": 9.1,
+      "max_lag_minutes": 6554.4,
+      "median_lag_minutes": 3.8,
       "available_pct": 7.72
     },
     "HGV": {
@@ -70,12 +70,12 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 9,
-        "over_2h": 5,
+        "over_30min": 4,
+        "over_2h": 7,
         "over_1d": 4
       },
-      "max_lag_minutes": 6419.2,
-      "median_lag_minutes": 77.3,
+      "max_lag_minutes": 6554.4,
+      "median_lag_minutes": 72.4,
       "available_pct": 4.29
     },
     "coach": {
@@ -89,12 +89,12 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 2,
-        "over_2h": 1,
+        "over_30min": 0,
+        "over_2h": 2,
         "over_1d": 0
       },
-      "max_lag_minutes": 183.5,
-      "median_lag_minutes": 2.8,
+      "max_lag_minutes": 318.6,
+      "median_lag_minutes": 2.1,
       "available_pct": 1.03
     },
     "CV": {
@@ -112,8 +112,8 @@
         "over_2h": 0,
         "over_1d": 0
       },
-      "max_lag_minutes": 1.9,
-      "median_lag_minutes": 1.7,
+      "max_lag_minutes": 2.7,
+      "median_lag_minutes": 1.8,
       "available_pct": 0.17
     }
   },
