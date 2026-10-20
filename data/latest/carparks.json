@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18T17:34:06+08:00",
-  "park_count": 587,
+  "updated_at": "2026-10-20T15:16:47+08:00",
+  "park_count": 588,
   "parks": {
     "12": {
       "park_id": "12",
@@ -315,6 +315,26 @@
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": 96,
+        "motorCycle": 0,
+        "LGV": 0,
+        "HGV": 0,
+        "coach": 0,
+        "CV": null
+      }
+    },
+    "102": {
+      "park_id": "102",
+      "name_en": "The ANGLE",
+      "name_tc": "The ANGLE",
+      "district_en": "Kwun Tong District",
+      "district_tc": "觀塘區",
+      "displayAddress_en": "98 How Ming Street, Kwun Tong, KLN",
+      "displayAddress_tc": "九龍觀塘巧明街98號",
+      "latitude": 22.3131996,
+      "longitude": 114.2205472,
+      "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": 340,
         "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
