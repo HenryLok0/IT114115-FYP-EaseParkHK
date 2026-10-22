@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:34:42+08:00",
+  "updated_at": "2026-10-23T02:59:51+08:00",
   "park_count": 587,
   "parks": {
     "12": {
@@ -4852,26 +4852,6 @@
       "displayAddress_tc": "和興路",
       "latitude": 22.485867345,
       "longitude": 114.146615066,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
-    "tdstt22": {
-      "park_id": "tdstt22",
-      "name_en": "SHEUNG FUNG STREET",
-      "name_tc": "雙鳳街",
-      "district_en": "Wong Tai Sin",
-      "district_tc": "黃大仙區",
-      "displayAddress_en": "SHEUNG FUNG STREET, WONG TAI SIN",
-      "displayAddress_tc": "黃大仙 雙鳳街",
-      "latitude": 22.34658241,
-      "longitude": 114.1974411,
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": null,
@@ -11732,6 +11712,26 @@
       "displayAddress_tc": "觀塘觀塘道388號",
       "latitude": 22.313461784084,
       "longitude": 114.22137098477,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "ai_p_b0001": {
+      "park_id": "ai_p_b0001",
+      "name_en": "Sheung Fung Street Outdoor Car Park",
+      "name_tc": "雙鳳街露天停車場",
+      "district_en": "Wong Tai Sin",
+      "district_tc": "黃大仙區",
+      "displayAddress_en": "55 Sheung Fung Street, Wong Tai Sin, Kowloon",
+      "displayAddress_tc": "九龍雙鳳街55號",
+      "latitude": 22.346600814765,
+      "longitude": 114.1973656035,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
