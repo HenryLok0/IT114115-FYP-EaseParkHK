@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:59:51+08:00",
+  "updated_at": "2026-10-24T03:25:06+08:00",
   "park_count": 587,
   "parks": {
     "12": {
@@ -3942,26 +3942,6 @@
         "CV": null
       }
     },
-    "tdc377p1": {
-      "park_id": "tdc377p1",
-      "name_en": "Aberdeen Tennis & Squash Centre Car Park",
-      "name_tc": "香港仔網球及壁球中心停車場",
-      "district_en": "Southern",
-      "district_tc": "南區",
-      "displayAddress_en": "1 Praya Road, Aberdeen",
-      "displayAddress_tc": "香港仔海傍道1號",
-      "latitude": 22.246951074571,
-      "longitude": 114.15972376439,
-      "opening_status": "CLOSED",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
     "tdstt7p1": {
       "park_id": "tdstt7p1",
       "name_en": "Treasure Top Carpark (Tai Po Yee Nga Court)",
@@ -4853,6 +4833,26 @@
       "latitude": 22.485867345,
       "longitude": 114.146615066,
       "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc405p1": {
+      "park_id": "tdc405p1",
+      "name_en": "Island East Sports Centre",
+      "name_tc": "港島東體育館停車場",
+      "district_en": "Eastern",
+      "district_tc": "東區",
+      "displayAddress_en": "52 Lei King Road, Sai Wan Ho, Hong Kong",
+      "displayAddress_tc": "香港島西灣河鯉景道52號",
+      "latitude": 22.28478194656,
+      "longitude": 114.22231624721,
+      "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
         "motorCycle": null,
@@ -5912,26 +5912,6 @@
       "displayAddress_tc": "香港銅鑼灣告士打道281號",
       "latitude": 22.282146575599,
       "longitude": 114.1842995935,
-      "opening_status": "CLOSED",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
-    "tdc381p1": {
-      "park_id": "tdc381p1",
-      "name_en": "Waterfall Bay Park Car Park",
-      "name_tc": "瀑布灣公園停車場",
-      "district_en": "Southern",
-      "district_tc": "南區",
-      "displayAddress_en": "Waterfall Bay Road, Wah Fu Estate, Aberdeen",
-      "displayAddress_tc": "香港仔華富邨瀑布灣道",
-      "latitude": 22.250591805651,
-      "longitude": 114.13489368832,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
@@ -7372,26 +7352,6 @@
       "displayAddress_tc": "香港大嶼山港珠澳大橋香港口岸",
       "latitude": 22.313943660073,
       "longitude": 113.95289570039,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
-    "tdc51p2": {
-      "park_id": "tdc51p2",
-      "name_en": "Island East Sports Centre",
-      "name_tc": "港島東體育館停車場",
-      "district_en": "Eastern",
-      "district_tc": "東區",
-      "displayAddress_en": "52 Lei King Road, Sai Wan Ho, Hong Kong",
-      "displayAddress_tc": "香港西灣河鯉景道52號",
-      "latitude": 22.28487015,
-      "longitude": 114.2223587,
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": null,
@@ -11732,6 +11692,46 @@
       "displayAddress_tc": "九龍雙鳳街55號",
       "latitude": 22.346600814765,
       "longitude": 114.1973656035,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc406p1": {
+      "park_id": "tdc406p1",
+      "name_en": "Aberdeen Tennis and Squash Centre",
+      "name_tc": "香港仔網球及壁球中心停車場",
+      "district_en": "Southern",
+      "district_tc": "南區",
+      "displayAddress_en": "No. 1 Aberdeen Praya Road, Aberdeen, Hong Kong",
+      "displayAddress_tc": "香港島香港仔香港仔海傍道1號",
+      "latitude": 22.246994990523,
+      "longitude": 114.15972481086,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc407p1": {
+      "park_id": "tdc407p1",
+      "name_en": "Waterfall Bay Park",
+      "name_tc": "瀑布灣公園停車場",
+      "district_en": "Southern",
+      "district_tc": "南區",
+      "displayAddress_en": "No. 8 Waterfall Bay Road, Waterfall Bay, Hong Kong",
+      "displayAddress_tc": "瀑布灣瀑布灣道8號瀑布灣公園",
+      "latitude": 22.250607198057,
+      "longitude": 114.13489111079,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
