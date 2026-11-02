@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T19:55:29+08:00",
-  "park_count": 587,
+  "updated_at": "2026-11-03T05:16:50+08:00",
+  "park_count": 593,
   "parks": {
     "12": {
       "park_id": "12",
@@ -3942,6 +3942,26 @@
         "CV": null
       }
     },
+    "tdc412p1": {
+      "park_id": "tdc412p1",
+      "name_en": "D2 Place TWO",
+      "name_tc": "D2 Place TWO",
+      "district_en": "Sham Shui Po",
+      "district_tc": "深水埗區",
+      "displayAddress_en": "G/F & 4/F., 15 Cheung Shun Street, Cheung Sha Wan, Kowloon",
+      "displayAddress_tc": "九龍長沙灣長順街15號地下及4樓",
+      "latitude": 22.33611474246,
+      "longitude": 114.14756896097,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
     "tdstt7p1": {
       "park_id": "tdstt7p1",
       "name_en": "Treasure Top Carpark (Tai Po Yee Nga Court)",
@@ -5922,6 +5942,26 @@
         "CV": null
       }
     },
+    "tdc413p1": {
+      "park_id": "tdc413p1",
+      "name_en": "D2 Place ONE",
+      "name_tc": "D2 Place ONE",
+      "district_en": "Sham Shui Po",
+      "district_tc": "深水埗區",
+      "displayAddress_en": "G/F., 9 Cheung Yee Street, Cheung Sha Wan, Kowloon",
+      "displayAddress_tc": "九龍長沙灣長義街9號地下",
+      "latitude": 22.336225706373,
+      "longitude": 114.14910496168,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
     "tdc364p1": {
       "park_id": "tdc364p1",
       "name_en": "Tung Chung Municipal Services Building Car Park",
@@ -7353,6 +7393,26 @@
       "latitude": 22.313943660073,
       "longitude": 113.95289570039,
       "opening_status": "OPEN",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc411p1": {
+      "park_id": "tdc411p1",
+      "name_en": "822 Lai Chi Kok Road",
+      "name_tc": "荔枝角道822號",
+      "district_en": "Sham Shui Po",
+      "district_tc": "深水埗區",
+      "displayAddress_en": "G/F,M/F,1/F.,822 Lai Chi Kok Road, Kowloon",
+      "displayAddress_tc": "九龍荔枝角道822號地下、M層及1樓",
+      "latitude": 22.335710292192,
+      "longitude": 114.1478743224,
+      "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
         "motorCycle": null,
@@ -11732,6 +11792,66 @@
       "displayAddress_tc": "瀑布灣瀑布灣道8號瀑布灣公園",
       "latitude": 22.250607198057,
       "longitude": 114.13489111079,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc414p1": {
+      "park_id": "tdc414p1",
+      "name_en": "Sterling Centre",
+      "name_tc": "定豐中心",
+      "district_en": "Sham Shui Po",
+      "district_tc": "深水埗區",
+      "displayAddress_en": "G/F., 11 Cheung Yue Street, Sterling Centre, Cheung Sha Wan, Kowloon",
+      "displayAddress_tc": "九龍長沙灣長義街11號地下",
+      "latitude": 22.337074012903,
+      "longitude": 114.15012182789,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdc265p1": {
+      "park_id": "tdc265p1",
+      "name_en": "Laws Commercial Plaza",
+      "name_tc": "羅氏商業廣場",
+      "district_en": "Sham Shui Po",
+      "district_tc": "深水埗區",
+      "displayAddress_en": "G/F- 4/F.,788 Cheung Sha Wan Road, Cheung Sha Wan, Kowloon.",
+      "displayAddress_tc": "九龍長沙灣長沙灣道788號地下至4樓",
+      "latitude": 22.338274798406,
+      "longitude": 114.14993937631,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
+    "tdstt161": {
+      "park_id": "tdstt161",
+      "name_en": "Richkey Car Park Tin Tan Street",
+      "name_tc": "天壇街啓富停車場",
+      "district_en": "Yuen Long",
+      "district_tc": "元朗區",
+      "displayAddress_en": "Tin Tan Street, Tin Shui Wai, Yuen Long, New Territories",
+      "displayAddress_tc": "新界元朗天水圍天壇街",
+      "latitude": 22.459082657214,
+      "longitude": 113.99671698233,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
