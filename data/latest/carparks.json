@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T05:16:50+08:00",
-  "park_count": 593,
+  "updated_at": "2026-11-04T02:02:15+08:00",
+  "park_count": 591,
   "parks": {
     "12": {
       "park_id": "12",
@@ -4242,26 +4242,6 @@
         "CV": null
       }
     },
-    "tdstt9p1": {
-      "park_id": "tdstt9p1",
-      "name_en": "Shing Hong Lane",
-      "name_tc": "盛康里",
-      "district_en": "Eastern",
-      "district_tc": "東區",
-      "displayAddress_en": "Shing Hong Lane Open Space Carpark, Heng Fa Chuen",
-      "displayAddress_tc": "杏花邨盛康里露天停車場",
-      "latitude": 22.27917047,
-      "longitude": 114.23856157,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
     "tdc6p7": {
       "park_id": "tdc6p7",
       "name_en": "Po Shek Wu Estate",
@@ -5252,26 +5232,6 @@
       "displayAddress_tc": "南區鋼綫灣數碼港道100號",
       "latitude": 22.25959578,
       "longitude": 114.13169297,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
-    "tdc30p1": {
-      "park_id": "tdc30p1",
-      "name_en": "Nina Tower",
-      "name_tc": "如心廣場",
-      "district_en": "Tsuen Wan",
-      "district_tc": "荃灣區",
-      "displayAddress_en": "No. 8 Yeung Uk Road,Tsuen Wan, N.T.",
-      "displayAddress_tc": "新界荃灣楊屋道8號",
-      "latitude": 22.368516229,
-      "longitude": 114.11347198,
       "opening_status": "OPEN",
       "spaces": {
         "privateCar": null,
