@@ -1,87 +1,87 @@
 {
-  "collected_at": "2026-11-04T11:04:35+08:00",
+  "collected_at": "2026-11-05T02:22:15+08:00",
   "park_count": 587,
   "vehicles": {
     "privateCar": {
-      "reported": 578,
-      "available": 503,
-      "unavailable": 75,
+      "reported": 577,
+      "available": 492,
+      "unavailable": 85,
       "types": {
-        "A": 557,
-        "B": 11,
-        "C": 10,
+        "A": 555,
+        "B": 10,
+        "C": 12,
         "other": 0
       },
       "stale": {
-        "over_30min": 53,
-        "over_2h": 34,
-        "over_1d": 3
+        "over_30min": 35,
+        "over_2h": 46,
+        "over_1d": 4
       },
-      "max_lag_minutes": 5309.4,
-      "median_lag_minutes": 3.2,
-      "available_pct": 85.69
+      "max_lag_minutes": 29508.2,
+      "median_lag_minutes": 2.7,
+      "available_pct": 83.82
     },
     "motorCycle": {
       "reported": 84,
-      "available": 72,
-      "unavailable": 12,
+      "available": 65,
+      "unavailable": 19,
       "types": {
-        "A": 83,
+        "A": 81,
         "B": 1,
-        "C": 0,
+        "C": 2,
         "other": 0
       },
       "stale": {
-        "over_30min": 27,
-        "over_2h": 5,
+        "over_30min": 10,
+        "over_2h": 14,
         "over_1d": 1
       },
-      "max_lag_minutes": 5309.4,
-      "median_lag_minutes": 9.9,
-      "available_pct": 12.27
+      "max_lag_minutes": 6227.1,
+      "median_lag_minutes": 11.6,
+      "available_pct": 11.07
     },
     "LGV": {
-      "reported": 59,
-      "available": 49,
-      "unavailable": 10,
+      "reported": 60,
+      "available": 45,
+      "unavailable": 15,
       "types": {
         "A": 57,
         "B": 2,
-        "C": 0,
+        "C": 1,
         "other": 0
       },
       "stale": {
-        "over_30min": 14,
-        "over_2h": 5,
-        "over_1d": 2
+        "over_30min": 7,
+        "over_2h": 10,
+        "over_1d": 1
       },
-      "max_lag_minutes": 5309.4,
-      "median_lag_minutes": 4.4,
-      "available_pct": 8.35
+      "max_lag_minutes": 6227.1,
+      "median_lag_minutes": 4.0,
+      "available_pct": 7.67
     },
     "HGV": {
-      "reported": 27,
-      "available": 25,
-      "unavailable": 2,
+      "reported": 28,
+      "available": 23,
+      "unavailable": 5,
       "types": {
-        "A": 27,
+        "A": 28,
         "B": 0,
         "C": 0,
         "other": 0
       },
       "stale": {
-        "over_30min": 8,
-        "over_2h": 5,
+        "over_30min": 3,
+        "over_2h": 7,
         "over_1d": 2
       },
-      "max_lag_minutes": 5309.4,
-      "median_lag_minutes": 33.0,
-      "available_pct": 4.26
+      "max_lag_minutes": 6227.1,
+      "median_lag_minutes": 22.0,
+      "available_pct": 3.92
     },
     "coach": {
       "reported": 9,
-      "available": 7,
-      "unavailable": 2,
+      "available": 5,
+      "unavailable": 4,
       "types": {
         "A": 9,
         "B": 0,
@@ -89,13 +89,13 @@
         "other": 0
       },
       "stale": {
-        "over_30min": 1,
+        "over_30min": 0,
         "over_2h": 2,
         "over_1d": 0
       },
-      "max_lag_minutes": 241.4,
-      "median_lag_minutes": 4.4,
-      "available_pct": 1.19
+      "max_lag_minutes": 278.7,
+      "median_lag_minutes": 2.7,
+      "available_pct": 0.85
     },
     "CV": {
       "reported": 3,
@@ -112,13 +112,13 @@
         "over_2h": 0,
         "over_1d": 0
       },
-      "max_lag_minutes": 4.2,
-      "median_lag_minutes": 2.5,
+      "max_lag_minutes": 2.9,
+      "median_lag_minutes": 2.2,
       "available_pct": 0.17
     }
   },
   "coverage": {
-    "privateCar_available_pct": 85.69,
-    "privateCar_unavailable_pct": 12.78
+    "privateCar_available_pct": 83.82,
+    "privateCar_unavailable_pct": 14.48
   }
 }
