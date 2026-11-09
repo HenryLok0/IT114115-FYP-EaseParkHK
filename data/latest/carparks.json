@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T04:17:28+08:00",
+  "updated_at": "2026-11-10T04:37:15+08:00",
   "park_count": 591,
   "parks": {
     "12": {
@@ -7128,8 +7128,8 @@
       "name_tc": "東薈城P3停車場",
       "district_en": "Islands",
       "district_tc": "離島區",
-      "displayAddress_en": "39 Man Tung Road, Tung Chung",
-      "displayAddress_tc": "東涌文東路39號",
+      "displayAddress_en": "41 Man Tung Road, Tung Chung",
+      "displayAddress_tc": "東涌文東路41號",
       "latitude": 22.290939273272,
       "longitude": 113.94302567969,
       "opening_status": "OPEN",
