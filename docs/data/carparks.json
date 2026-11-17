@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T19:08:33+08:00",
-  "park_count": 592,
+  "updated_at": "2026-11-17T20:27:10+08:00",
+  "park_count": 591,
   "parks": {
     "12": {
       "park_id": "12",
@@ -242,26 +242,6 @@
         "CV": null
       }
     },
-    "81": {
-      "park_id": "81",
-      "name_en": "Manulife Place",
-      "name_tc": "宏利廣場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "348 Kwun Tong Road, Kwun Tong, KLN",
-      "displayAddress_tc": "九龍觀塘觀塘道348號",
-      "latitude": 22.3149246,
-      "longitude": 114.21706438,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 80,
-        "motorCycle": 20,
-        "LGV": 10,
-        "HGV": 5,
-        "coach": 0,
-        "CV": null
-      }
-    },
     "88": {
       "park_id": "88",
       "name_en": "Public Vehicle Parking, 8 Yan Yue Wai, Yau Tong",
@@ -494,8 +474,8 @@
       "longitude": 114.1980958,
       "opening_status": "OPEN",
       "spaces": {
-        "privateCar": 334,
-        "motorCycle": 34,
+        "privateCar": 0,
+        "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
         "coach": 0,
@@ -514,8 +494,8 @@
       "longitude": 114.19669569,
       "opening_status": "OPEN",
       "spaces": {
-        "privateCar": 236,
-        "motorCycle": 25,
+        "privateCar": 0,
+        "motorCycle": 0,
         "LGV": 0,
         "HGV": 0,
         "coach": 0,
