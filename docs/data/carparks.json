@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17T20:27:10+08:00",
-  "park_count": 591,
+  "updated_at": "2026-11-18T05:12:11+08:00",
+  "park_count": 590,
   "parks": {
     "12": {
       "park_id": "12",
@@ -282,26 +282,6 @@
         "CV": null
       }
     },
-    "100": {
-      "park_id": "100",
-      "name_en": "Prosperity Place Car Park",
-      "name_tc": "泓富廣場停車場",
-      "district_en": "Kwun Tong District",
-      "district_tc": "觀塘區",
-      "displayAddress_en": "Prosperity Place Car Park, 6 Shing Yip Street, Kwun Tong, KLN",
-      "displayAddress_tc": "九龍觀塘成業街 6號泓富廣場停車場",
-      "latitude": 22.31060791,
-      "longitude": 114.2257385,
-      "opening_status": "OPEN",
-      "spaces": {
-        "privateCar": 96,
-        "motorCycle": 0,
-        "LGV": 0,
-        "HGV": 0,
-        "coach": 0,
-        "CV": null
-      }
-    },
     "102": {
       "park_id": "102",
       "name_en": "The ANGLE",
@@ -494,8 +474,8 @@
       "longitude": 114.19669569,
       "opening_status": "OPEN",
       "spaces": {
-        "privateCar": 0,
-        "motorCycle": 0,
+        "privateCar": 236,
+        "motorCycle": 25,
         "LGV": 0,
         "HGV": 0,
         "coach": 0,
