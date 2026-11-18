@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T05:12:17+08:00",
+  "collected_at": "2026-11-18T10:53:58+08:00",
   "notices": [
     {
       "feed": "Temporary Road Closure",
@@ -290,13 +290,6 @@
     },
     {
       "feed": "Temporary Road Closure",
-      "title_en": "Temporary Traffic Arrangement on Canal Road Flyover, Wan Chai",
-      "title_tc": "灣仔堅拿道天橋臨時交通安排",
-      "content_en": "<p style=\"text-align: center;\"><strong><u><span>TRANSPORT DEPARTMENT NOTICE<br /></span></u></strong><strong><u><span>Temporary Traffic Arrangement on Canal Road Flyover</span></u></strong><u><span>,<strong> Wan Chai</strong></span></u></p>\n<p style=\"text-align: justify;\"><span>&nbsp; &nbsp; &nbsp; &nbsp; Notice is hereby given that to facilitate road works, the following traffic lanes on Canal Road Flyover will be temporarily closed to all vehicular traffic during the period specified below:-</",
-      "content_tc": "<p style=\"text-align: center;\"><strong><u>運輸署公告<br /></u></strong><strong><u>灣仔</u></strong><strong><u>堅拿道天橋</u></strong><strong><u>臨時交通安排</u></strong></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; 現公布，為配合道路工程，當局將於下列時間在堅拿道天橋臨時封閉以下行車線，禁止所有車輛駛入：</p>\n<table border=\"1\" style=\"border-collapse: collapse; width: 95.9234%; height: 124px; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr style=\"height: 31px;\">\n<td style=\"width: 46.1611%; text-align: center; height: 31px;\"><strong><u>"
-    },
-    {
-      "feed": "Temporary Road Closure",
       "title_en": "Temporary Traffic Arrangements on Jaffe Road and O’Brien Road, Wan Chai",
       "title_tc": "灣仔謝斐道及柯布連道臨時交通安排",
       "content_en": "<p style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE<br /></span></u></strong><strong><u>Temporary Traffic Arrangements<span> on Jaffe Road and O'Brien Road, Wan Chai</span></u></strong></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp;Motorists are advised that to facilitate water mains works, the following temporary traffic arrangements will be implemented on Jaffe Road and O'Brien Road during the time specified below:</p>\n<p style=\"padding-left: 40px; text-align: justi",
@@ -364,13 +357,6 @@
       "title_tc": "西灣河太寧街臨時交通安排",
       "content_en": "<p style=\"text-align: center;\"><strong><u><span>TRANSPORT DEPARTMENT NOTICE<br /></span></u></strong><strong><u><span>Temporary Traffic Arrangements on Tai Ning Street, Sai Wan Ho</span></u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that, to facilitate water mains works, the following temporary traffic arrangements will be implemented on Tai Ning Street, Sai Wan Ho from 8.00 am on 17 November 2026 to 10.00 pm on 19 November 2026.</p>\n",
       "content_tc": "<p style=\"text-align: center;\"><strong><u>運輸署公告<br /></u></strong><strong><u>西灣河太寧街臨時交通安排</u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，為配合水務工程，當局將於2026年11月17日上午8時至2026年11月19日晚上10時期間，在西灣河太寧街實施以下臨時交通安排：</p>\n<p style=\"text-align: left; padding-left: 40px;\"><strong>1) <u>道路封閉<br /></u></strong>介乎筲箕灣道與西灣河街之間的一段太寧街將會封閉，禁止所有車輛駛入。</p>\n<p style=\"text-align: left; padding-left: 40px;\"><strong>2) <u>交通改道</u></strong></p>\n<p style=\"text-align: left; padding-left: 40px;\">"
-    },
-    {
-      "feed": "Temporary Road Closure",
-      "title_en": "Temporary Traffic Arrangement on Chai Wan Road Roundabout, Chai Wan",
-      "title_tc": "柴灣柴灣道迴旋處臨時交通安排",
-      "content_en": "<p style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE<br /></span></u></strong><strong><u><span>Temporary Traffic Arrangement on Chai Wan Road Roundabout, Chai Wan</span></u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that, to facilitate road improvement works, part of the traffic lanes of the following road sections will be temporarily closed to all vehicular traffic from 10.00 am to 4.00 pm daily on Mondays to Fridays (except public hol",
-      "content_tc": "<p style=\"text-align: center;\"><strong><u>交通通告<br /></u></strong><strong><u>柴灣柴灣道迴旋處臨時交通安排</u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合道路改善工程，下列路段部分行車線將於2026年11月16日至2027年2月28日，逢星期一至星期五 (公眾假期除外）每日上午10時至下午4時期間臨時封閉，禁止所有車輛駛入：</p>\n<p style=\"text-align: left; padding-left: 40px;\">a. 柴灣道迴旋處；及</p>\n<p style=\"text-align: left; padding-left: 40px;\">b. 近柴灣道迴旋處的柴灣道及東區走廊（北行）。</p>\n<p style=\"text-align: left; padding-left: 40px;\">有關地點將設置適當交通標誌， 指導駕駛人士。</p>"
     },
     {
       "feed": "Temporary Road Closure",
@@ -913,6 +899,13 @@
     },
     {
       "feed": "Temporary Road Closure",
+      "title_en": "Extension of Temporary Traffic Arrangements on Ko Fai Road, Yau Tong",
+      "title_tc": "延長油塘高輝道臨時交通安排",
+      "content_en": "<div style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE</span></u></strong></div>\n<div style=\"text-align: center;\"><span> </span></div>\n<div style=\"text-align: center;\"><strong><u>Extension of Temporary Traffic Arrangements </u></strong><strong><u><span>on Ko Fai Road, Yau Tong</span></u></strong></div>\n<p></p>\n<p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that to facilitate </span>drainage <span>works, the following temporary traffic</span> <span>arrangements will c",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長油塘高輝道臨時交通安排</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合渠務工程，當局將於<span>202</span>6年10月26日下午<span>6</span>時至<span>2026</span>年<span>12</span>月<span>26</span>日下午<span>6</span>時期間繼續在油塘實施以下臨時交通安排：</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li><u>行車線封閉</u></li>\n</ol>\n</li>\n</ol>\n<p style=\"paddi"
+    },
+    {
+      "feed": "Temporary Road Closure",
       "title_en": "Temporary Traffic Arrangements on Ko Fai Road, Yau Tong",
       "title_tc": "油塘高輝道臨時交通安排",
       "content_en": "<div style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE</span></u></strong></div>\n<div style=\"text-align: center;\"><span> </span></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Traffic Arrangements </u></strong><strong><u><span>on Ko Fai Road, Yau Tong</span></u></strong></div>\n<p></p>\n<p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that to facilitate drainage works, the slow lane of Ko Fai Road eastbound of about 50 meters near Well Town Industrial Buildi",
@@ -1043,13 +1036,6 @@
       "title_tc": "馬鞍山恆光街臨時交通安排",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Traffic Arrangement on Hang Kwong Street, Ma On Shan</u></strong></div>\n<p><strong> </strong></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Motorists are advised that to facilitate works, one-lane two-way traffic arrangement will be temporarily implemented at the section of Hang Kwong Street from a point about 110 metres west of its junction ",
       "content_tc": "<div style=\"text-align: center;\"><strong><u>交</u></strong><strong><u>通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>馬鞍山恆光街</u></strong><strong><u>臨時交通安排</u></strong></div>\n<p><span> </span></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合工程，由2026年11月16日至2026年11月21日，每日上午10時至下午3時，恆光街由其與恆康街交界以西約110米處起，至同一交界以西約150米處止的一段路，將臨時實施單線雙程行車。</p>\n<p>　　</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 有關地點將設置適當交通標誌，指導駕駛人士。</p>"
-    },
-    {
-      "feed": "Temporary Road Closure",
-      "title_en": "Temporary Traffic Arrangements on Tai Po Road – Sha Tin",
-      "title_tc": "大埔公路－沙田段臨時交通安排",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Traffic Advice</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Traffic Arrangements on Tai Po Road &ndash; Sha Tin</strong></span></div>\n<div style=\"text-align: justify;\"><br />&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that to facilitate road works, the following temporary traffic arrangements will be implemented on Tai Po Road &ndash; Sha ",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>大埔公路－沙田段臨時交通安排</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合道路工程，大埔公路－沙田段將於2026年11月14日及18日，每日凌晨12時30分至上午6時實施以下臨時交通安排：<br /><br /><strong>&nbsp; &nbsp; &nbsp; &nbsp; A. 道路封閉<br /><br /></strong>&nbsp; &nbsp; &nbsp; &nbsp; 下列路段將臨時封閉，禁止所有車輛駛入：</p>\n<p><strong> </strong></p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol style=\"list-style-type: lower-roman;\">\n<li>大埔公路－沙田"
     },
     {
       "feed": "Temporary Road Closure",
@@ -1417,13 +1403,6 @@
     },
     {
       "feed": "Temporary Road Closure",
-      "title_en": "Temporary Traffic Arrangements on Yau Oi Road and Tuen Mun Heung Sze Wui Road in Tuen Mun",
-      "title_tc": "屯門友愛路及屯門鄉事會路臨時交通安排",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Traffic Advice</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Traffic Arrangements on Yau Oi Road and Tuen Mun Heung Sze Wui Road in Tuen Mun</strong></span></div>\n<br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that the following temporary traffic arrangements will be implemented during the following periods to facilita",
-      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>交通通告</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>屯門友愛路及屯門鄉事會路臨時交通安排</strong></span></div>\n<br /><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，下列臨時交通安排將於以下時段實施，以配合路軌更換工程：<br /><br />\n<ol>\n<li style=\"list-style-type: none;\">\n<ol style=\"list-style-type: lower-roman;\">\n<li>行車線封閉\n<ol style=\"list-style-type: lower-alpha;\">\n<li>友愛路（西行）近愛曦樓的一段北面行車線將會於2026年10月"
-    },
-    {
-      "feed": "Temporary Road Closure",
       "title_en": "Temporary Road Closure on Nim Wan Road, Tuen Mun",
       "title_tc": "屯門稔灣路臨時道路封閉",
       "content_en": "<div style=\"text-align: center;\"><strong>TRANSPORT DEPARTMENT NOTICE</strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Road Closure on Nim Wan Road, Tuen Mun</u></strong></div>\n<p><strong><u> </u></strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Notice is hereby given that to facilitate blasting works, a section of Nim Wan Road from its junction with the access road to West New Territories Landfill to a point about 62",
@@ -1634,10 +1613,10 @@
     },
     {
       "feed": "Temporary Road Closure",
-      "title_en": "Extension of Temporary Traffic Arrangements on Ko Fai Road, Yau Tong",
-      "title_tc": "延長油塘高輝道臨時交通安排",
-      "content_en": "<div style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE</span></u></strong></div>\n<div style=\"text-align: center;\"><span> </span></div>\n<div style=\"text-align: center;\"><strong><u>Extension of Temporary Traffic Arrangements </u></strong><strong><u><span>on Ko Fai Road, Yau Tong</span></u></strong></div>\n<p></p>\n<p><span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that to facilitate </span>drainage <span>works, the following temporary traffic</span> <span>arrangements will c",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長油塘高輝道臨時交通安排</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合渠務工程，當局將於<span>202</span>6年10月26日下午<span>6</span>時至<span>2026</span>年<span>12</span>月<span>26</span>日下午<span>6</span>時期間繼續在油塘實施以下臨時交通安排：</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol>\n<li><u>行車線封閉</u></li>\n</ol>\n</li>\n</ol>\n<p style=\"paddi"
+      "title_en": "Temporary Traffic Arrangement on Chai Wan Road Roundabout, Chai Wan",
+      "title_tc": "柴灣柴灣道迴旋處臨時交通安排",
+      "content_en": "<p style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE<br /></span></u></strong><strong><u><span>Temporary Traffic Arrangement on Chai Wan Road Roundabout, Chai Wan</span></u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that, to facilitate road improvement works, part of the traffic lanes of the following road sections will be temporarily closed to all vehicular traffic from 10.00 am to 4.00 pm daily on Mondays to Fridays (except public hol",
+      "content_tc": "<p style=\"text-align: center;\"><strong><u>交通通告<br /></u></strong><strong><u>柴灣柴灣道迴旋處臨時交通安排</u></strong></p>\n<p style=\"text-align: left;\">&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合道路改善工程，下列路段部分行車線將於2026年11月16日至2027年2月28日，逢星期一至星期五 (公眾假期除外）每日上午10時至下午4時期間臨時封閉，禁止所有車輛駛入：</p>\n<p style=\"text-align: left; padding-left: 40px;\">a. 柴灣道迴旋處；及</p>\n<p style=\"text-align: left; padding-left: 40px;\">b. 近柴灣道迴旋處的柴灣道及東區走廊（北行）。</p>\n<p style=\"text-align: left; padding-left: 40px;\">有關地點將設置適當交通標誌， 指導駕駛人士。</p>"
     },
     {
       "feed": "Prohibited Zone",
@@ -3447,24 +3426,10 @@
     },
     {
       "feed": "Other Notices",
-      "title_en": "Permanent Suspension of Parking Space at Sha Kok Mei Road Car Park, Sai Kung",
-      "title_tc": "永久停用西貢沙角尾路停車場泊車位",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Permanent Suspension of Parking Space </u></strong><strong><u>at Sha Kok Mei Road Car Park, Sai Kung<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that, with effect from 9.00 am on 14 September 2026, 1 metered parking space (no. 28426A) at Sha Kok Mei Road Car Park near Palm",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>永久</u></strong><strong><u>停用</u></strong><strong><u>西貢沙角尾路</u></strong><strong><u>停</u></strong><strong><u>車場</u></strong><strong><u>泊車位</u></strong><strong><u><br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，由2026年9月14日上午9時起，位於近鑑平園的沙角尾路停車場內的1個收費錶泊車位(編號︰28426A) 將永久停用。</p>"
-    },
-    {
-      "feed": "Other Notices",
       "title_en": "Temporary Suspension of Parking Spaces at Hiram's Highway Car Park, Sai Kung",
       "title_tc": "臨時停用西貢公路停車場泊車位",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Suspension of Parking Spaces at </u></strong><strong><u>Hiram's Highway Car Park, Sai Kung</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that to facilitate road works, 12 metered parking spaces (nos. 28111A, 28111B, 28112A, 28112B, 28113A, 28113B, 28114A, 28114B, 28115A,",
       "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>臨時</u></strong><strong><u>停用</u></strong><strong><u>西貢公路</u></strong><strong><u>停</u></strong><strong><u>車場</u></strong><strong><u>泊車位</u></strong><strong><u><br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，為配合道路工程，位於近漁民新村的西貢公路停車場內的12個收費錶泊車位(編號︰28111A、28111B、28112A、28112B、28113A、28113B、28114A、28114B、28115A、28115B、28116A及28116B)將由2026年9月7日上午8時至2026年11月27日下午6時臨時停用。<"
-    },
-    {
-      "feed": "Other Notices",
-      "title_en": "Extension of Temporary Relocation of Bus Stop & GMB Stand on  On Yu Road, Sai Kung",
-      "title_tc": "延長臨時搬遷西貢安愉道的巴士站及專線小巴站",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Extension of Temporary Relocation of Bus Stop and GMB Stand on&nbsp;</u></strong><strong><u>On Yu Road, Sai Kung</u></strong></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that to facilitate road works, the following bus stop and GMB stand on On Yu Road, Sai Kung will continue to be temporarily relocated until 6:00 pm on 28 November 202",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長臨時搬遷西貢安愉道的巴士站及專線小巴站</u></strong></div>\n<p><strong><u> </u></strong></p>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，為配合道路工程，以下位於西貢安愉道的巴士站及專線小巴站將繼續臨時遷移直至2026年11月28日下午6時:</p>\n<table width=\"593\" height=\"298\" style=\"border-collapse: collapse; width: 84.0476%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto; height: 296px;\">\n<tbody>\n<tr style=\"hei"
     },
     {
       "feed": "Other Notices",
@@ -3479,13 +3444,6 @@
       "title_tc": "永久停用西貢窩美紅棉路停車場泊車位",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Permanent Suspension of Parking Space </u></strong><strong><u>at Wo Mei Hung Min Road Car Park, Sai Kung<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that, with effect from 9.00 am on 24 August 2026, 1 metered parking space (no. 28331B) at Wo Mei Hung Min Road Car Park will",
       "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>永久</u></strong><strong><u>停用</u></strong><strong><u>西貢窩美紅棉路</u></strong><strong><u>停</u></strong><strong><u>車場</u></strong><strong><u>泊車位</u></strong><strong><u><br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，由2026年8月24日上午9時起，位於窩美紅棉路停車場內的1個收費錶泊車位(編號︰28331B) 將永久停用。</p>"
-    },
-    {
-      "feed": "Other Notices",
-      "title_en": "Extension of the Longest Parking Period for Each Transaction of Metered Parking Spaces in Pak Tam Chung, Sai Kung",
-      "title_tc": "延長西貢北潭涌收費錶泊車位每次交易的最長泊車時間",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Extension of the Longest Parking Period for Each Transaction of </u></strong><strong><u>Metered Parking Spaces in Pak Tam Chung, Sai Kung<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that, to better cater for country park visitors requiring extended parking stay",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長西貢北潭涌收費錶泊車位每次交易的最長泊車時間</u></strong><strong><u><br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，為回應郊遊人士對較長泊車時段的需求，北潭涌停車場由2026年8月17日起，調整其中35個設有停車收費錶泊車位的泊車安排。泊車位每次交易的最長泊車時間，將由現時的兩小時延長至四小時。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士可透過「入錶易」流動應用程式，按需要遙距續購泊車時間，合共最多八小時。有關指定泊車位將豎立綠色時間指示牌，以方便市民識別。</p>"
     },
     {
       "feed": "Other Notices",
@@ -4721,6 +4679,13 @@
     },
     {
       "feed": "Other Notices",
+      "title_en": "Temporary Traffic Arrangements on King Sau Lane and King Fung Path, Tuen Mun",
+      "title_tc": "屯門景秀里及景峰徑臨時交通安排",
+      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Traffic Arrangements on King Sau Lane and King Fung Path, Tuen Mun</u></strong></div>\n<p><br />&nbsp; &nbsp; Motorists are advised that in order to facilitate road works, the following temporary traffic arrangements will be implemented on King Sau Lane and King Fung Path from 10.00 am to 4.00 pm daily from 23 to 28 November 2026:</p>\n<ol style=\"list-style-type: lowe",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通</u></strong><strong><u>告</u></strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u>屯門</u></strong><strong><u>景秀里及景峰徑</u></strong><strong><u>臨時交通安排</u></strong></div>\n<p><br />&nbsp; &nbsp; 駕駛人士請注意，為配合道路工程，景秀里及景峰徑將由2026年11月23日至28日每日上午10時至下午4時實施以下臨時交通安排：</p>\n<ol style=\"list-style-type: lower-roman;\">\n<li><strong><u>行車方向安排<br /><br /></u></strong>景峰徑由其與景秀里交界以南約25米處起，至同一交界以北約20米處止的路段將臨時改為單線"
+    },
+    {
+      "feed": "Other Notices",
       "title_en": "Suspension of Bicycle Parking Spaces in Tuen Mun",
       "title_tc": "暫停使用屯門區單車泊車處",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Suspension of Bicycle Parking Spaces in Tuen Mun</u></strong></div>\n<p><br />&nbsp; &nbsp; Members of the public are advised that in order to facilitate clearance operations, the bicycle parking spaces at Ming Kum Road near Tuen Mun North West Swimming Pool (near lamp post no. CD0082) will be suspended from 9.00 am on 18 November 2026 to 5.00 pm on 20 November 2026.<br /><br ",
@@ -5547,10 +5512,17 @@
     },
     {
       "feed": "Other Notices",
-      "title_en": "Temporary Traffic Arrangements on King Sau Lane and King Fung Path, Tuen Mun",
-      "title_tc": "屯門景秀里及景峰徑臨時交通安排",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Traffic Arrangements on King Sau Lane and King Fung Path, Tuen Mun</u></strong></div>\n<p><br />&nbsp; &nbsp; Motorists are advised that in order to facilitate road works, the following temporary traffic arrangements will be implemented on King Sau Lane and King Fung Path from 10.00 am to 4.00 pm daily from 23 to 28 November 2026:</p>\n<ol style=\"list-style-type: lowe",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通</u></strong><strong><u>告</u></strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u>屯門</u></strong><strong><u>景秀里及景峰徑</u></strong><strong><u>臨時交通安排</u></strong></div>\n<p><br />&nbsp; &nbsp; 駕駛人士請注意，為配合道路工程，景秀里及景峰徑將由2026年11月23日至28日每日上午10時至下午4時實施以下臨時交通安排：</p>\n<ol style=\"list-style-type: lower-roman;\">\n<li><strong><u>行車方向安排<br /><br /></u></strong>景峰徑由其與景秀里交界以南約25米處起，至同一交界以北約20米處止的路段將臨時改為單線"
+      "title_en": "Permanent Suspension of Parking Space at Sha Kok Mei Road Car Park, Sai Kung",
+      "title_tc": "永久停用西貢沙角尾路停車場泊車位",
+      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Permanent Suspension of Parking Space </u></strong><strong><u>at Sha Kok Mei Road Car Park, Sai Kung<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Motorists are advised that, with effect from 9.00 am on 14 September 2026, 1 metered parking space (no. 28426A) at Sha Kok Mei Road Car Park near Palm",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>永久</u></strong><strong><u>停用</u></strong><strong><u>西貢沙角尾路</u></strong><strong><u>停</u></strong><strong><u>車場</u></strong><strong><u>泊車位</u></strong><strong><u><br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 駕駛人士請注意，由2026年9月14日上午9時起，位於近鑑平園的沙角尾路停車場內的1個收費錶泊車位(編號︰28426A) 將永久停用。</p>"
+    },
+    {
+      "feed": "Other Notices",
+      "title_en": "Extension of Temporary Relocation of Bus Stop & GMB Stand on  On Yu Road, Sai Kung",
+      "title_tc": "延長臨時搬遷西貢安愉道的巴士站及專線小巴站",
+      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Extension of Temporary Relocation of Bus Stop and GMB Stand on&nbsp;</u></strong><strong><u>On Yu Road, Sai Kung</u></strong></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that to facilitate road works, the following bus stop and GMB stand on On Yu Road, Sai Kung will continue to be temporarily relocated until 6:00 pm on 28 November 202",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>延長臨時搬遷西貢安愉道的巴士站及專線小巴站</u></strong></div>\n<p><strong><u> </u></strong></p>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，為配合道路工程，以下位於西貢安愉道的巴士站及專線小巴站將繼續臨時遷移直至2026年11月28日下午6時:</p>\n<table width=\"593\" height=\"298\" style=\"border-collapse: collapse; width: 84.0476%; border-color: #000000; border-style: solid; margin-left: auto; margin-right: auto; height: 296px;\">\n<tbody>\n<tr style=\"hei"
     },
     {
       "feed": "Temporary Speed Limits",
@@ -5703,13 +5675,6 @@
       "feed": "Temporary Speed Limits",
       "title_en": "Temporary Speed Limit on Fanling Highway, North District",
       "title_tc": "北區粉嶺公路臨時車速限制",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC ORDINANCE (Chapter 374)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong> </strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Speed Limit on Fanling Highway, North District</strong></span><strong> </strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers v",
-      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通條例 (</strong><strong>第374</strong><strong>章)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>北區粉嶺公路臨時車速</strong><strong>限制</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》(第374章) 第40(2)(a)條所賦予的權力，下令於2026年11月10日、12日、13日及18日每日凌晨1時至上午5時30分，下列路段將實施下述臨時車速限制：</p>\n<ol>\n<li>粉嶺公路(南行)由其與大頭嶺迴旋處(出口9)的交界以西約445米處起，至同一交界以東約41米處止的路段，將實施每小時"
-    },
-    {
-      "feed": "Temporary Speed Limits",
-      "title_en": "Temporary Speed Limit on Fanling Highway, North District",
-      "title_tc": "北區粉嶺公路臨時車速限制",
       "content_en": "<p style=\"text-align: center;\"><strong><u>ROAD TRAFFIC ORDINANCE (CHAPTER 374)<br /></u></strong><strong><u>TEMPORARY SPEED LIMIT ON FANLING HIGHWAY, NORTH DISTRICT</u></strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 7.00 a.m. to 4.00 p.m. daily on 8 November 2026 and 6 December 2026, the section of Fanling Highway westbound from a point about 400 metres east",
       "content_tc": "<p style=\"text-align: center;\"><strong><u>道路交通條例</u></strong><strong><u>(</u></strong><strong><u>第</u></strong><strong><u>374</u></strong><strong><u>章</u></strong><strong><u>)<br /></u></strong><strong><u>北區粉嶺公路臨時車速限制</u></strong></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令於2026年11月8日及2026年12月6日，每日由上午7時至下午4時止，粉嶺公路西行由其與掃管埔路迴旋處交界以東約400米處起，至其與大頭嶺迴旋處交界以西約1500米處止的路段，實施每小時80公里的臨時車速限制。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;有關地點將設置適當交通標誌，指導駕駛人士。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbs"
     },
@@ -5845,13 +5810,6 @@
       "title_tc": "延長元朗公路及十八鄉交匯處臨時車速限制的實施期限",
       "content_en": "<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>EXTENSION OF TEMPORARY SPEED LIMITS ON YUEN LONG HIGHWAY AND </strong></div>\n<div style=\"text-align: center;\"><strong>SHAP PAT HEUNG INTERCHANGE, YUEN LONG</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 0.01 a.m. to 6",
       "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>延長</strong><strong>元朗公路及十八鄉交匯處臨時車速限制的實施期限</strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通條例》（第374章）第40(2)(a)條所賦予的權力，下令於2026年10月8日起，至2026年12月2日止，每日凌晨0時01分至上午6時，下列路段繼續實施每小時50公里的臨時車速限制：</p>\n<p style=\"padding-left: 40px;\">(a)&nbsp; &nbsp; 元朗公路東行由約里程標誌44.9A處起，至約里程標誌39.1A處止的路段；<br />(b)&nbsp; &nbsp; 元朗公路西行由約里程標誌40.8B處起，至約里程標誌44.6B處止的路段；<br />(c"
-    },
-    {
-      "feed": "Temporary Speed Limits",
-      "title_en": "TEMPORARY SPEED LIMITS IN YUEN LONG",
-      "title_tc": "元朗臨時車速限制",
-      "content_en": "<p><strong><u> </u></strong></p>\n<div style=\"text-align: center;\"><strong>ROAD TRAFFIC ORDINANCE (CHAPTER 374)</strong></div>\n<div style=\"text-align: center;\"><strong>TEMPORARY SPEED LIMITS IN YUEN LONG</strong></div>\n<p><u> </u></p>\n<p>　　In exercise of the powers vested in me under section 40(2)(a) of the Road Traffic Ordinance, Chapter 374, I hereby direct that with effect from 1.00 a.m. to 5.30 a.m. daily on every Monday to Thursday (except public holidays) during the period from 29 September",
-      "content_tc": "<div style=\"text-align: center;\"><strong>道路交通條例（第</strong><strong>374</strong><strong>章）</strong></div>\n<div style=\"text-align: center;\"><strong>元朗</strong><strong>臨時車速限制</strong></div>\n<p><br />　　本人現行使《道路交通條例》(第374章)第40(2)(a)條所賦予的權力，下令於2026年9月29日至2026年11月18日期間，逢星期一至星期四（公眾假期除外）每日凌晨1時至上午5時30分，新田公路、青朗公路及元朗公路下列路段將實施下述臨時車速限制：<br /><br />　　(i) 元朗公路北行介乎約里程標誌38.3A處及約里程標誌38.2A處之間的路段，將實施每小時80公里的臨時車速限制；<br />　　(ii) 青朗公路北行介乎約里程標誌27.2N處及約里程標誌37.6A處之間的路段，將實施每小時50公里或每小時80公里的臨時車速限制；<br />　　(iii) 新田公路北行介乎約里程標誌3"
     },
     {
       "feed": "Temporary Speed Limits",
@@ -6055,13 +6013,6 @@
       "title_tc": "中環畢打街臨時限制區",
       "content_en": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</strong></span><br /><span style=\"text-decoration: underline;\"><strong>TEMPORARY RESTRICTED ZONE AT PEDDER STREET, CENTRAL</strong></span></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulation 14(1)(b) of the Road Traffic (Traffic Control) Regulations, Chapter 374G, I hereby direct that with effect from 10.00 am on 2 Octob",
       "content_tc": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通(交通管制)規例(第374G章)</strong></span><br /><span style=\"text-decoration: underline;\"><strong>中環畢打街臨時限制區</strong></span></p>\n<p><u> </u></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章)第 <span>14(1)(b)</span>條所賦予的權力，下令由2026年10月2日上午10時起，至2027年3月16日上午10時止，畢打街由其與德輔道中交界以南約10米處起，至同一交界以南約40米處止的東面路旁行車線，全日24小時暫劃為限制區。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 除專利巴士及經由運輸署署長發給許可證者外，機動車輛司機一律禁止在限制區內：</p>\n<ol>\n<li style=\"lis"
-    },
-    {
-      "feed": "Clearways",
-      "title_en": "Temporary Restricted Zone at Man Kwong Street, Central",
-      "title_tc": "中環民光街臨時限制區",
-      "content_en": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</strong></span><br /><span style=\"text-decoration: underline;\"><strong>TEMPORARY RESTRICTED ZONE AT MAN KWONG STREET, CENTRAL</strong></span></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulation 14(1)(b) of the Road Traffic (Traffic Control) Regulations, Chapter 374G, I hereby direct that with effect from 12.01 am on 18 M",
-      "content_tc": "<p style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通(交通管制)規例(第374G章)</strong></span><br /><span style=\"text-decoration: underline;\"><strong>中環民光街臨時限制區</strong></span></p>\n<p><u> </u></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章)第 <span>14(1)(b)</span>條所賦予的權力，下令由2026年5月18日凌晨12時01分起，至2026年11月17日下午11時59分止，民光街西行由其與民耀街交界以東約10米處起，至同一交界以東約45米處止的北面路旁行車線，全日24小時暫劃為限制區。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 除專利巴士及經由運輸署署長發給許可證者外，機動車輛司機一律禁止在限制區內：</p>\n<ol>\n<li st"
     },
     {
       "feed": "Clearways",
@@ -7339,13 +7290,6 @@
     },
     {
       "feed": "Clearways",
-      "title_en": "Restricted Zones on Ching Hong Road, Tsing Yi",
-      "title_tc": "青衣青康路限制區",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Restricted Zones on Ching Hong Road, Tsing Yi</strong></span></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulation 14(1)(b) of the Road Traffic (Traffic Control) Regulations, Chapter 374G, I h",
-      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通（交通管制）規例（第</strong><strong>374G</strong><strong>章）</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>青衣青康路限制區</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章) 第14(1)(b)條所賦予的權力，下令由2026年11月6日上午10時起，下列路段全日24小時劃為限制區：</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol style=\"list-style-type: lower-alpha;\">\n<li>青"
-    },
-    {
-      "feed": "Clearways",
       "title_en": "Restricted Zone on Tsing Yi Road, Tsing Yi",
       "title_tc": "青衣青衣路限制區",
       "content_en": "<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS </span></strong><strong><span style=\"text-decoration: underline;\">(CHAPTER 374G)</span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Restricted Zone on Tsing Yi Road, Tsing Yi<br /><br /></span></strong></div>\n<p>&nb",
@@ -7357,13 +7301,6 @@
       "title_tc": "青衣青康路限制區",
       "content_en": "<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS </strong></span><span style=\"text-decoration: underline;\"><strong>(CHAPTER 374G)</strong></span></div>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Restricted Zone on Ching Hong Road, Tsing Yi</span></strong></p>\n<p>&nbsp; &nbsp; &nb",
       "content_tc": "<div style=\"text-align: left;\"></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong> </strong><strong><u>道路交通</u></strong><strong><u> (</u></strong><strong><u>交通管制</u></strong><strong><u>) </u></strong><strong><u>規例</u></strong><strong><u> <span>(</span></u></strong><strong><u>第</u></strong><strong><u>374G</u></strong><strong><u>章</u></strong><strong><u>)</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div "
-    },
-    {
-      "feed": "Clearways",
-      "title_en": "Temporary Restricted Zones on Wo Tong Tsui Street, Kwai Chung",
-      "title_tc": "葵涌禾塘咀街臨時限制區",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS </strong><strong>(CHAPTER 374G)</strong></span></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Restricted Zones on Wo Tong Tsui Street, Kwai Chung<br /><br /></u></strong></div>\n<div style=\"text-align: center;\"></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulatio",
-      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通</strong><strong>(</strong><strong>交通管制</strong><strong>)</strong><strong>規例 </strong><strong>(</strong><strong>第</strong><strong>374G</strong><strong>章</strong><strong>)</strong></span></div>\n<div style=\"text-align: center;\"><strong><u>葵涌禾塘咀街臨時限制區<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章)第14(1)(b)條所賦予的權力，下令由2026年8月10日上午10時起，至2026年12月14日下午6時止，下列路段將全日24小時暫劃為限制區：</"
     },
     {
       "feed": "Clearways",
@@ -7441,6 +7378,20 @@
       "title_tc": "大嶼山嶼南道限制區",
       "content_en": "<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\"> </span></strong></div>\n<div style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Restricted Zones on South Lantau Road, Lantau Island</span></strong></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;In exercise of the powers vested i",
       "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通(交通管制)規例 (第374G章)</strong></span></div>\n<div style=\"text-align: center;\"></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>大嶼山嶼南道限制區</strong></span></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;本人現行使《道路交通(交通管制)規例》(第374G章)第14(1)(b)條所賦予的權力，下令由2023年12月8日上午10時起，下列路段將劃為全日24小時限制區：</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; (a) 嶼南道由其與蔴埔坪道交界處起，至同一交界以東約15米處止的北面路旁行車線；及<br />&nbsp; &nbsp; &"
+    },
+    {
+      "feed": "Clearways",
+      "title_en": "Restricted Zones on Ching Hong Road, Tsing Yi",
+      "title_tc": "青衣青康路限制區",
+      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS (CHAPTER 374G)</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Restricted Zones on Ching Hong Road, Tsing Yi</strong></span></div>\n<p></p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulation 14(1)(b) of the Road Traffic (Traffic Control) Regulations, Chapter 374G, I h",
+      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通（交通管制）規例（第</strong><strong>374G</strong><strong>章）</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>青衣青康路限制區</strong></span></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章) 第14(1)(b)條所賦予的權力，下令由2026年11月6日上午10時起，下列路段全日24小時劃為限制區：</p>\n<ol>\n<li style=\"list-style-type: none;\">\n<ol style=\"list-style-type: lower-alpha;\">\n<li>青"
+    },
+    {
+      "feed": "Clearways",
+      "title_en": "Temporary Restricted Zones on Wo Tong Tsui Street, Kwai Chung",
+      "title_tc": "葵涌禾塘咀街臨時限制區",
+      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>ROAD TRAFFIC (TRAFFIC CONTROL) REGULATIONS </strong><strong>(CHAPTER 374G)</strong></span></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u>Temporary Restricted Zones on Wo Tong Tsui Street, Kwai Chung<br /><br /></u></strong></div>\n<div style=\"text-align: center;\"></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; In exercise of the powers vested in me under regulatio",
+      "content_tc": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>道路交通</strong><strong>(</strong><strong>交通管制</strong><strong>)</strong><strong>規例 </strong><strong>(</strong><strong>第</strong><strong>374G</strong><strong>章</strong><strong>)</strong></span></div>\n<div style=\"text-align: center;\"><strong><u>葵涌禾塘咀街臨時限制區<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 本人現行使《道路交通(交通管制)規例》(第374G章)第14(1)(b)條所賦予的權力，下令由2026年8月10日上午10時起，至2026年12月14日下午6時止，下列路段將全日24小時暫劃為限制區：</"
     },
     {
       "feed": "Public Transports",
@@ -7745,13 +7696,6 @@
     },
     {
       "feed": "Public Transports",
-      "title_en": "Temporary Relocation of Bus Stop on Kwun Tong Road, Kwun Tong",
-      "title_tc": "臨時遷移觀塘道巴士站",
-      "content_en": "<div style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE</span></u></strong></div>\n<div style=\"text-align: center;\"><span> </span></div>\n<div style=\"text-align: center;\"><strong><u><span>Temporary Relocation of Bus Stop on Kwun Tong Road, Kwun Tong </span></u></strong></div>\n<p><span><br />&nbsp; &nbsp; &nbsp; Members of the public are advised that to facilitate the construction works of Kwun Tong Composite Development Project, the bus stops on Kwun Tong Road eastbound near Exit D1 of Kw",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>臨時遷移觀塘道巴士站</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; 公眾人士請注意，為配合觀塘綜合發展項目的建築工程，城巴第N29號線及過海隧巴第N619號線位於觀塘道(東行)近觀塘站D1出口的巴士站將於2026年6月23日至2026年11月18日期間每日晚上12時30分至上午5時30分，分別臨時向西遷移約35及70米。</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp;公共交通營辦商會張貼通告，通知乘客上述安排。</p>"
-    },
-    {
-      "feed": "Public Transports",
       "title_en": "Adjustment of Interchange Concession of Kowloon Green Minibus (GMB) Route Nos. 71A and 71B",
       "title_tc": "九龍專線小巴第71A及71B號線轉乘優惠調整",
       "content_en": "<div style=\"text-align: center;\"><strong><u><span>TRAFFIC ADVICE</span></u></strong></div>\n<div style=\"text-align: center;\"><span> </span></div>\n<div style=\"text-align: center;\"><strong><u>Adjustment of Interchange Concession of </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Kowloon Green Minibus (GMB) Route Nos. 71A and 71B</u></strong></div>\n<p><span><br />&nbsp; &nbsp; &nbsp; &nbsp; Passengers are advised that, with effect from 21 June 2026 (Sunday), the interchange concessio",
@@ -8046,6 +7990,13 @@
     },
     {
       "feed": "Public Transports",
+      "title_en": "Service Adjustment of KMB Route No. 91S",
+      "title_tc": "九巴第91S號線服務調整",
+      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Service Adjustment of KMB Route No. 91S<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that, with effect from 22 May 2023 (Monday), the terminating point of KMB Route No. 91S will be extended to Tseung Kwan O Tunnel Bus-Bus Interchange and the number of departures",
+      "content_tc": "<div style=\"text-align: center;\">\n<p><strong><u>交通通告<br /></u></strong><strong><u>九巴第</u></strong><strong><u>91S</u></strong><strong><u>號線</u></strong><strong><u>服務調整</u></strong></p>\n</div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，由2023年5月22日(星期一)起，九巴第91S號線將延長總站至將軍澳隧道巴士轉乘站，由清水灣開出的班次將由現時兩班增加至三班，詳情如下：</p>\n<table border=\"1\" style=\"border-collapse: collapse; width: 80.1843%; border-style: solid; m"
+    },
+    {
+      "feed": "Public Transports",
       "title_en": "Service Adjustment of Cross Harbour Route No. 690S",
       "title_tc": "過海隧巴第690S號線服務調整",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Service Adjustment </u></strong><strong><u>of Cross Harbour Route No. 690S<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that, with effect from 22 May 2023 (Monday), The operating hours of Cross Harbour Route No. 690S (Hang Hau &ndash; Central (Exchange Square)) will be extended during morning peak hours. The departure times f",
@@ -8099,13 +8050,6 @@
       "title_tc": "臨時遷移馬鞍山西沙路近頌安邨的巴士及專線小巴站",
       "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong> </strong></div>\n<div style=\"text-align: center;\"><strong><u><span>Temporary Relocation of Bus and Green Minibus (GMB) Stops on Sai Sha Road</span></u></strong></div>\n<div style=\"text-align: center;\"><strong><u><span>near Chung On Estate, Ma On Shan</span></u></strong></div>\n<p><span> </span></p>\n<p style=\"text-align: justify;\">&nbsp; &nbsp; &nbsp; &nbsp; Members of the public a",
       "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u>臨時遷移馬鞍山西沙路近頌安邨的巴士及專線小巴站</u></strong></div>\n<p><u><span> </span></u></p>\n<p><span></span>&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，為配合道路工程，位於西沙路北行近頌安邨的巴士及專線小巴站，將於<span>2026</span>年<span>11</span>月<span>21</span>日上午<span>10</span>時至<span>2027</span>年<span>11</span>月<span>20</span>日下午<span>6</span>時臨時遷移，詳情如下：</p>\n<p><span> </span></p>\n<table width=\"605\" border=\"1\" height=\"263\" style=\"border-col"
-    },
-    {
-      "feed": "Public Transports",
-      "title_en": "Temporary Closure of Ma On Shan Public Transport Terminus",
-      "title_tc": "臨時封閉馬鞍山公共運輸總站",
-      "content_en": "<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Traffic Advice</strong></span></div>\n<div style=\"text-align: center;\"><span style=\"text-decoration: underline;\"><strong>Temporary Closure of Ma On Shan Public Transport Terminus<br /><br /></strong></span></div>\n<p>Member of the public are advised that, in order to facilitate works, the Ma On Shan Public Transport Terminus will be temporary closed for the period between 0100 a.m. and 0500 a.m. on 18 November 2026.",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>臨時封閉馬鞍山公共運輸總站<br /><br /></u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: justify;\">公眾人士請注意，為配合工程，馬鞍山公共運輸總站將於2026年11月18日，凌晨1時至早上5時臨時封閉。在馬鞍山公共運輸總站臨時封閉期間，通宵巴士服務第N680(往港島方向)及N281(往九龍方向)號線位於該公共運輸總站的中途站將臨時遷往該公共運輸總站外的西沙路。</div>\n<div style=\"text-align: justify;\"></div>\n"
     },
     {
       "feed": "Public Transports",
@@ -8197,6 +8141,13 @@
       "title_tc": "永久遷移沙田香粉寮街巴士及小巴站",
       "content_en": "<div style=\"text-align: center;\"><strong>Traffic Advice</strong></div>\n<div style=\"text-align: center;\"><strong><u>Permanent Relocation of Bus and GMB Stop on Heung Fan Liu Street, Sha Tin</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that the bus and GMB stop on Heung Fan Liu Street westbound will be permanently relocated upon the completion of road works at 8.00 am on 27 June 2026. Details are as follows:</p>\n<table width=\"103%\" style=\"border-collaps",
       "content_tc": "<div style=\"text-align: center;\"><strong>交通通告</strong></div>\n<div style=\"text-align: center;\"><strong><u>永久</u></strong><strong><u>遷移沙田</u></strong><strong><u>香粉寮街巴士及</u></strong><strong><u>小巴站</u></strong></div>\n<p><br />&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，位於香粉寮街（西行）的巴士及小巴站將隨著道路工程於2026年<span>6</span>月<span>27</span>日上午<span>8</span>時完成而永久遷移，詳情如下︰</p>\n<table width=\"100%\" style=\"border-collapse: collapse; width: 53.7667%; height: 167px; border-color: #000000; border-style: solid; margin-left: aut"
+    },
+    {
+      "feed": "Public Transports",
+      "title_en": "Service adjustment of KMB Route No. 286C  (Lee On – Hoi Tat Public Transport Interchange)",
+      "title_tc": "九巴第286C號線(利安-長沙灣(海達邨))服務調整",
+      "content_en": "<div style=\"text-align: center;\"><strong><u><span>Traffic Advice</span></u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Service adjustment of KMB Route No. 286C </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>(Lee On &ndash; Hoi Tat Public Transport Interchange)</u></strong></div>\n<p><span> </span></p>\n<p style=\"text-align: justify;\"><span>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that the service hour of KMB Route No. 286C from Hoi Tat Public T",
+      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>九巴第</u></strong><strong><u>286C</u></strong><strong><u>號線</u></strong><strong><u>(</u></strong><strong><u>利安</u></strong><strong><u>-</u></strong><strong><u>長沙灣</u></strong><strong><u>(</u></strong><strong><u>海達邨</u></strong><strong><u>))</u></strong><strong><u>服</u></strong><strong><u>務</u></strong><strong><u>調整</u></str"
     },
     {
       "feed": "Public Transports",
@@ -9800,20 +9751,6 @@
       "title_tc": "電車車費調整",
       "content_en": "<p><strong> </strong></p>\n<p style=\"text-align: center;\"><strong><span style=\"text-decoration: underline;\">Traffic Advice<br /></span></strong><strong><span style=\"text-decoration: underline;\">Revision of Tram Fares</span></strong></p>\n<p>Members of the public are advised that the tram fares will be revised with effect from 12 May 2025 (Monday) as follows:-</p>\n<table border=\"2\" style=\"border-collapse: collapse; width: 54.7066%; height: 191px; float: left;\">\n<tbody>\n<tr>\n<td width=\"227\" style=\"w",
       "content_tc": "<p><strong> </strong></p>\n<p style=\"text-align: center;\"><strong><u>交通通告<br /></u></strong><strong style=\"text-align: center;\"><u>電車車費調整</u></strong></p>\n<p>公眾人士請注意，電車車費將由2025年5月12日（星期一）起作出調整，詳情如下：</p>\n<table width=\"42.4888%\" height=\"416\" border=\"2\" style=\"border-collapse: collapse; width: 58.6626%; height: 40px; float: left;\">\n<tbody>\n<tr style=\"height: 10px;\">\n<td width=\"226\" style=\"width: 32.8832%; text-align: center; height: 10px;\"><strong>乘</strong><strong>客</strong><strong>組別</strong><stro"
-    },
-    {
-      "feed": "Public Transports",
-      "title_en": "Service Adjustment of KMB Route No. 91S",
-      "title_tc": "九巴第91S號線服務調整",
-      "content_en": "<div style=\"text-align: center;\"><strong><u>Traffic Advice</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Service Adjustment of KMB Route No. 91S<br /><br /></u></strong></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that, with effect from 22 May 2023 (Monday), the terminating point of KMB Route No. 91S will be extended to Tseung Kwan O Tunnel Bus-Bus Interchange and the number of departures",
-      "content_tc": "<div style=\"text-align: center;\">\n<p><strong><u>交通通告<br /></u></strong><strong><u>九巴第</u></strong><strong><u>91S</u></strong><strong><u>號線</u></strong><strong><u>服務調整</u></strong></p>\n</div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"></div>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; 公眾人士請注意，由2023年5月22日(星期一)起，九巴第91S號線將延長總站至將軍澳隧道巴士轉乘站，由清水灣開出的班次將由現時兩班增加至三班，詳情如下：</p>\n<table border=\"1\" style=\"border-collapse: collapse; width: 80.1843%; border-style: solid; m"
-    },
-    {
-      "feed": "Public Transports",
-      "title_en": "Service adjustment of KMB Route No. 286C  (Lee On – Hoi Tat Public Transport Interchange)",
-      "title_tc": "九巴第286C號線(利安-長沙灣(海達邨))服務調整",
-      "content_en": "<div style=\"text-align: center;\"><strong><u><span>Traffic Advice</span></u></strong></div>\n<div style=\"text-align: center;\"><strong><u>Service adjustment of KMB Route No. 286C </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>(Lee On &ndash; Hoi Tat Public Transport Interchange)</u></strong></div>\n<p><span> </span></p>\n<p style=\"text-align: justify;\"><span>&nbsp; &nbsp; &nbsp; &nbsp; Members of the public are advised that the service hour of KMB Route No. 286C from Hoi Tat Public T",
-      "content_tc": "<div style=\"text-align: center;\"><strong><u>交通通告</u></strong></div>\n<div style=\"text-align: center;\"><strong><u> </u></strong></div>\n<div style=\"text-align: center;\"><strong><u>九巴第</u></strong><strong><u>286C</u></strong><strong><u>號線</u></strong><strong><u>(</u></strong><strong><u>利安</u></strong><strong><u>-</u></strong><strong><u>長沙灣</u></strong><strong><u>(</u></strong><strong><u>海達邨</u></strong><strong><u>))</u></strong><strong><u>服</u></strong><strong><u>務</u></strong><strong><u>調整</u></str"
     }
   ]
 }
