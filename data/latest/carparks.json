@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:50:14+08:00",
+  "updated_at": "2026-11-20T01:53:46+08:00",
   "park_count": 590,
   "parks": {
     "12": {
@@ -5222,6 +5222,26 @@
         "CV": null
       }
     },
+    "tdstt162": {
+      "park_id": "tdstt162",
+      "name_en": "Value Parking Hoi Yu Street No. 2",
+      "name_tc": "威利停車場海裕街2號場",
+      "district_en": "Eastern",
+      "district_tc": "東區",
+      "displayAddress_en": "Hoi Yu Street, Quarry Bay, Hong Kong",
+      "displayAddress_tc": "香港鰂魚涌海裕街",
+      "latitude": 22.291000586822,
+      "longitude": 114.21274915078,
+      "opening_status": "CLOSED",
+      "spaces": {
+        "privateCar": null,
+        "motorCycle": null,
+        "LGV": null,
+        "HGV": null,
+        "coach": null,
+        "CV": null
+      }
+    },
     "tdc34p1": {
       "park_id": "tdc34p1",
       "name_en": "On Tat Estate Car park",
@@ -6202,16 +6222,16 @@
         "CV": null
       }
     },
-    "tdc378p1": {
-      "park_id": "tdc378p1",
-      "name_en": "Ap Lei Chau Waterfront Promenade Car Park",
+    "tdc435p1": {
+      "park_id": "tdc435p1",
+      "name_en": "Ap Lei Chau Waterfront Promenade",
       "name_tc": "鴨脷洲海濱長廊停車場",
       "district_en": "Southern",
       "district_tc": "南區",
-      "displayAddress_en": "Wah Ting Street, Ap Lei Chau",
-      "displayAddress_tc": "鴨脷洲華庭街",
-      "latitude": 22.244814918778,
-      "longitude": 114.1550685537,
+      "displayAddress_en": "Wah Ting Street, Ap Lei Chau, Hong Kong",
+      "displayAddress_tc": "香港島鴨脷洲華庭街",
+      "latitude": 22.244770357266,
+      "longitude": 114.15511515695,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
@@ -11432,26 +11452,6 @@
       "displayAddress_tc": "九龍慈雲山樂華街",
       "latitude": 22.348697844578,
       "longitude": 114.20518185989,
-      "opening_status": "CLOSED",
-      "spaces": {
-        "privateCar": null,
-        "motorCycle": null,
-        "LGV": null,
-        "HGV": null,
-        "coach": null,
-        "CV": null
-      }
-    },
-    "tdstt141": {
-      "park_id": "tdstt141",
-      "name_en": "Hoi Yu Street Car Park",
-      "name_tc": "海裕街停車場",
-      "district_en": "Eastern",
-      "district_tc": "東區",
-      "displayAddress_en": "Hoi Yu Street, Quarry Bay, Hong Kong",
-      "displayAddress_tc": "香港鰂魚涌海裕街",
-      "latitude": 22.291090080398,
-      "longitude": 114.21257992045,
       "opening_status": "CLOSED",
       "spaces": {
         "privateCar": null,
