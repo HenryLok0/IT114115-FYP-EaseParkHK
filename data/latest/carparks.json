@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T05:12:11+08:00",
+  "updated_at": "2026-11-19T16:50:14+08:00",
   "park_count": 590,
   "parks": {
     "12": {
@@ -454,8 +454,8 @@
       "longitude": 114.1980958,
       "opening_status": "OPEN",
       "spaces": {
-        "privateCar": 0,
-        "motorCycle": 0,
+        "privateCar": 334,
+        "motorCycle": 34,
         "LGV": 0,
         "HGV": 0,
         "coach": 0,
