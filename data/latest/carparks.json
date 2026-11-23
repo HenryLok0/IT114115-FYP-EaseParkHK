@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T01:53:46+08:00",
+  "updated_at": "2026-11-24T01:59:22+08:00",
   "park_count": 590,
   "parks": {
     "12": {
@@ -10764,7 +10764,7 @@
     },
     "tdc330p1": {
       "park_id": "tdc330p1",
-      "name_en": "Vcity Commerical Carpark",
+      "name_en": "Vcity Commercial Carpark",
       "name_tc": "Vcity 商業停車場",
       "district_en": "Tuen Mun",
       "district_tc": "屯門區",
